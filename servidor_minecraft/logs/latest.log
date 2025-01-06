@@ -1,209 +1,113 @@
-[22:14:21] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[22:14:24] [ServerMain/INFO]: Loaded 7 recipes
-[22:14:25] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[22:14:25] [Server thread/INFO]: Loading properties
-[22:14:25] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[22:14:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:14:26] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:14:26] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[22:53:53] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[22:53:58] [ServerMain/INFO]: Loaded 7 recipes
+[22:54:00] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[22:54:00] [Server thread/INFO]: Loading properties
+[22:54:00] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[22:54:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:54:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:54:02] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[22:14:26] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[22:14:27] [Server thread/INFO]: Default game type: SURVIVAL
-[22:14:27] [Server thread/INFO]: Generating keypair
-[22:14:27] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:14:27] [Server thread/INFO]: Using epoll channel type
-[22:14:27] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[22:14:27] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[22:14:28] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[22:14:28] [Server thread/INFO]: [UltimateTimber] Loading server plugin UltimateTimber v3.4.0
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.mariadb.jdbc:mariadb-java-client:3.2.0 from https://repo1.maven.org/maven2
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'mariadb-java-client-3.2.0' successfully.
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.h2database:h2:1.4.200 from https://repo1.maven.org/maven2
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'h2-1.4.200' successfully.
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.apache.commons:commons-lang3:3.14.0 from https://repo1.maven.org/maven2
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'commons-lang3-3.14.0' successfully.
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.jooq:jooq:3.14.16 from https://repo1.maven.org/maven2
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'jooq-3.14.16' successfully.
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.github.cryptomorin:XSeries:12.0.0 from https://repo1.maven.org/maven2
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'XSeries-12.0.0' successfully.
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.zaxxer:HikariCP:4.0.3 from https://repo1.maven.org/maven2
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'HikariCP-4.0.3' successfully.
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.apache.commons:commons-text:1.12.0 from https://repo1.maven.org/maven2
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'commons-text-1.12.0' successfully.
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.slf4j:slf4j-api:2.0.11 from https://repo1.maven.org/maven2
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'slf4j-api-2.0.11' successfully.
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.reactivestreams:reactive-streams:1.0.2 from https://repo1.maven.org/maven2
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'reactive-streams-1.0.2' successfully.
-[22:14:28] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[22:14:28] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:14:28] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[22:14:29] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[22:14:29] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[22:14:30] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[22:14:30] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[22:14:30] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[22:14:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:14:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:14:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[22:14:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:14:30] [Server thread/INFO]: Preparing level "world"
-[22:14:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[22:14:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[22:14:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[22:14:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[22:14:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[22:14:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[22:14:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[22:14:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
-[22:14:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
-[22:14:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[22:14:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[22:14:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[22:14:30] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[22:14:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:14:31] [Server thread/INFO]: Time elapsed: 499 ms
-[22:14:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:14:32] [Server thread/INFO]: Time elapsed: 115 ms
-[22:14:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:14:32] [Server thread/INFO]: Time elapsed: 83 ms
-[22:14:32] [Server thread/INFO]: [UltimateTimber] Enabling UltimateTimber v3.4.0
-[22:14:32] [Server thread/INFO]:  
-[22:14:32] [Server thread/INFO]: =============================
-[22:14:32] [Server thread/INFO]: UltimateTimber 3.4.0 by Songoda <3!
-[22:14:32] [Server thread/INFO]: Action: Enabling...
-[22:14:32] [Server thread/INFO]: [UltimateTimber] Loaded locale "en_US"
-[22:14:32] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] [CraftaroCore] Hooked UltimateTimber.
-[22:14:33] [Server thread/INFO]: =============================
-[22:14:33] [Server thread/INFO]:  
-[22:14:33] [Server thread/INFO]: Running delayed init tasks
-[22:14:33] [Server thread/INFO]: Done (7.812s)! For help, type "help"
-[22:14:33] [Server thread/INFO]: Timings Reset
-[22:15:19] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
-[22:15:19] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
-[22:15:19] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:15:19] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:15:20] [Server thread/INFO]: [UltimateTimber] Disabling UltimateTimber v3.4.0
-[22:15:20] [Server thread/INFO]:  
-[22:15:20] [Server thread/INFO]: =============================
-[22:15:20] [Server thread/INFO]: UltimateTimber 3.4.0 by Songoda <3!
-[22:15:20] [Server thread/INFO]: Action: Disabling...
-[22:15:20] [Server thread/INFO]: =============================
-[22:15:20] [Server thread/INFO]:  
-[22:15:20] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[22:15:20] [Server thread/INFO]: Loaded 7 recipes
-[22:15:21] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[22:15:21] [Server thread/INFO]: [UltimateTimber] Loading server plugin UltimateTimber v3.4.0
-[22:15:21] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:15:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[22:15:21] [Server thread/ERROR]: [SkinsRestorer] SkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.
-[22:15:21] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[22:15:21] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[22:15:22] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[22:15:22] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[22:15:22] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[22:15:22] [Server thread/INFO]: [UltimateTimber] Enabling UltimateTimber v3.4.0
-[22:15:22] [Server thread/INFO]:  
-[22:15:22] [Server thread/INFO]: =============================
-[22:15:22] [Server thread/INFO]: UltimateTimber 3.4.0 by Songoda <3!
-[22:15:22] [Server thread/INFO]: Action: Enabling...
-[22:15:22] [Server thread/INFO]: [UltimateTimber] Loaded locale "en_US"
-[22:15:22] [Server thread/INFO]: =============================
-[22:15:22] [Server thread/INFO]:  
-[22:15:22] [Server thread/INFO]: CONSOLE: Reload complete.
-[22:15:22] [Server thread/INFO]: Timings Reset
-[22:15:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[22:15:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[22:15:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[22:15:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |------------------|
-[22:15:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[22:15:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     +==================+
-[22:15:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[22:15:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Version: 15.5.1
-[22:15:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     Commit: d5d8613
-[22:15:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer]     This is the latest version!
-[22:15:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] ----------------------------------------------
-[22:15:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[22:15:22] [Folia Async Scheduler Thread #3/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[22:15:27] [User Authenticator #0/INFO]: UUID of player santino56 is 6bb58f52-6196-3a51-8904-6101b5e16439
-[22:15:27] [Server thread/INFO]: santino56 joined the game
-[22:15:27] [Server thread/INFO]: santino56[/127.61.141.240:40535] logged in with entity id 219 at ([world]596.382836518633, 66.92159999847412, -287.69155857711957)
-[22:15:50] [Server thread/INFO]: Server Plugins (2):
-[22:15:50] [Server thread/INFO]: Bukkit Plugins:
-[22:15:50] [Server thread/INFO]:  - SkinsRestorer, UltimateTimber
-[22:16:02] [Thread-15/INFO]: [SkinsRestorer] Error: Only players may execute this command!
-[22:16:10] [User Authenticator #0/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
-[22:16:10] [Server thread/INFO]: Gary_750 joined the game
-[22:16:10] [Server thread/INFO]: Gary_750[/127.182.125.247:56653] logged in with entity id 414 at ([world]487.49824394222395, 76.83999997377396, -104.01732010342593)
-[22:16:13] [Server thread/INFO]: santino56 was slain by Iron Golem
-[22:16:24] [Server thread/INFO]: Gary_750 lost connection: Disconnected
-[22:16:24] [Server thread/INFO]: Gary_750 left the game
-[22:16:50] [User Authenticator #0/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
-[22:16:50] [Server thread/INFO]: Gary_750 joined the game
-[22:16:50] [Server thread/INFO]: Gary_750[/127.182.125.247:36069] logged in with entity id 905 at ([world]501.72674269255293, 77.0, -114.71679032683686)
-[22:17:54] [User Authenticator #1/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
-[22:17:54] [Server thread/INFO]: Lewis_Sema joined the game
-[22:17:54] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:37365] logged in with entity id 1454 at ([world]472.7849486314586, 77.0, -97.18731011615372)
-[22:17:57] [User Authenticator #1/INFO]: UUID of player CafecitoOcuo is 81e269ff-a530-32e1-be29-883c266903f3
-[22:17:57] [Server thread/INFO]: CafecitoOcuo joined the game
-[22:17:57] [Server thread/INFO]: CafecitoOcuo[/127.107.184.223:38597] logged in with entity id 1650 at ([world]482.44587643999273, 77.0, -105.3893293493307)
-[22:18:04] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[22:18:04] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[22:18:45] [Server thread/INFO]: Gary_750 issued server command: /tp a santino56
-[22:18:50] [Server thread/INFO]: Gary_750 issued server command: /tp @a santino56
-[22:18:50] [Server thread/INFO]: [Gary_750: Teleported 4 entities to santino56]
-[22:20:00] [Server thread/INFO]: Lewis_Sema has made the advancement [Acquire Hardware]
-[22:20:08] [Server thread/INFO]: Gary_750 issued server command: /weather clear
-[22:20:08] [Server thread/INFO]: [Gary_750: Set the weather to clear]
-[22:20:31] [Server thread/INFO]: CafecitoOcuo has made the advancement [Getting an Upgrade]
-[22:20:31] [Server thread/INFO]: Gary_750 was slain by Iron Golem
-[22:21:16] [Server thread/INFO]: Lewis_Sema has made the advancement [Isn't It Iron Pick]
-[22:21:34] [Server thread/INFO]: CafecitoOcuo has made the advancement [Stone Age]
-[22:22:12] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
-[22:22:12] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
-[22:23:04] [Server thread/INFO]: Gary_750 has made the advancement [We Need to Go Deeper]
-[22:23:12] [Server thread/INFO]: Gary_750 issued server command: /gamerule keepInventory
-[22:23:16] [Server thread/INFO]: Gary_750 issued server command: /gamerule keepInventory true
-[22:23:16] [Server thread/INFO]: [Gary_750: Gamerule keepInventory is now set to: true]
-[22:24:24] [Server thread/INFO]: Gary_750 was slain by Iron Golem
-[22:25:50] [Server thread/INFO]: Gary_750 has made the advancement [What a Deal!]
-[22:26:28] [Server thread/INFO]: santino56 was slain by Iron Golem
-[22:26:31] [Server thread/INFO]: santino56 was slain by Iron Golem
-[22:26:36] [Server thread/INFO]: santino56 was slain by Iron Golem
-[22:26:39] [Server thread/INFO]: santino56 was slain by Iron Golem
-[22:26:42] [Server thread/INFO]: santino56 was slain by Iron Golem
-[22:26:49] [Server thread/INFO]: santino56 was slain by Iron Golem
-[22:26:51] [Server thread/INFO]: santino56 was slain by Iron Golem
-[22:29:49] [Server thread/INFO]: Gary_750 was slain by Iron Golem
-[22:32:11] [Server thread/INFO]: Lewis_Sema has made the advancement [Suit Up]
-[22:32:39] [Server thread/INFO]: Villager EntityVillager['Farmer'/90, uuid='c8d9ee5f-df61-48d1-b61a-86e6a8b9f251', l='ServerLevel[world]', x=553.50, y=64.00, z=-306.49, cpos=[34, -20], tl=95187, v=true] died, message: 'Farmer was slain by Gary_750'
-[22:34:32] [Server thread/INFO]: CafecitoOcuo has made the advancement [Acquire Hardware]
-[22:34:55] [User Authenticator #2/INFO]: UUID of player alfo_soliz is 39268067-8c92-370a-9cd2-0acf9082c21c
-[22:34:55] [Server thread/INFO]: alfo_soliz joined the game
-[22:34:55] [Server thread/INFO]: alfo_soliz[/127.6.49.78:49715] logged in with entity id 11734 at ([world]500.5, 77.0, -119.5)
-[22:34:57] [Server thread/INFO]: Gary_750 has made the advancement [Suit Up]
-[22:35:26] [Server thread/INFO]: Gary_750 issued server command: /clear alfo_soliz
-[22:36:05] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure alfo_soliz
-[22:36:05] [Server thread/INFO]: [Gary_750: Set alfo_soliz's game mode to Adventure Mode]
-[22:37:18] [Server thread/INFO]: alfo_soliz has made the advancement [Best Friends Forever]
-[22:37:44] [Server thread/INFO]: santino56 has made the advancement [Ice Bucket Challenge]
-[22:37:47] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival @a
-[22:37:47] [Server thread/INFO]: [Gary_750: Set alfo_soliz's game mode to Survival Mode]
-[22:38:04] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz CafecitoOcuo
-[22:38:04] [Server thread/INFO]: [Lewis_Sema: Teleported alfo_soliz to CafecitoOcuo]
-[22:38:13] [Server thread/INFO]: Gary_750 was slain by Iron Golem
-[22:38:26] [Server thread/INFO]: alfo_soliz was slain by CafecitoOcuo
-[22:38:53] [Server thread/INFO]: santino56 lost connection: Disconnected
-[22:38:53] [Server thread/INFO]: santino56 left the game
-[22:41:43] [Server thread/INFO]: CafecitoOcuo has made the advancement [Monster Hunter]
-[22:42:12] [Server thread/INFO]: Lewis_Sema has made the advancement [Diamonds!]
-[22:43:03] [Server thread/INFO]: Gary_750 lost connection: Disconnected
-[22:43:03] [Server thread/INFO]: Gary_750 left the game
+[22:54:02] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[22:54:03] [Server thread/INFO]: Default game type: SURVIVAL
+[22:54:03] [Server thread/INFO]: Generating keypair
+[22:54:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:54:04] [Server thread/INFO]: Using epoll channel type
+[22:54:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:54:05] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[22:54:05] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[22:54:05] [Server thread/INFO]: [UltimateTimber] Loading server plugin UltimateTimber v3.4.0
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.slf4j:slf4j-api:2.0.11 from https://repo1.maven.org/maven2
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'slf4j-api-2.0.11' successfully.
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.zaxxer:HikariCP:4.0.3 from https://repo1.maven.org/maven2
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'HikariCP-4.0.3' successfully.
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.github.cryptomorin:XSeries:12.0.0 from https://repo1.maven.org/maven2
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'XSeries-12.0.0' successfully.
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.mariadb.jdbc:mariadb-java-client:3.2.0 from https://repo1.maven.org/maven2
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'mariadb-java-client-3.2.0' successfully.
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.h2database:h2:1.4.200 from https://repo1.maven.org/maven2
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'h2-1.4.200' successfully.
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.apache.commons:commons-lang3:3.14.0 from https://repo1.maven.org/maven2
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'commons-lang3-3.14.0' successfully.
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.reactivestreams:reactive-streams:1.0.2 from https://repo1.maven.org/maven2
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'reactive-streams-1.0.2' successfully.
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.jooq:jooq:3.14.16 from https://repo1.maven.org/maven2
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'jooq-3.14.16' successfully.
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.apache.commons:commons-text:1.12.0 from https://repo1.maven.org/maven2
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'commons-text-1.12.0' successfully.
+[22:54:05] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[22:54:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:54:06] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[22:54:07] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[22:54:08] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[22:54:08] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:54:09] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[22:54:09] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[22:54:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:54:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:54:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:54:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:54:09] [Server thread/INFO]: Preparing level "world"
+[22:54:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:54:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:54:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:54:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:54:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:54:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:54:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:54:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[22:54:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[22:54:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:54:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:54:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:54:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:54:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:54:11] [Server thread/INFO]: Time elapsed: 1318 ms
+[22:54:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:54:11] [Server thread/INFO]: Time elapsed: 91 ms
+[22:54:11] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:54:11] [Server thread/INFO]: Time elapsed: 67 ms
+[22:54:11] [Server thread/INFO]: [UltimateTimber] Enabling UltimateTimber v3.4.0
+[22:54:11] [Server thread/INFO]:  
+[22:54:11] [Server thread/INFO]: =============================
+[22:54:11] [Server thread/INFO]: UltimateTimber 3.4.0 by Songoda <3!
+[22:54:11] [Server thread/INFO]: Action: Enabling...
+[22:54:11] [Server thread/INFO]: [UltimateTimber] Loaded locale "en_US"
+[22:54:12] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] [CraftaroCore] Hooked UltimateTimber.
+[22:54:13] [Server thread/INFO]: =============================
+[22:54:13] [Server thread/INFO]:  
+[22:54:13] [Server thread/INFO]: Running delayed init tasks
+[22:54:13] [Server thread/INFO]: Done (13.117s)! For help, type "help"
+[22:54:13] [Server thread/INFO]: Timings Reset
+[22:54:18] [User Authenticator #0/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
+[22:54:18] [Server thread/INFO]: Lewis_Sema joined the game
+[22:54:19] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:48993] logged in with entity id 48 at ([world]471.27872773236896, -25.0, -433.4485871594896)
+[22:54:30] [User Authenticator #0/INFO]: UUID of player alfo_soliz is 39268067-8c92-370a-9cd2-0acf9082c21c
+[22:54:30] [Server thread/INFO]: alfo_soliz joined the game
+[22:54:30] [Server thread/INFO]: alfo_soliz[/127.6.49.78:58265] logged in with entity id 237 at ([world]554.6833725893748, 64.0, -309.69120980279416)
+[22:54:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5066ms or 101 ticks behind
+[22:54:38] [Server thread/INFO]: alfo_soliz has made the advancement [Sweet Dreams]
+[22:55:33] [User Authenticator #1/INFO]: UUID of player CafecitoOcuo is 81e269ff-a530-32e1-be29-883c266903f3
+[22:55:33] [Server thread/INFO]: CafecitoOcuo joined the game
+[22:55:33] [Server thread/INFO]: CafecitoOcuo[/127.107.184.223:56501] logged in with entity id 769 at ([world]563.527428378256, -10.0, -357.86076937944716)
+[22:56:02] [Server thread/INFO]: alfo_soliz has made the advancement [Stone Age]
+[22:57:34] [Server thread/WARN]: Lewis_Sema moved too quickly! -6.386175315954631,-1.204600378443459,-7.731653307950353
+[22:57:56] [Server thread/INFO]: CafecitoOcuo has made the advancement [Isn't It Iron Pick]
+[22:59:14] [Server thread/INFO]: CafecitoOcuo has made the advancement [Diamonds!]
+[23:00:52] [User Authenticator #2/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
+[23:00:52] [Server thread/INFO]: Gary_750 joined the game
+[23:00:52] [Server thread/INFO]: Gary_750[/127.182.125.247:51399] logged in with entity id 2101 at ([world]603.026040880642, -6.0, -615.5060575150075)
+[23:02:09] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo
+[23:02:09] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to CafecitoOcuo]
+[23:02:27] [Server thread/INFO]: Gary_750 issued server command: /difficulty hard
+[23:02:27] [Server thread/INFO]: [Gary_750: The difficulty has been set to Hard]
+[23:03:12] [Server thread/INFO]: Gary_750 issued server command: /difficulty hard
+[23:03:14] [Server thread/INFO]: Gary_750 tried to swim in lava
