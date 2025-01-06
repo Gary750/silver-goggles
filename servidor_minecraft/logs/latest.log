@@ -105,3 +105,22 @@
 [21:21:34] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:56471] logged in with entity id 4080 at ([world]565.1870124668291, 70.0, -52.231823131266815)
 [21:23:56] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
 [21:23:56] [Server thread/INFO]: Lewis_Sema left the game
+[21:25:46] [Server thread/INFO]: Gary_750 has made the advancement [Acquire Hardware]
+[21:26:19] [User Authenticator #4/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
+[21:26:19] [Server thread/INFO]: Lewis_Sema joined the game
+[21:26:19] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:59967] logged in with entity id 5846 at ([world]600.4711409736904, 67.0, -43.46236066902405)
+[21:26:53] [Server thread/INFO]: Gary_750 issued server command: /op Lewis_Sema
+[21:26:53] [Server thread/INFO]: [Gary_750: Made Lewis_Sema a server operator]
+[21:27:27] [Server thread/INFO]: Lewis_Sema issued server command: /tp santino56
+[21:27:27] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to santino56]
+[21:28:36] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
+[21:28:36] [Server thread/INFO]: Lewis_Sema left the game
+[21:30:21] [Server thread/INFO]: Gary_750 has made the advancement [Sweet Dreams]
+[21:30:32] [Server thread/INFO]: Gary_750 issued server command: /gamerule playersSleepingPercentage 1
+[21:30:32] [Server thread/INFO]: [Gary_750: Gamerule playersSleepingPercentage is now set to: 1]
+[21:30:42] [Server thread/INFO]: Gary_750 was slain by Iron Golem
+[21:31:25] [User Authenticator #5/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
+[21:31:25] [Server thread/INFO]: Lewis_Sema joined the game
+[21:31:25] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:51535] logged in with entity id 6790 at ([world]477.05729851720565, 68.0, -234.62112474993444)
+[21:32:01] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
+[21:32:01] [Server thread/INFO]: Lewis_Sema left the game
