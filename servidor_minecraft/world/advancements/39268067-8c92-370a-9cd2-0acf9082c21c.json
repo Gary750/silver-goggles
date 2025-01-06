@@ -195,6 +195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-01-06 23:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-01-06 23:01:26 +0000"
@@ -318,6 +324,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-01-06 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-06 23:11:32 +0000"
     },
     "done": true
   },
@@ -464,7 +476,8 @@
       "chicken": "2025-01-06 23:07:25 +0000",
       "beef": "2025-01-06 23:01:57 +0000",
       "mutton": "2025-01-06 23:00:31 +0000",
-      "rotten_flesh": "2025-01-06 22:58:04 +0000"
+      "rotten_flesh": "2025-01-06 22:58:04 +0000",
+      "cooked_salmon": "2025-01-06 23:13:22 +0000"
     },
     "done": false
   },
