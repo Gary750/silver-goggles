@@ -143,3 +143,17 @@
 [23:21:11] [Server thread/INFO]: alfo_soliz has made the advancement [Suit Up]
 [23:21:37] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
 [23:21:37] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
+[23:24:07] [Server thread/INFO]: alfo_soliz fell from a high place
+[23:25:08] [Server thread/INFO]: Gary_750 issued server command: /scoreboard objectives add vida health
+[23:25:08] [Server thread/INFO]: [Gary_750: Created new objective [vida]]
+[23:25:23] [Server thread/INFO]: Gary_750 issued server command: /scoreboard objectives setdisplay list vida
+[23:25:23] [Server thread/INFO]: [Gary_750: Set display slot list to show objective vida]
+[23:26:46] [User Authenticator #3/INFO]: UUID of player santino56 is 6bb58f52-6196-3a51-8904-6101b5e16439
+[23:26:46] [Server thread/INFO]: santino56 joined the game
+[23:26:46] [Server thread/INFO]: santino56[/127.61.141.240:57989] logged in with entity id 14452 at ([world]1227.2176558799194, 87.5625, -287.83887745021826)
+[23:27:13] [Server thread/INFO]: Gary_750 was slain by Iron Golem
+[23:27:23] [Server thread/INFO]: Gary_750 was slain by Iron Golem
+[23:27:33] [Server thread/INFO]: Gary_750 was slain by Iron Golem
+[23:30:01] [Server thread/INFO]: Gary_750 hit the ground too hard whilst trying to escape Iron Golem
+[23:30:07] [Server thread/INFO]: santino56 was slain by Iron Golem
+[23:30:24] [Server thread/INFO]: alfo_soliz has made the advancement [Monster Hunter]
