@@ -185,3 +185,25 @@
 [22:29:49] [Server thread/INFO]: Gary_750 was slain by Iron Golem
 [22:32:11] [Server thread/INFO]: Lewis_Sema has made the advancement [Suit Up]
 [22:32:39] [Server thread/INFO]: Villager EntityVillager['Farmer'/90, uuid='c8d9ee5f-df61-48d1-b61a-86e6a8b9f251', l='ServerLevel[world]', x=553.50, y=64.00, z=-306.49, cpos=[34, -20], tl=95187, v=true] died, message: 'Farmer was slain by Gary_750'
+[22:34:32] [Server thread/INFO]: CafecitoOcuo has made the advancement [Acquire Hardware]
+[22:34:55] [User Authenticator #2/INFO]: UUID of player alfo_soliz is 39268067-8c92-370a-9cd2-0acf9082c21c
+[22:34:55] [Server thread/INFO]: alfo_soliz joined the game
+[22:34:55] [Server thread/INFO]: alfo_soliz[/127.6.49.78:49715] logged in with entity id 11734 at ([world]500.5, 77.0, -119.5)
+[22:34:57] [Server thread/INFO]: Gary_750 has made the advancement [Suit Up]
+[22:35:26] [Server thread/INFO]: Gary_750 issued server command: /clear alfo_soliz
+[22:36:05] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure alfo_soliz
+[22:36:05] [Server thread/INFO]: [Gary_750: Set alfo_soliz's game mode to Adventure Mode]
+[22:37:18] [Server thread/INFO]: alfo_soliz has made the advancement [Best Friends Forever]
+[22:37:44] [Server thread/INFO]: santino56 has made the advancement [Ice Bucket Challenge]
+[22:37:47] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival @a
+[22:37:47] [Server thread/INFO]: [Gary_750: Set alfo_soliz's game mode to Survival Mode]
+[22:38:04] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz CafecitoOcuo
+[22:38:04] [Server thread/INFO]: [Lewis_Sema: Teleported alfo_soliz to CafecitoOcuo]
+[22:38:13] [Server thread/INFO]: Gary_750 was slain by Iron Golem
+[22:38:26] [Server thread/INFO]: alfo_soliz was slain by CafecitoOcuo
+[22:38:53] [Server thread/INFO]: santino56 lost connection: Disconnected
+[22:38:53] [Server thread/INFO]: santino56 left the game
+[22:41:43] [Server thread/INFO]: CafecitoOcuo has made the advancement [Monster Hunter]
+[22:42:12] [Server thread/INFO]: Lewis_Sema has made the advancement [Diamonds!]
+[22:43:03] [Server thread/INFO]: Gary_750 lost connection: Disconnected
+[22:43:03] [Server thread/INFO]: Gary_750 left the game
