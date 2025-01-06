@@ -124,3 +124,39 @@
 [21:31:25] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:51535] logged in with entity id 6790 at ([world]477.05729851720565, 68.0, -234.62112474993444)
 [21:32:01] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
 [21:32:01] [Server thread/INFO]: Lewis_Sema left the game
+[21:37:17] [Server thread/INFO]: Gary_750 has made the advancement [Isn't It Iron Pick]
+[21:37:26] [User Authenticator #6/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
+[21:37:26] [Server thread/INFO]: Lewis_Sema joined the game
+[21:37:26] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:33835] logged in with entity id 7606 at ([world]477.05729851720565, 68.0, -234.62112474993444)
+[21:38:37] [Server thread/INFO]: Villager EntityVillager['Nitwit'/329, uuid='5dc2bd5c-5ab5-47ae-9e91-dbe7a0df9e57', l='ServerLevel[world]', x=600.60, y=65.00, z=-287.45, cpos=[37, -18], tl=29933, v=true] died, message: 'Nitwit was slain by santino56'
+[21:38:42] [Server thread/INFO]: Villager EntityVillager['Nitwit'/337, uuid='52aa34dc-2945-4d99-8902-935b293b5e37', l='ServerLevel[world]', x=592.47, y=64.56, z=-283.19, cpos=[37, -18], tl=30619, v=true] died, message: 'Nitwit was slain by santino56'
+[21:38:51] [Server thread/INFO]: Villager EntityVillager['Nitwit'/345, uuid='929811ea-c295-428b-ad3c-469d6b2504eb', l='ServerLevel[world]', x=596.16, y=64.00, z=-287.23, cpos=[37, -18], tl=29693, v=true] died, message: 'Nitwit was slain by santino56'
+[21:39:31] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[21:39:31] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[21:39:46] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
+[21:39:46] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
+[21:40:49] [Server thread/INFO]: santino56 was slain by Iron Golem
+[21:41:06] [Server thread/INFO]: santino56 was slain by Iron Golem
+[21:41:11] [Server thread/INFO]: santino56 was slain by Iron Golem
+[21:41:13] [Server thread/INFO]: Lewis_Sema has made the advancement [Sweet Dreams]
+[21:41:56] [Server thread/INFO]: Lewis_Sema has made the advancement [Getting an Upgrade]
+[21:44:20] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
+[21:44:20] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
+[21:45:15] [Server thread/INFO]: santino56 has made the advancement [What a Deal!]
+[21:46:52] [Server thread/INFO]: Gary_750 has made the advancement [Diamonds!]
+[21:47:57] [Async Chat Thread - #1/INFO]: [Not Secure] <Gary_750> XD
+[21:48:07] [Async Chat Thread - #0/INFO]: [Not Secure] <Gary_750> no se me conecta el discord causas
+[21:49:14] [Server thread/INFO]: Gary_750 lost connection: Disconnected
+[21:49:14] [Server thread/INFO]: Gary_750 left the game
+[21:52:04] [Server thread/INFO]: Lewis_Sema issued server command: /tp santino56
+[21:52:04] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to santino56]
+[21:52:41] [User Authenticator #7/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
+[21:52:41] [Server thread/INFO]: Gary_750 joined the game
+[21:52:41] [Server thread/INFO]: Gary_750[/127.182.125.247:55265] logged in with entity id 12430 at ([world]669.4690921646186, 5.0, -381.1858092468786)
+[21:53:28] [Async Chat Thread - #2/INFO]: [Not Secure] <Lewis_Sema> santero, te habla el sebastian
+[21:53:51] [Server thread/INFO]: Gary_750 lost connection: Disconnected
+[21:53:51] [Server thread/INFO]: Gary_750 left the game
+[21:53:52] [User Authenticator #8/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
+[21:53:52] [Server thread/INFO]: Gary_750 joined the game
+[21:53:52] [Server thread/INFO]: Gary_750[/127.182.125.247:33093] logged in with entity id 12659 at ([world]663.8265471874448, 6.0, -357.22619260979536)
+[21:54:11] [Server thread/INFO]: santino56 has made the advancement [Monster Hunter]
