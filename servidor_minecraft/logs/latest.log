@@ -235,3 +235,5 @@
 [20:32:47] [Async Chat Thread - #12/INFO]: [Not Secure] <Gary_750> DAME
 [20:33:10] [Server thread/INFO]: Gary_750 issued server command: /difficulty peaceful
 [20:33:10] [Server thread/INFO]: [Gary_750: The difficulty has been set to Peaceful]
+[20:37:18] [Server thread/INFO]: Gary_750 issued server command: /difficulty hard
+[20:37:18] [Server thread/INFO]: [Gary_750: The difficulty has been set to Hard]
