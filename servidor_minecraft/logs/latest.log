@@ -313,3 +313,14 @@
 [22:07:04] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
 [22:07:49] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
 [22:07:49] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[22:08:02] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[22:08:02] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[22:08:28] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[22:08:28] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[22:16:40] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[22:16:40] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[22:17:02] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[22:17:02] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[22:17:48] [Server thread/INFO]: Gary_750 issued server command: /kill
+[22:17:48] [Server thread/INFO]: Gary_750 was killed
+[22:17:48] [Server thread/INFO]: [Gary_750: Killed Gary_750]
