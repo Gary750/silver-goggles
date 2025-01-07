@@ -112,3 +112,7 @@
 [18:48:44] [User Authenticator #1/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
 [18:48:44] [Server thread/INFO]: Gary_750 joined the game
 [18:48:44] [Server thread/INFO]: Gary_750[/127.182.125.247:35673] logged in with entity id 12435 at ([world]553.9223290898344, 64.5625, -311.6456384837656)
+[18:56:25] [Server thread/INFO]: Gary_750 issued server command: /give @s minecraft:torch 64
+[18:56:25] [Server thread/INFO]: [Gary_750: Gave 64 [Torch] to Gary_750]
+[18:56:44] [Server thread/INFO]: Gary_750 issued server command: /give @s minecraft:shield
+[18:56:44] [Server thread/INFO]: [Gary_750: Gave 1 [Shield] to Gary_750]
