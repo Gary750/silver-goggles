@@ -116,3 +116,39 @@
 [18:56:25] [Server thread/INFO]: [Gary_750: Gave 64 [Torch] to Gary_750]
 [18:56:44] [Server thread/INFO]: Gary_750 issued server command: /give @s minecraft:shield
 [18:56:44] [Server thread/INFO]: [Gary_750: Gave 1 [Shield] to Gary_750]
+[19:10:17] [User Authenticator #2/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
+[19:10:17] [Server thread/INFO]: Lewis_Sema joined the game
+[19:10:17] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:34551] logged in with entity id 16490 at ([world]469.02413978845857, 64.0, -469.51212370220884)
+[19:10:24] [Async Chat Thread - #1/INFO]: [Not Secure] <Gary_750> jose?
+[19:10:30] [Async Chat Thread - #0/INFO]: [Not Secure] <Lewis_Sema> que fue mano
+[19:10:43] [Async Chat Thread - #1/INFO]: [Not Secure] <Gary_750> ya terminaste tu casa?
+[19:10:49] [Async Chat Thread - #1/INFO]: [Not Secure] <Lewis_Sema> apenas la voy hacer
+[19:11:03] [Async Chat Thread - #1/INFO]: [Not Secure] <Gary_750> y el nepe gigante que pedo?
+[19:11:13] [Async Chat Thread - #0/INFO]: [Not Secure] <Lewis_Sema> es el pilar de la aldea
+[19:11:18] [Async Chat Thread - #1/INFO]: [Not Secure] <Gary_750> jsdjasdh
+[19:11:29] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[19:11:29] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[19:11:34] [Async Chat Thread - #0/INFO]: [Not Secure] <Lewis_Sema> donde estoy
+[19:11:35] [Server thread/INFO]: Gary_750 issued server command: /deop list
+[19:11:35] [Server thread/INFO]: [Gary_750: Made list no longer a server operator]
+[19:11:50] [Server thread/INFO]: Gary_750 issued server command: /skin update
+[19:12:03] [Server thread/INFO]: Gary_750 issued server command: /skin update Lewis_Sema
+[19:12:43] [Async Chat Thread - #2/INFO]: [Not Secure] <Gary_750> aprovecha que no estan el mayoneso ni el femboy pa intercambiar con los aldeanos
+[19:12:50] [Server thread/INFO]: Lewis_Sema drowned
+[19:12:52] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[19:12:52] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[19:12:55] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[19:12:55] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[19:12:56] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[19:12:56] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[19:12:56] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[19:12:56] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[19:12:57] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Semat
+[19:12:59] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Semat
+[19:13:04] [Server thread/INFO]: Gary_750 issued server command: /kill
+[19:13:04] [Server thread/INFO]: Gary_750 was killed
+[19:13:04] [Server thread/INFO]: [Gary_750: Killed Gary_750]
+[19:13:10] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Semat
+[19:13:46] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Semat
+[19:13:48] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[19:13:48] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
