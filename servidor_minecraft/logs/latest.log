@@ -201,3 +201,17 @@
 [19:59:12] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
 [19:59:15] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
 [19:59:15] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[20:08:26] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[20:08:26] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[20:08:51] [Server thread/INFO]: Gary_750 issued server command: /enchant @s minecraft:fortune 3
+[20:08:51] [Server thread/INFO]: [Gary_750: Applied enchantment Fortune III to Gary_750's item]
+[20:08:54] [Server thread/INFO]: Gary_750 issued server command: /enchant @s minecraft:efficiency 5
+[20:08:54] [Server thread/INFO]: [Gary_750: Applied enchantment Efficiency V to Gary_750's item]
+[20:08:59] [Server thread/INFO]: Gary_750 issued server command: /enchant @s minecraft:unbreaking 3
+[20:08:59] [Server thread/INFO]: [Gary_750: Applied enchantment Unbreaking III to Gary_750's item]
+[20:09:04] [Server thread/INFO]: Gary_750 issued server command: /enchant @s minecraft:mending
+[20:09:04] [Server thread/INFO]: [Gary_750: Applied enchantment Mending to Gary_750's item]
+[20:09:10] [Server thread/INFO]: Gary_750 issued server command: /enchant @s minecraft:smite 5
+[20:09:10] [Server thread/INFO]: [Gary_750: Applied enchantment Smite V to Gary_750's item]
+[20:09:35] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[20:09:35] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
