@@ -110,3 +110,44 @@
 [01:02:08] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
 [01:03:59] [Server thread/INFO]: Gary_750 has made the advancement [Best Friends Forever]
 [01:04:24] [Server thread/INFO]: Gary_750 issued server command: /difficulty
+[01:06:22] [Server thread/INFO]: Made Lewis_Sema no longer a server operator
+[01:07:27] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[01:07:27] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[01:07:59] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[01:07:59] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[01:08:23] [User Authenticator #4/INFO]: UUID of player alfo_soliz is 39268067-8c92-370a-9cd2-0acf9082c21c
+[01:08:23] [Server thread/INFO]: alfo_soliz joined the game
+[01:08:23] [Server thread/INFO]: alfo_soliz[/127.6.49.78:40355] logged in with entity id 78485 at ([world]1222.020202694578, 74.9375, 2.132300969136584)
+[01:09:00] [Server thread/INFO]: Made Lewis_Sema a server operator
+[01:10:19] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
+[01:10:19] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
+[01:10:34] [Server thread/INFO]: Gary_750 was slain by Iron Golem
+[01:11:41] [Server thread/INFO]: Gary_750 issued server command: /deop Lewis_Sema
+[01:11:41] [Server thread/INFO]: [Gary_750: Made Lewis_Sema no longer a server operator]
+[01:11:45] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[01:11:45] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[01:12:12] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[01:12:12] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[01:12:47] [Server thread/INFO]: Gary_750 was slain by Iron Golem
+[01:13:09] [Server thread/INFO]: CafecitoOcuo lost connection: Disconnected
+[01:13:09] [Server thread/INFO]: CafecitoOcuo left the game
+[01:13:11] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
+[01:13:11] [Server thread/INFO]: Lewis_Sema left the game
+[01:13:12] [User Authenticator #5/INFO]: UUID of player CafecitoOcuo is 81e269ff-a530-32e1-be29-883c266903f3
+[01:13:12] [Server thread/INFO]: CafecitoOcuo joined the game
+[01:13:12] [Server thread/INFO]: CafecitoOcuo[/127.107.184.223:45595] logged in with entity id 81254 at ([world]486.8577847498968, 20.0, -107.69999998807907)
+[01:13:33] [Server thread/INFO]: CafecitoOcuo lost connection: Disconnected
+[01:13:33] [Server thread/INFO]: CafecitoOcuo left the game
+[01:13:35] [User Authenticator #5/INFO]: UUID of player CafecitoOcuo is 81e269ff-a530-32e1-be29-883c266903f3
+[01:13:35] [Server thread/INFO]: CafecitoOcuo joined the game
+[01:13:35] [Server thread/INFO]: CafecitoOcuo[/127.107.184.223:48617] logged in with entity id 81423 at ([world]485.9665794325557, 19.0, -105.25968576590607)
+[01:14:28] [Server thread/INFO]: CafecitoOcuo lost connection: Disconnected
+[01:14:28] [Server thread/INFO]: CafecitoOcuo left the game
+[01:15:07] [User Authenticator #6/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
+[01:15:07] [Server thread/INFO]: Lewis_Sema joined the game
+[01:15:07] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:43431] logged in with entity id 81842 at ([world]487.3207287083831, 20.0, -105.85500620252068)
+[01:15:17] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[01:15:17] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[01:15:28] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[01:15:28] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[01:15:47] [Server thread/INFO]: Made Lewis_Sema a server operator
