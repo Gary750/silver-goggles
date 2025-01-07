@@ -164,3 +164,11 @@
 [19:35:11] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
 [19:35:26] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
 [19:35:26] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[19:35:51] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
+[19:35:51] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
+[19:35:54] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[19:35:54] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[19:36:37] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[19:36:37] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[19:37:11] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[19:37:11] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
