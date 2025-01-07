@@ -418,3 +418,16 @@
 [04:55:53] [Server thread/INFO]: CafecitoOcuo was shot by Skeleton
 [04:57:24] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
 [04:57:24] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[05:00:02] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo MUFpy
+[05:00:02] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to MUFpy]
+[05:00:11] [Server thread/INFO]: CafecitoOcuo was slain by MUFpy
+[05:00:20] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo MUFpy
+[05:00:20] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to MUFpy]
+[05:00:34] [Async Chat Thread - #53/INFO]: [Not Secure] <MUFpy> 18
+[05:03:16] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
+[05:03:16] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[05:03:30] [Server thread/INFO]: Gary_750 issued server command: /tp santino56 Gary_750
+[05:03:30] [Server thread/INFO]: [Gary_750: Teleported santino56 to Gary_750]
+[05:07:13] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
+[05:07:13] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
+[05:08:37] [Server thread/INFO]: CafecitoOcuo was blown up by Creeper
