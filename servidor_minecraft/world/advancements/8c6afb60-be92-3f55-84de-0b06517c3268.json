@@ -574,8 +574,10 @@
       "minecraft:spider": "2025-01-06 22:35:33 +0000",
       "minecraft:creeper": "2025-01-07 20:43:55 +0000",
       "minecraft:evoker": "2025-01-07 00:11:04 +0000",
+      "minecraft:witch": "2025-01-07 21:06:53 +0000",
       "minecraft:piglin": "2025-01-06 23:25:39 +0000",
-      "minecraft:zombie": "2025-01-06 22:06:06 +0000"
+      "minecraft:zombie": "2025-01-06 22:06:06 +0000",
+      "minecraft:zombie_villager": "2025-01-07 21:07:12 +0000"
     },
     "done": false
   },
