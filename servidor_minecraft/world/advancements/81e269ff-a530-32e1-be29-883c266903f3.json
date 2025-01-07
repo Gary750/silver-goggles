@@ -654,6 +654,7 @@
       "minecraft:skeleton": "2025-01-06 23:04:38 +0000",
       "minecraft:vindicator": "2025-01-07 00:03:43 +0000",
       "minecraft:spider": "2025-01-06 23:03:51 +0000",
+      "minecraft:vex": "2025-01-07 00:11:14 +0000",
       "minecraft:zombie": "2025-01-06 22:41:43 +0000"
     },
     "done": false
@@ -796,6 +797,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-01-07 00:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-01-06 22:59:44 +0000"
@@ -856,6 +863,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-07 00:11:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-06 22:59:44 +0000"
@@ -889,6 +902,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-01-06 22:59:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-07 00:14:45 +0000"
     },
     "done": true
   },
