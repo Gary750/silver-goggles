@@ -172,3 +172,23 @@
 [19:36:37] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
 [19:37:11] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
 [19:37:11] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[19:51:50] [Server thread/INFO]: Gary_750 issued server command: /difficulty peaceful
+[19:51:50] [Server thread/INFO]: [Gary_750: The difficulty has been set to Peaceful]
+[19:52:32] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[19:52:32] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[19:52:35] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[19:52:35] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[19:52:41] [Server thread/INFO]: Gary_750 issued server command: /difficulty hard
+[19:52:41] [Server thread/INFO]: [Gary_750: The difficulty has been set to Hard]
+[19:52:52] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[19:52:52] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[19:53:12] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[19:53:12] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[19:53:23] [Server thread/INFO]: Gary_750 issued server command: /give @s chest
+[19:53:23] [Server thread/INFO]: [Gary_750: Gave 1 [Chest] to Gary_750]
+[19:53:24] [Server thread/INFO]: Gary_750 issued server command: /give @s chest
+[19:53:24] [Server thread/INFO]: [Gary_750: Gave 1 [Chest] to Gary_750]
+[19:53:25] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[19:53:25] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[19:53:48] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[19:53:48] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
