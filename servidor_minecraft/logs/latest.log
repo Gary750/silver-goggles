@@ -336,3 +336,13 @@
 [04:04:12] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy Lewis_Sema
 [04:04:12] [Server thread/INFO]: [Gary_750: Teleported MUFpy to Lewis_Sema]
 [04:04:25] [Server thread/INFO]: MUFpy fell from a high place
+[04:12:46] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
+[04:12:46] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
+[04:13:56] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo Gary_750
+[04:13:56] [Server thread/INFO]: [Gary_750: Teleported CafecitoOcuo to Gary_750]
+[04:14:01] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
+[04:14:01] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
+[04:15:44] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo Gary_750
+[04:15:44] [Server thread/INFO]: [Gary_750: Teleported CafecitoOcuo to Gary_750]
+[04:17:56] [Server thread/INFO]: Gary_750 issued server command: /give @s minecraft:flint_and_steel
+[04:17:56] [Server thread/INFO]: [Gary_750: Gave 1 [Flint and Steel] to Gary_750]
