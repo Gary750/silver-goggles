@@ -269,6 +269,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-07 06:58:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-07 03:07:11 +0000"
@@ -941,6 +947,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-07 06:58:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-01-07 04:40:26 +0000"
@@ -1409,6 +1421,7 @@
       "cooked_porkchop": "2025-01-07 03:48:38 +0000",
       "cooked_mutton": "2025-01-07 03:37:23 +0000",
       "apple": "2025-01-07 01:58:47 +0000",
+      "pumpkin_pie": "2025-01-07 06:58:45 +0000",
       "golden_apple": "2025-01-07 04:15:47 +0000",
       "cookie": "2025-01-07 04:42:36 +0000",
       "rotten_flesh": "2025-01-07 03:27:02 +0000",
