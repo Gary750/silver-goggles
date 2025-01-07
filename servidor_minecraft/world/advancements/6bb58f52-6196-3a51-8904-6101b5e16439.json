@@ -794,6 +794,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-07 00:01:35 +0000",
+      "minecraft:skeleton": "2025-01-07 00:24:50 +0000",
       "minecraft:ravager": "2025-01-07 00:10:47 +0000",
       "minecraft:vindicator": "2025-01-07 00:04:30 +0000",
       "minecraft:spider": "2025-01-06 21:54:11 +0000",
@@ -880,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-01-07 00:24:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_leggings": "2025-01-06 23:39:01 +0000"
@@ -946,6 +953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-01-07 00:24:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-01-07 00:18:47 +0000"
@@ -955,6 +968,18 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-01-07 00:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-01-07 00:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-07 00:24:50 +0000"
     },
     "done": true
   },
