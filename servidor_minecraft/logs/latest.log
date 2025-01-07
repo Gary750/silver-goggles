@@ -243,3 +243,18 @@
 [20:53:01] [Async Chat Thread - #15/INFO]: [Not Secure] <Lewis_Sema> apoco le subieron?
 [20:53:11] [Async Chat Thread - #15/INFO]: [Not Secure] <Gary_750> no
 [20:53:23] [Async Chat Thread - #15/INFO]: [Not Secure] <Gary_750> pero si es alguito frecuente
+[20:58:37] [User Authenticator #4/INFO]: UUID of player santino56 is 6bb58f52-6196-3a51-8904-6101b5e16439
+[20:58:37] [Server thread/INFO]: santino56 joined the game
+[20:58:37] [Server thread/INFO]: santino56[/127.61.141.240:50877] logged in with entity id 42174 at ([world]611.0495946875675, 64.0, -256.30000001192093)
+[20:58:58] [Server thread/INFO]: Lewis_Sema issued server command: /tp santino56
+[20:58:58] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to santino56]
+[20:59:21] [Async Chat Thread - #16/INFO]: [Not Secure] <santino56> }
+[20:59:22] [Server thread/WARN]: santino56 was kicked due to keepalive timeout!
+[20:59:22] [Server thread/INFO]: santino56 lost connection: Timed out
+[20:59:22] [Server thread/INFO]: santino56 left the game
+[21:01:37] [Async Chat Thread - #18/INFO]: [Not Secure] <Lewis_Sema> gary, ya sirve lo de exp?
+[21:01:42] [Async Chat Thread - #18/INFO]: [Not Secure] <Gary_750> sip
+[21:01:43] [Async Chat Thread - #19/INFO]: [Not Secure] <Lewis_Sema> necesito niveles para sacar un pico
+[21:01:48] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
+[21:01:48] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[21:04:46] [Async Chat Thread - #20/INFO]: [Not Secure] <Lewis_Sema> gary, pero un creepen casi explota
