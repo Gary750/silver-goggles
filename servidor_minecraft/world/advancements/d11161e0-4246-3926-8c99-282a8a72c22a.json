@@ -403,6 +403,7 @@
       "golden_apple": "2025-01-06 21:31:15 +0000",
       "bread": "2025-01-07 01:56:51 +0000",
       "rotten_flesh": "2025-01-07 01:28:36 +0000",
+      "suspicious_stew": "2025-01-07 04:45:54 +0000",
       "golden_carrot": "2025-01-07 00:02:02 +0000",
       "cod": "2025-01-07 00:58:12 +0000"
     },
@@ -2211,6 +2212,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2025-01-07 02:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-07 04:45:54 +0000"
     },
     "done": true
   },
