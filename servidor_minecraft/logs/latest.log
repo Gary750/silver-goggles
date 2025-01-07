@@ -101,3 +101,9 @@
 [17:51:04] [Server thread/INFO]: [Gary_750: Set own game mode to Adventure Mode]
 [17:51:11] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
 [17:51:11] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[17:55:29] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure
+[17:55:29] [Server thread/INFO]: [Gary_750: Set own game mode to Adventure Mode]
+[17:55:31] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[17:55:31] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[17:55:43] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[17:55:43] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
