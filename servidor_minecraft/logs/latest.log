@@ -151,3 +151,57 @@
 [01:15:28] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
 [01:15:28] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
 [01:15:47] [Server thread/INFO]: Made Lewis_Sema a server operator
+[01:15:58] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz
+[01:15:58] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to alfo_soliz]
+[01:19:37] [User Authenticator #7/INFO]: UUID of player santino56 is 6bb58f52-6196-3a51-8904-6101b5e16439
+[01:19:37] [Server thread/INFO]: santino56 joined the game
+[01:19:37] [Server thread/INFO]: santino56[/127.61.141.240:38845] logged in with entity id 82939 at ([world]602.5500425343133, 64.0, -291.5335311046053)
+[01:20:03] [Server thread/INFO]: Gary_750 was slain by Iron Golem
+[01:20:34] [Server thread/INFO]: Lewis_Sema fell from a high place
+[01:21:19] [Server thread/INFO]: Gary_750 fell from a high place
+[01:21:45] [Server thread/INFO]: Gary_750 issued server command: /tp alfo_soliz
+[01:21:45] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to alfo_soliz]
+[01:23:01] [Server thread/INFO]: alfo_soliz was slain by Lewis_Sema
+[01:23:09] [User Authenticator #8/INFO]: UUID of player CafecitoOcuo is 81e269ff-a530-32e1-be29-883c266903f3
+[01:23:09] [Server thread/INFO]: CafecitoOcuo joined the game
+[01:23:09] [Server thread/INFO]: CafecitoOcuo[/127.107.184.223:46391] logged in with entity id 84149 at ([world]486.69999998807907, 19.0, -103.49648999948877)
+[01:23:35] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo Lewis_Sema
+[01:23:35] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to Lewis_Sema]
+[01:23:46] [Server thread/INFO]: CafecitoOcuo fell from a high place
+[01:25:02] [Server thread/INFO]: alfo_soliz has made the advancement [Not Today, Thank You]
+[01:26:07] [Server thread/INFO]: Gary_750 issued server command: /time set night
+[01:26:07] [Server thread/INFO]: [Gary_750: Set the time to 13000]
+[01:26:12] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz CafecitoOcuo
+[01:26:12] [Server thread/INFO]: [Lewis_Sema: Teleported alfo_soliz to CafecitoOcuo]
+[01:26:46] [Server thread/INFO]: CafecitoOcuo fell from a high place
+[01:27:32] [Server thread/INFO]: Gary_750 issued server command: /difficulty hard
+[01:27:38] [Server thread/INFO]: Gary_750 issued server command: /difficulty normal
+[01:27:38] [Server thread/INFO]: [Gary_750: The difficulty has been set to Normal]
+[01:27:41] [Server thread/INFO]: Gary_750 issued server command: /difficulty hard
+[01:27:41] [Server thread/INFO]: [Gary_750: The difficulty has been set to Hard]
+[01:28:18] [Server thread/INFO]: alfo_soliz suffocated in a wall
+[01:28:19] [Server thread/INFO]: Attempt to teleport removed player alfo_soliz restricted
+[01:28:36] [Server thread/INFO]: santino56 was slain by Iron Golem
+[01:29:22] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz Lewis_Sema
+[01:29:22] [Server thread/INFO]: [Lewis_Sema: Teleported alfo_soliz to Lewis_Sema]
+[01:30:14] [Server thread/INFO]: Gary_750 issued server command: /tell santino56 el martin esta bien vergon
+[01:30:32] [Server thread/INFO]: Gary_750 issued server command: /oplist
+[01:30:37] [Server thread/INFO]: Gary_750 issued server command: /op list
+[01:30:37] [Server thread/INFO]: [Gary_750: Made list a server operator]
+[01:31:07] [Server thread/INFO]: Gary_750 issued server command: /deop Lewis_Sema
+[01:31:07] [Server thread/INFO]: [Gary_750: Made Lewis_Sema no longer a server operator]
+[01:31:14] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[01:31:14] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[01:31:21] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[01:31:21] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[01:31:25] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[01:31:25] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[01:31:27] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[01:31:27] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[01:31:32] [Server thread/INFO]: Made Lewis_Sema a server operator
+[01:32:36] [Server thread/INFO]: Gary_750 was slain by Iron Golem
+[01:33:57] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz
+[01:33:57] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to alfo_soliz]
+[01:35:08] [Server thread/INFO]: alfo_soliz hit the ground too hard whilst trying to escape CafecitoOcuo
+[01:35:25] [Server thread/INFO]: CafecitoOcuo fell from a high place
+[01:35:31] [Server thread/INFO]: Gary_750 was slain by Iron Golem
