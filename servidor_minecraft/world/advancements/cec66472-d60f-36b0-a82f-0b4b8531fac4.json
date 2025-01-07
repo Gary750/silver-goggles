@@ -563,6 +563,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-01-07 04:03:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-07 02:18:27 +0000"
@@ -752,6 +758,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-01-07 02:38:41 +0000",
+      "minecraft:creeper": "2025-01-07 04:04:54 +0000",
       "minecraft:zombie": "2025-01-07 02:20:41 +0000"
     },
     "done": false
