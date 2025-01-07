@@ -583,3 +583,12 @@
 [07:13:25] [Server thread/INFO]: [Gary_750: Set own game mode to Adventure Mode]
 [07:14:32] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
 [07:14:32] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[07:25:45] [Server thread/INFO]: Gary_750 has completed the challenge [Hot Tourist Destinations]
+[07:25:55] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
+[07:25:55] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
+[07:26:42] [Server thread/INFO]: Gary_750 issued server command: /xp set @s 30 levels
+[07:26:42] [Server thread/INFO]: [Gary_750: Set 30 experience levels on Gary_750]
+[07:29:15] [Server thread/INFO]: Gary_750 issued server command: /xp set @s 30 levels
+[07:29:15] [Server thread/INFO]: [Gary_750: Set 30 experience levels on Gary_750]
+[07:31:07] [Server thread/INFO]: Gary_750 issued server command: /xp set @s 30 levels
+[07:31:07] [Server thread/INFO]: [Gary_750: Set 30 experience levels on Gary_750]
