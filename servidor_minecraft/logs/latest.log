@@ -356,3 +356,9 @@
 [23:07:03] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
 [23:07:03] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
 [23:07:04] [Async Chat Thread - #36/INFO]: [Not Secure] <MUFpy> fantasmas
+[23:15:09] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[23:15:09] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[23:15:19] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[23:15:19] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[23:15:48] [Server thread/INFO]: Gary_750 lost connection: Disconnected
+[23:15:48] [Server thread/INFO]: Gary_750 left the game
