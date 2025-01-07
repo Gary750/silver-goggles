@@ -93,3 +93,11 @@
 [17:35:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5067ms or 101 ticks behind
 [17:41:48] [Server thread/INFO]: Gary_750 issued server command: /enchant @s minecraft:looting 3
 [17:41:48] [Server thread/INFO]: [Gary_750: Applied enchantment Looting III to Gary_750's item]
+[17:50:53] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure
+[17:50:53] [Server thread/INFO]: [Gary_750: Set own game mode to Adventure Mode]
+[17:50:57] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[17:50:57] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[17:51:04] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure
+[17:51:04] [Server thread/INFO]: [Gary_750: Set own game mode to Adventure Mode]
+[17:51:11] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[17:51:11] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
