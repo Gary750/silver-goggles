@@ -1085,6 +1085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-07 06:01:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-07 03:29:01 +0000"
@@ -1325,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-07 06:02:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-01-07 05:42:10 +0000"
@@ -1424,6 +1436,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-01-07 03:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-07 06:02:23 +0000"
     },
     "done": true
   },
