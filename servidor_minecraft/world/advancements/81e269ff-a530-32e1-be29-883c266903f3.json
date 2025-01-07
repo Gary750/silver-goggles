@@ -263,6 +263,7 @@
       "cooked_porkchop": "2025-01-06 23:14:44 +0000",
       "cooked_beef": "2025-01-06 22:41:49 +0000",
       "apple": "2025-01-06 22:26:24 +0000",
+      "bread": "2025-01-07 03:05:45 +0000",
       "golden_apple": "2025-01-07 01:31:26 +0000",
       "melon_slice": "2025-01-07 02:12:07 +0000",
       "carrot": "2025-01-06 23:56:13 +0000"
@@ -660,6 +661,7 @@
       "minecraft:vindicator": "2025-01-07 00:03:43 +0000",
       "minecraft:spider": "2025-01-06 23:03:51 +0000",
       "minecraft:creeper": "2025-01-07 02:52:57 +0000",
+      "minecraft:cave_spider": "2025-01-07 03:03:41 +0000",
       "minecraft:vex": "2025-01-07 00:11:14 +0000",
       "minecraft:zombie": "2025-01-06 22:41:43 +0000"
     },
@@ -1373,6 +1375,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 03:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-01-07 02:09:55 +0000"
@@ -1385,9 +1393,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 03:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-01-07 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 03:13:05 +0000"
     },
     "done": true
   },
@@ -1397,9 +1417,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 03:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-07 02:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 03:13:05 +0000"
     },
     "done": true
   },
@@ -1415,6 +1447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 03:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-01-07 02:14:47 +0000"
@@ -1424,6 +1462,12 @@
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-01-07 02:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 03:13:05 +0000"
     },
     "done": true
   },
@@ -1439,9 +1483,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 03:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_leggings": "2025-01-07 02:00:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 03:13:05 +0000"
     },
     "done": true
   },
@@ -1463,6 +1519,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 03:13:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-01-07 02:07:30 +0000"
@@ -1478,6 +1540,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2025-01-07 01:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 03:13:05 +0000"
     },
     "done": true
   },
@@ -1502,6 +1570,12 @@
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-01-07 01:41:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 03:13:05 +0000"
     },
     "done": true
   },
@@ -1532,6 +1606,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-07 02:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-07 03:13:05 +0000"
     },
     "done": true
   },
