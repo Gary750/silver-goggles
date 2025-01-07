@@ -1,600 +1,95 @@
-[00:00:45] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[00:00:45] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[00:01:37] [Server thread/INFO]: CafecitoOcuo has made the advancement [Voluntary Exile]
-[00:02:34] [Server thread/INFO]: Gary_750 has made the advancement [Enchanter]
-[00:03:43] [Server thread/INFO]: santino56 was shot by Pillager
-[00:04:43] [Server thread/INFO]: Gary_750 has made the advancement [Voluntary Exile]
-[00:05:01] [Server thread/INFO]: santino56 was slain by Gary_750
-[00:05:05] [Server thread/INFO]: CafecitoOcuo was slain by Gary_750
-[00:05:06] [Server thread/INFO]: alfo_soliz tried to swim in lava
-[00:05:40] [Async Chat Thread - #1/INFO]: [Not Secure] <alfo_soliz> 7
-[00:05:41] [Async Chat Thread - #0/INFO]: [Not Secure] <alfo_soliz> 7
-[00:05:53] [Async Chat Thread - #1/INFO]: [Not Secure] <Lewis_Sema> gamemode marruecos
-[00:07:02] [Server thread/INFO]: CafecitoOcuo was slain by Vindicator
-[00:07:03] [Server thread/INFO]: alfo_soliz has made the advancement [Cover Me with Diamonds]
-[00:07:07] [Server thread/INFO]: santino56 was slain by Vindicator
-[00:07:21] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
-[00:07:21] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
-[00:07:54] [Server thread/INFO]: Gary_750 was slain by Vindicator
-[00:08:01] [Server thread/INFO]: santino56 was slain by Vex
-[00:08:02] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[00:08:02] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[00:08:03] [Server thread/INFO]: Lewis_Sema was slain by Vindicator
-[00:08:07] [Server thread/INFO]: Gary_750 was slain by Vindicator
-[00:08:19] [Server thread/INFO]: Gary_750 issued server command: /tp alfo_soliz santino56
-[00:08:19] [Server thread/INFO]: [Gary_750: Teleported alfo_soliz to santino56]
-[00:08:25] [Server thread/INFO]: santino56 was shot by Pillager
-[00:08:29] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
-[00:08:29] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
-[00:08:49] [Server thread/INFO]: santino56 was slain by Gary_750
-[00:09:16] [Server thread/INFO]: santino56 was slain by Vex
-[00:09:37] [Server thread/INFO]: Lewis_Sema was slain by Vindicator
-[00:09:42] [Server thread/INFO]: Gary_750 was slain by Vex
-[00:09:43] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz
-[00:09:43] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to alfo_soliz]
-[00:09:47] [Server thread/INFO]: santino56 was slain by Vex
-[00:10:11] [Server thread/INFO]: santino56 was slain by Vex
-[00:10:17] [Server thread/INFO]: Lewis_Sema was killed by Evoker using magic
-[00:10:20] [Server thread/INFO]: Gary_750 was slain by Ravager
-[00:10:22] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
-[00:10:22] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
-[00:10:22] [Server thread/INFO]: santino56 was slain by Ravager
-[00:10:29] [Server thread/INFO]: santino56 was slain by Vindicator
-[00:10:29] [Server thread/INFO]: alfo_soliz was slain by Ravager
-[00:10:32] [Server thread/INFO]: Gary_750 was killed by Evoker using magic
-[00:10:35] [Server thread/INFO]: Lewis_Sema was slain by Ravager
-[00:10:38] [Server thread/INFO]: santino56 was slain by Ravager
-[00:10:42] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
-[00:10:42] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
-[00:10:46] [Server thread/INFO]: Gary_750 was slain by Ravager
-[00:10:47] [Server thread/INFO]: CafecitoOcuo has made the advancement [Sweet Dreams]
-[00:10:48] [Server thread/INFO]: santino56 was slain by Ravager
-[00:10:54] [Server thread/INFO]: santino56 was killed by Evoker using magic
-[00:10:57] [Server thread/INFO]: alfo_soliz was blown up by Creeper
-[00:11:07] [Server thread/INFO]: santino56 was slain by Vex
-[00:11:14] [Server thread/INFO]: santino56 was slain by Vex
-[00:11:17] [Server thread/INFO]: Lewis_Sema was slain by Vex
-[00:11:19] [Server thread/INFO]: CafecitoOcuo was slain by Vex
-[00:11:22] [Server thread/INFO]: Gary_750 was slain by Vindicator
-[00:11:25] [Server thread/INFO]: santino56 was slain by Vex
-[00:11:36] [Server thread/INFO]: Gary_750 was slain by Vindicator
-[00:11:41] [Server thread/INFO]: santino56 was slain by Vex
-[00:11:45] [Server thread/INFO]: Lewis_Sema was slain by Vex
-[00:11:59] [Server thread/INFO]: Lewis_Sema has completed the challenge [Hero of the Village]
-[00:11:59] [Server thread/INFO]: CafecitoOcuo has completed the challenge [Hero of the Village]
-[00:11:59] [Server thread/INFO]: Gary_750 has completed the challenge [Hero of the Village]
-[00:11:59] [Server thread/INFO]: alfo_soliz has completed the challenge [Hero of the Village]
-[00:11:59] [Server thread/INFO]: santino56 has completed the challenge [Hero of the Village]
-[00:11:59] [Server thread/INFO]: Lewis_Sema was slain by Vex
-[00:12:01] [Server thread/INFO]: santino56 was slain by Vex
-[00:12:15] [Server thread/INFO]: CafecitoOcuo was slain by Vex
-[00:12:18] [Server thread/INFO]: santino56 was slain by Vex
-[00:14:23] [Server thread/INFO]: Lewis_Sema fell from a high place
-[00:14:45] [Server thread/INFO]: CafecitoOcuo has made the advancement [What a Deal!]
-[00:15:28] [Server thread/INFO]: Lewis_Sema has made the advancement [Enchanter]
-[00:16:30] [Server thread/INFO]: Gary_750 issued server command: /tp alfo_soliz
-[00:16:30] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to alfo_soliz]
-[00:16:34] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
-[00:16:34] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
-[00:16:55] [Server thread/WARN]: Horse (vehicle of alfo_soliz) moved wrongly! 0.4745805729169774
-[00:16:55] [Server thread/WARN]: Horse (vehicle of alfo_soliz) moved wrongly! 0.992450602960048
-[00:16:55] [Server thread/WARN]: Horse (vehicle of alfo_soliz) moved wrongly! 1.509866986485747
-[00:16:55] [Server thread/WARN]: Horse (vehicle of alfo_soliz) moved wrongly! 2.0269567298882976
-[00:16:55] [Server thread/WARN]: Horse (vehicle of alfo_soliz) moved wrongly! 2.5453059489877887
-[00:16:55] [Server thread/WARN]: Horse (vehicle of alfo_soliz) moved wrongly! 2.8226642813594367
-[00:19:54] [Server thread/INFO]: santino56 has made the advancement [We Need to Go Deeper]
-[00:20:39] [Server thread/INFO]: CafecitoOcuo was slain by alfo_soliz
-[00:20:42] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz Lewis_Sema
-[00:20:42] [Server thread/INFO]: [Lewis_Sema: Teleported alfo_soliz to Lewis_Sema]
-[00:23:19] [Server thread/INFO]: alfo_soliz was slain by CafecitoOcuo
-[00:29:49] [Server thread/INFO]: CafecitoOcuo was slain by alfo_soliz
-[00:30:53] [Server thread/INFO]: CafecitoOcuo was slain by alfo_soliz
-[00:31:20] [Server thread/INFO]: alfo_soliz was slain by CafecitoOcuo
-[00:31:33] [Server thread/INFO]: alfo_soliz lost connection: Disconnected
-[00:31:33] [Server thread/INFO]: alfo_soliz left the game
-[00:36:16] [Async Chat Thread - #2/INFO]: [Not Secure] <Lewis_Sema> HOTEL EL CABEZON
-[00:38:17] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
-[00:38:17] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
-[00:39:37] [Server thread/INFO]: Gary_750 has made the advancement [Hot Stuff]
-[00:40:07] [Server thread/INFO]: santino56 was slain by Piglin
-[00:40:15] [Server thread/INFO]: santino56 was slain by Piglin
-[00:40:28] [Server thread/INFO]: santino56 has made the advancement [Hot Stuff]
-[00:42:31] [Server thread/INFO]: Gary_750 was slain by Iron Golem
-[00:43:12] [Server thread/INFO]: CafecitoOcuo was slain by Gary_750
-[00:47:15] [Server thread/INFO]: CafecitoOcuo has made the advancement [Not Today, Thank You]
-[00:51:05] [Server thread/WARN]: Boat (vehicle of santino56) moved wrongly! 0.31991830423625406
-[00:53:25] [Server thread/INFO]: Gary_750 has made the advancement [Fishy Business]
-[00:53:35] [Server thread/INFO]: santino56 lost connection: Disconnected
-[00:53:35] [Server thread/INFO]: santino56 left the game
-[01:02:08] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
-[01:02:08] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
-[01:03:59] [Server thread/INFO]: Gary_750 has made the advancement [Best Friends Forever]
-[01:04:24] [Server thread/INFO]: Gary_750 issued server command: /difficulty
-[01:06:22] [Server thread/INFO]: Made Lewis_Sema no longer a server operator
-[01:07:27] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[01:07:27] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[01:07:59] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[01:07:59] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[01:08:23] [User Authenticator #4/INFO]: UUID of player alfo_soliz is 39268067-8c92-370a-9cd2-0acf9082c21c
-[01:08:23] [Server thread/INFO]: alfo_soliz joined the game
-[01:08:23] [Server thread/INFO]: alfo_soliz[/127.6.49.78:40355] logged in with entity id 78485 at ([world]1222.020202694578, 74.9375, 2.132300969136584)
-[01:09:00] [Server thread/INFO]: Made Lewis_Sema a server operator
-[01:10:19] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
-[01:10:19] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
-[01:10:34] [Server thread/INFO]: Gary_750 was slain by Iron Golem
-[01:11:41] [Server thread/INFO]: Gary_750 issued server command: /deop Lewis_Sema
-[01:11:41] [Server thread/INFO]: [Gary_750: Made Lewis_Sema no longer a server operator]
-[01:11:45] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[01:11:45] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[01:12:12] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[01:12:12] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[01:12:47] [Server thread/INFO]: Gary_750 was slain by Iron Golem
-[01:13:09] [Server thread/INFO]: CafecitoOcuo lost connection: Disconnected
-[01:13:09] [Server thread/INFO]: CafecitoOcuo left the game
-[01:13:11] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
-[01:13:11] [Server thread/INFO]: Lewis_Sema left the game
-[01:13:12] [User Authenticator #5/INFO]: UUID of player CafecitoOcuo is 81e269ff-a530-32e1-be29-883c266903f3
-[01:13:12] [Server thread/INFO]: CafecitoOcuo joined the game
-[01:13:12] [Server thread/INFO]: CafecitoOcuo[/127.107.184.223:45595] logged in with entity id 81254 at ([world]486.8577847498968, 20.0, -107.69999998807907)
-[01:13:33] [Server thread/INFO]: CafecitoOcuo lost connection: Disconnected
-[01:13:33] [Server thread/INFO]: CafecitoOcuo left the game
-[01:13:35] [User Authenticator #5/INFO]: UUID of player CafecitoOcuo is 81e269ff-a530-32e1-be29-883c266903f3
-[01:13:35] [Server thread/INFO]: CafecitoOcuo joined the game
-[01:13:35] [Server thread/INFO]: CafecitoOcuo[/127.107.184.223:48617] logged in with entity id 81423 at ([world]485.9665794325557, 19.0, -105.25968576590607)
-[01:14:28] [Server thread/INFO]: CafecitoOcuo lost connection: Disconnected
-[01:14:28] [Server thread/INFO]: CafecitoOcuo left the game
-[01:15:07] [User Authenticator #6/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
-[01:15:07] [Server thread/INFO]: Lewis_Sema joined the game
-[01:15:07] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:43431] logged in with entity id 81842 at ([world]487.3207287083831, 20.0, -105.85500620252068)
-[01:15:17] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[01:15:17] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[01:15:28] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[01:15:28] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[01:15:47] [Server thread/INFO]: Made Lewis_Sema a server operator
-[01:15:58] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz
-[01:15:58] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to alfo_soliz]
-[01:19:37] [User Authenticator #7/INFO]: UUID of player santino56 is 6bb58f52-6196-3a51-8904-6101b5e16439
-[01:19:37] [Server thread/INFO]: santino56 joined the game
-[01:19:37] [Server thread/INFO]: santino56[/127.61.141.240:38845] logged in with entity id 82939 at ([world]602.5500425343133, 64.0, -291.5335311046053)
-[01:20:03] [Server thread/INFO]: Gary_750 was slain by Iron Golem
-[01:20:34] [Server thread/INFO]: Lewis_Sema fell from a high place
-[01:21:19] [Server thread/INFO]: Gary_750 fell from a high place
-[01:21:45] [Server thread/INFO]: Gary_750 issued server command: /tp alfo_soliz
-[01:21:45] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to alfo_soliz]
-[01:23:01] [Server thread/INFO]: alfo_soliz was slain by Lewis_Sema
-[01:23:09] [User Authenticator #8/INFO]: UUID of player CafecitoOcuo is 81e269ff-a530-32e1-be29-883c266903f3
-[01:23:09] [Server thread/INFO]: CafecitoOcuo joined the game
-[01:23:09] [Server thread/INFO]: CafecitoOcuo[/127.107.184.223:46391] logged in with entity id 84149 at ([world]486.69999998807907, 19.0, -103.49648999948877)
-[01:23:35] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo Lewis_Sema
-[01:23:35] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to Lewis_Sema]
-[01:23:46] [Server thread/INFO]: CafecitoOcuo fell from a high place
-[01:25:02] [Server thread/INFO]: alfo_soliz has made the advancement [Not Today, Thank You]
-[01:26:07] [Server thread/INFO]: Gary_750 issued server command: /time set night
-[01:26:07] [Server thread/INFO]: [Gary_750: Set the time to 13000]
-[01:26:12] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz CafecitoOcuo
-[01:26:12] [Server thread/INFO]: [Lewis_Sema: Teleported alfo_soliz to CafecitoOcuo]
-[01:26:46] [Server thread/INFO]: CafecitoOcuo fell from a high place
-[01:27:32] [Server thread/INFO]: Gary_750 issued server command: /difficulty hard
-[01:27:38] [Server thread/INFO]: Gary_750 issued server command: /difficulty normal
-[01:27:38] [Server thread/INFO]: [Gary_750: The difficulty has been set to Normal]
-[01:27:41] [Server thread/INFO]: Gary_750 issued server command: /difficulty hard
-[01:27:41] [Server thread/INFO]: [Gary_750: The difficulty has been set to Hard]
-[01:28:18] [Server thread/INFO]: alfo_soliz suffocated in a wall
-[01:28:19] [Server thread/INFO]: Attempt to teleport removed player alfo_soliz restricted
-[01:28:36] [Server thread/INFO]: santino56 was slain by Iron Golem
-[01:29:22] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz Lewis_Sema
-[01:29:22] [Server thread/INFO]: [Lewis_Sema: Teleported alfo_soliz to Lewis_Sema]
-[01:30:14] [Server thread/INFO]: Gary_750 issued server command: /tell santino56 el martin esta bien vergon
-[01:30:32] [Server thread/INFO]: Gary_750 issued server command: /oplist
-[01:30:37] [Server thread/INFO]: Gary_750 issued server command: /op list
-[01:30:37] [Server thread/INFO]: [Gary_750: Made list a server operator]
-[01:31:07] [Server thread/INFO]: Gary_750 issued server command: /deop Lewis_Sema
-[01:31:07] [Server thread/INFO]: [Gary_750: Made Lewis_Sema no longer a server operator]
-[01:31:14] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[01:31:14] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[01:31:21] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[01:31:21] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[01:31:25] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[01:31:25] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[01:31:27] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[01:31:27] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[01:31:32] [Server thread/INFO]: Made Lewis_Sema a server operator
-[01:32:36] [Server thread/INFO]: Gary_750 was slain by Iron Golem
-[01:33:57] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz
-[01:33:57] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to alfo_soliz]
-[01:35:08] [Server thread/INFO]: alfo_soliz hit the ground too hard whilst trying to escape CafecitoOcuo
-[01:35:25] [Server thread/INFO]: CafecitoOcuo fell from a high place
-[01:35:31] [Server thread/INFO]: Gary_750 was slain by Iron Golem
-[01:39:40] [Server thread/INFO]: Gary_750 was slain by Iron Golem
-[01:39:55] [Server thread/INFO]: alfo_soliz was slain by CafecitoOcuo
-[01:42:49] [Server thread/INFO]: alfo_soliz has made the advancement [We Need to Go Deeper]
-[01:44:27] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz
-[01:44:27] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to alfo_soliz]
-[01:44:45] [Server thread/INFO]: Gary_750 issued server command: /kick alfo_soliz por femboy
-[01:44:45] [Server thread/INFO]: alfo_soliz lost connection: por femboy
-[01:44:45] [Server thread/INFO]: alfo_soliz left the game
-[01:44:45] [Server thread/INFO]: [Gary_750: Kicked alfo_soliz: por femboy]
-[01:45:12] [User Authenticator #9/INFO]: UUID of player alfo_soliz is 39268067-8c92-370a-9cd2-0acf9082c21c
-[01:45:12] [Server thread/INFO]: alfo_soliz joined the game
-[01:45:12] [Server thread/INFO]: alfo_soliz[/127.6.49.78:36197] logged in with entity id 97923 at ([world]530.598837002865, 64.0, -245.708684346528)
-[01:46:20] [User Authenticator #10/INFO]: UUID of player MUFpy is cec66472-d60f-36b0-a82f-0b4b8531fac4
-[01:46:20] [Server thread/INFO]: MUFpy joined the game
-[01:46:20] [Server thread/INFO]: MUFpy[/127.157.187.186:33219] logged in with entity id 99293 at ([world]485.5, 77.0, -109.5)
-[01:46:43] [Async Chat Thread - #5/INFO]: [Not Secure] <MUFpy> no me ayudaste gary >:(
-[01:46:50] [Async Chat Thread - #5/INFO]: [Not Secure] <Gary_750> en que?
-[01:46:52] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy Lewis_Sema
-[01:46:52] [Server thread/INFO]: [Lewis_Sema: Teleported MUFpy to Lewis_Sema]
-[01:47:11] [Server thread/INFO]: MUFpy has made the advancement [Isn't It Iron Pick]
-[01:47:13] [Server thread/INFO]: MUFpy has made the advancement [Stone Age]
-[01:47:49] [Async Chat Thread - #6/INFO]: [Not Secure] <MUFpy> porque hay un nepe ahi
-[01:47:54] [Async Chat Thread - #5/INFO]: [Not Secure] <Lewis_Sema> es mio
-[01:48:01] [Async Chat Thread - #6/INFO]: [Not Secure] <Lewis_Sema> de tierra, porque asi es mi color
-[01:50:03] [Server thread/INFO]: Lewis_Sema has made the advancement [What a Deal!]
-[01:50:25] [Async Chat Thread - #7/INFO]: [Not Secure] <MUFpy> cuantos mods hay?
-[01:50:40] [Async Chat Thread - #7/INFO]: [Not Secure] <MUFpy> y el de los arboles que?
-[01:51:32] [Server thread/INFO]: alfo_soliz lost connection: Disconnected
-[01:51:32] [Server thread/INFO]: alfo_soliz left the game
-[01:57:26] [Async Chat Thread - #9/INFO]: [Not Secure] <MUFpy> hermano un arbol me dio una manzana de oro :0
-[01:58:07] [Server thread/INFO]: santino56 has made the advancement [Cover Me with Diamonds]
-[01:59:10] [Server thread/WARN]: Gary_750 moved too quickly! 8.736382739147189,0.0,5.191716270544475
-[02:00:18] [Server thread/INFO]: CafecitoOcuo has made the advancement [Cover Me with Diamonds]
-[02:03:21] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[02:03:21] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[02:03:58] [Async Chat Thread - #11/INFO]: [Not Secure] <MUFpy> gary no aparece niongun animal >:c
-[02:05:23] [Async Chat Thread - #13/INFO]: [Not Secure] <MUFpy> gary porque no se hace de noche quiero comer y husos tambian :c
-[02:10:37] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
-[02:10:37] [Server thread/INFO]: Lewis_Sema left the game
-[02:15:36] [Async Chat Thread - #15/INFO]: [Not Secure] <MUFpy> tranquilo
-[02:15:45] [Async Chat Thread - #15/INFO]: [Not Secure] <MUFpy> minando kajska
-[02:17:24] [Server thread/INFO]: Gary_750 issued server command: /tp santino56 Gary_750
-[02:17:24] [Server thread/INFO]: [Gary_750: Teleported santino56 to Gary_750]
-[02:20:41] [Server thread/INFO]: MUFpy has made the advancement [Monster Hunter]
-[02:22:31] [Server thread/INFO]: MUFpy has made the advancement [Getting an Upgrade]
-[02:24:37] [Server thread/INFO]: MUFpy was slain by Zombie
-[02:33:15] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
-[02:33:15] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
-[02:37:35] [Server thread/INFO]: Gary_750 issued server command: /tp s
-[02:37:37] [Server thread/INFO]: Gary_750 issued server command: /tp s
-[02:37:40] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
-[02:37:40] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
-[02:39:30] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
-[02:39:30] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
-[02:44:24] [Server thread/INFO]: MUFpy was shot by Skeleton
-[02:51:26] [Server thread/INFO]: CafecitoOcuo was blown up by Creeper
-[02:51:39] [Async Chat Thread - #17/INFO]: [Not Secure] <MUFpy> jkajkaajkajkajka lo detonaron kajsdkajsd
-[02:54:11] [Server thread/INFO]: santino56 was slain by Iron Golem
-[02:58:40] [Server thread/INFO]: Villager EntityVillager['Fisherman'/231, uuid='a9a0abef-6695-47c5-9ee8-32dcd9b0a970', l='ServerLevel[world]', x=627.73, y=62.56, z=-286.95, cpos=[39, -18], tl=391620, v=true] died, message: 'Fisherman tried to swim in lava'
-[03:01:12] [Server thread/INFO]: MUFpy has made the advancement [Acquire Hardware]
-[03:06:57] [Async Chat Thread - #19/INFO]: [Not Secure] <MUFpy> ta mare oeeee
-[03:07:03] [Async Chat Thread - #20/INFO]: [Not Secure] <MUFpy> estaba linda la noche
-[03:07:55] [Server thread/INFO]: CafecitoOcuo was shot by Skeleton
-[03:18:20] [User Authenticator #11/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
-[03:18:20] [Server thread/INFO]: Lewis_Sema joined the game
-[03:18:20] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:55571] logged in with entity id 171521 at ([world]522.3985158649987, 64.0, -290.56636001185524)
-[03:18:51] [Async Chat Thread - #21/INFO]: [Not Secure] <Lewis_Sema> a que femboy, ya hasta con decoracion
-[03:19:17] [Async Chat Thread - #22/INFO]: [Not Secure] <Lewis_Sema> no esta acomodado
-[03:19:41] [Async Chat Thread - #21/INFO]: [Not Secure] <Lewis_Sema> se ve mejor si no esta pegado
-[03:20:24] [Server thread/INFO]: MUFpy was shot by Skeleton
-[03:20:29] [Async Chat Thread - #22/INFO]: [Not Secure] <MUFpy> ush ush
-[03:21:00] [Async Chat Thread - #21/INFO]: [Not Secure] <Lewis_Sema> no tengo losa
-[03:21:06] [Async Chat Thread - #22/INFO]: [Not Secure] <Lewis_Sema> XZD
-[03:21:19] [Async Chat Thread - #21/INFO]: [Not Secure] <Lewis_Sema> quieres ver mi palanca mayoneso?
-[03:21:25] [Server thread/INFO]: MUFpy was shot by Skeleton
-[03:21:48] [Async Chat Thread - #22/INFO]: [Not Secure] <Lewis_Sema> quien exploto mi huevo derecho
-[03:21:52] [Async Chat Thread - #21/INFO]: [Not Secure] <Lewis_Sema> a no, no me cargaba
-[03:22:05] [Server thread/INFO]: MUFpy was shot by Skeleton
-[03:22:13] [Async Chat Thread - #22/INFO]: [Not Secure] <Lewis_Sema> creo que te estan matando
-[03:22:17] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
-[03:22:17] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
-[03:22:51] [Async Chat Thread - #21/INFO]: [Not Secure] <Lewis_Sema> en esta cueva te puedo hacer mi mujer jaspley
-[03:22:59] [Async Chat Thread - #21/INFO]: [Not Secure] <MUFpy> kjlaskjasdlkjaskd
-[03:23:11] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
-[03:23:11] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
-[03:23:38] [Async Chat Thread - #22/INFO]: [Not Secure] <Lewis_Sema> basta, ya acabaron con la aldea
-[03:23:41] [Server thread/INFO]: CafecitoOcuo has made the advancement [Ol' Betsy]
-[03:23:50] [Async Chat Thread - #21/INFO]: [Not Secure] <Lewis_Sema> parecen jitanos
-[03:23:56] [Server thread/INFO]: CafecitoOcuo has made the advancement [Take Aim]
-[03:24:10] [Server thread/INFO]: CafecitoOcuo was slain by Lewis_Sema
-[03:25:09] [Server thread/INFO]: santino56 has made the advancement [Take Aim]
-[03:25:34] [Server thread/INFO]: CafecitoOcuo was shot by santino56
-[03:25:58] [Server thread/INFO]: CafecitoOcuo was shot by santino56
-[03:26:30] [Server thread/INFO]: CafecitoOcuo was shot by santino56
-[03:26:33] [Async Chat Thread - #23/INFO]: [Not Secure] <Lewis_Sema> gary
-[03:26:45] [Async Chat Thread - #24/INFO]: [Not Secure] <Lewis_Sema> tienen el encantamiento de penetracion profunda?
-[03:27:01] [Server thread/INFO]: CafecitoOcuo was shot by santino56
-[03:27:19] [Async Chat Thread - #23/INFO]: [Not Secure] <Lewis_Sema> yo no tengo espada
-[03:27:22] [Async Chat Thread - #24/INFO]: [Not Secure] <Lewis_Sema> solo la de diamante
-[03:27:23] [Server thread/INFO]: MUFpy was shot by Skeleton
-[03:27:34] [Async Chat Thread - #23/INFO]: [Not Secure] <MUFpy> de poco sirve el escudo
-[03:28:01] [Server thread/INFO]: CafecitoOcuo was shot by santino56
-[03:31:27] [Async Chat Thread - #25/INFO]: [Not Secure] <Lewis_Sema> jaspley, tienes tierra?
-[03:31:39] [Server thread/WARN]: Lewis_Sema moved too quickly! -10.698228761382097,2.0,4.025167664117703
-[03:31:46] [Server thread/WARN]: Lewis_Sema moved too quickly! -6.635409082928618,0.0,8.346240811194775
-[03:33:11] [Async Chat Thread - #27/INFO]: [Not Secure] <Lewis_Sema> jaspley, me regalas tu tierra?
-[03:33:17] [Async Chat Thread - #27/INFO]: [Not Secure] <MUFpy> obviiii
-[03:33:21] [Async Chat Thread - #28/INFO]: [Not Secure] <Lewis_Sema> gracias, te amo
-[03:33:37] [Async Chat Thread - #28/INFO]: [Not Secure] <Lewis_Sema> deja voy
-[03:33:54] [Server thread/INFO]: Lewis_Sema issued server command: /tp santino56
-[03:33:54] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to santino56]
-[03:38:48] [Server thread/INFO]: CafecitoOcuo was shot by Skeleton
-[03:38:54] [Async Chat Thread - #29/INFO]: [Not Secure] <Lewis_Sema> por amanerao
-[03:40:34] [Async Chat Thread - #31/INFO]: [Not Secure] <Lewis_Sema> quieres saber que si se sale por abajo?
-[03:43:11] [Server thread/INFO]: Gary_750 issued server command: /tp santino56 Gary_750
-[03:43:11] [Server thread/INFO]: [Gary_750: Teleported santino56 to Gary_750]
-[03:43:38] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[03:43:38] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[03:43:38] [Async Chat Thread - #33/INFO]: [Not Secure] <Lewis_Sema> que fue
-[03:43:42] [Async Chat Thread - #34/INFO]: [Not Secure] <Lewis_Sema> no pe
-[03:44:18] [Server thread/INFO]: Lewis_Sema fell from a high place
-[03:44:37] [Async Chat Thread - #33/INFO]: [Not Secure] <Lewis_Sema> puse la antorcha jaja
-[03:48:20] [Server thread/INFO]: Gary_750 issued server command: /tp santino56 Gary_750
-[03:48:20] [Server thread/INFO]: [Gary_750: Teleported santino56 to Gary_750]
-[03:54:10] [Async Chat Thread - #35/INFO]: [Not Secure] <MUFpy> se van los chiquitos o)))))
-[04:02:04] [Server thread/INFO]: MUFpy was shot by Skeleton
-[04:03:28] [Async Chat Thread - #38/INFO]: [Not Secure] <MUFpy> gary no sirven los escudos >:c
-[04:03:41] [Async Chat Thread - #37/INFO]: [Not Secure] <Gary_750> no es mi culpa que seas malos
-[04:04:12] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy Lewis_Sema
-[04:04:12] [Server thread/INFO]: [Gary_750: Teleported MUFpy to Lewis_Sema]
-[04:04:25] [Server thread/INFO]: MUFpy fell from a high place
-[04:12:46] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
-[04:12:46] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
-[04:13:56] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo Gary_750
-[04:13:56] [Server thread/INFO]: [Gary_750: Teleported CafecitoOcuo to Gary_750]
-[04:14:01] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
-[04:14:01] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
-[04:15:44] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo Gary_750
-[04:15:44] [Server thread/INFO]: [Gary_750: Teleported CafecitoOcuo to Gary_750]
-[04:17:56] [Server thread/INFO]: Gary_750 issued server command: /give @s minecraft:flint_and_steel
-[04:17:56] [Server thread/INFO]: [Gary_750: Gave 1 [Flint and Steel] to Gary_750]
-[04:19:43] [Server thread/INFO]: CafecitoOcuo was slain by Gary_750
-[04:19:59] [Async Chat Thread - #39/INFO]: [Not Secure] <MUFpy> webos
-[04:20:06] [Async Chat Thread - #40/INFO]: [Not Secure] <Gary_750> chupas y dejas nuevos
-[04:20:17] [Async Chat Thread - #40/INFO]: [Not Secure] <MUFpy> lkjasdlkjasd
-[04:22:40] [Server thread/INFO]: santino56 was slain by Gary_750
-[04:22:40] [Server thread/INFO]: CafecitoOcuo was burnt to a crisp whilst fighting santino56
-[04:23:34] [Server thread/INFO]: CafecitoOcuo was slain by Gary_750
-[04:24:34] [Server thread/INFO]: Gary_750 was slain by santino56
-[04:24:46] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[04:25:03] [Server thread/INFO]: santino56 was slain by Gary_750
-[04:25:18] [Server thread/INFO]: CafecitoOcuo was slain by Gary_750
-[04:25:55] [Server thread/INFO]: MUFpy has made the advancement [Suit Up]
-[04:26:42] [Server thread/INFO]: Lewis_Sema was slain by CafecitoOcuo
-[04:26:55] [Server thread/INFO]: CafecitoOcuo was burnt to a crisp whilst fighting Lewis_Sema
-[04:27:24] [Server thread/INFO]: CafecitoOcuo was shot by Lewis_Sema
-[04:31:54] [Server thread/INFO]: MUFpy has made the advancement [Hot Stuff]
-[04:32:01] [Server thread/INFO]: CafecitoOcuo was slain by Lewis_Sema
-[04:32:58] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[04:33:32] [Server thread/INFO]: Lewis_Sema was slain by Iron Golem
-[04:33:35] [Async Chat Thread - #41/INFO]: [Not Secure] <MUFpy> en que capa esta el carbon :c
-[04:33:36] [Server thread/INFO]: CafecitoOcuo was burnt to a crisp whilst fighting Gary_750
-[04:33:56] [Server thread/INFO]: CafecitoOcuo was slain by Lewis_Sema
-[04:34:34] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[04:35:51] [Server thread/INFO]: Villager EntityVillager['Villager'/66806, uuid='db87a656-e0f3-4889-a1cd-acc039731802', l='ServerLevel[world]', x=602.30, y=64.06, z=-271.80, cpos=[37, -17], tl=281050, v=true] died, message: 'Villager suffocated in a wall'
-[04:36:24] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[04:36:43] [Server thread/INFO]: MUFpy was slain by Zombie
-[04:38:00] [Server thread/INFO]: CafecitoOcuo was slain by Lewis_Sema
-[04:38:25] [Server thread/INFO]: Villager EntityVillager['Fisherman'/203694, uuid='3553cdeb-4ba6-49dd-b8d7-3a80e9445a2e', l='ServerLevel[world]', x=627.83, y=62.83, z=-286.17, cpos=[39, -18], tl=31911, v=true] died, message: 'Fisherman tried to swim in lava'
-[04:38:44] [Server thread/INFO]: Gary_750 tried to swim in lava to escape Lewis_Sema
-[04:39:19] [Server thread/INFO]: Gary_750 was slain by MUFpy
-[04:39:27] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[04:39:27] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[04:39:28] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[04:39:31] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:39:31] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[04:39:34] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[04:39:34] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[04:39:38] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:39:38] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[04:39:41] [Server thread/INFO]: MUFpy was slain by CafecitoOcuo
-[04:40:01] [Server thread/INFO]: Gary_750 issued server command: /gamerule keepInventory false
-[04:40:01] [Server thread/INFO]: [Gary_750: Gamerule keepInventory is now set to: false]
-[04:40:15] [Server thread/INFO]: CafecitoOcuo was shot by Lewis_Sema
-[04:40:23] [Server thread/INFO]: Gary_750 issued server command: /gamerule keepInventory true
-[04:40:23] [Server thread/INFO]: [Gary_750: Gamerule keepInventory is now set to: true]
-[04:40:25] [Server thread/INFO]: MUFpy has made the advancement [Cover Me with Diamonds]
-[04:41:16] [Async Chat Thread - #43/INFO]: [Not Secure] <MUFpy> oe gary activa eso ve {
-[04:41:18] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
-[04:41:18] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
-[04:41:32] [Server thread/INFO]: CafecitoOcuo was slain by Gary_750
-[04:42:04] [Server thread/INFO]: CafecitoOcuo was slain by MUFpy
-[04:42:25] [Async Chat Thread - #45/INFO]: [Not Secure] <MUFpy> pero manten la noche para que funcione la granja de hierro
-[04:43:21] [Server thread/INFO]: MUFpy has made the advancement [Best Friends Forever]
-[04:44:11] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[04:44:28] [Server thread/INFO]: Gary_750 was slain by Iron Golem
-[04:44:33] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[04:44:33] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[04:45:09] [Server thread/INFO]: MUFpy has made the advancement [Tactical Fishing]
-[04:45:44] [Async Chat Thread - #47/INFO]: [Not Secure] <MUFpy> le puse mimi
-[04:46:19] [Async Chat Thread - #48/INFO]: [Not Secure] <MUFpy> devilidad
-[04:46:28] [Async Chat Thread - #47/INFO]: [Not Secure] <MUFpy> si con v
-[04:46:42] [Async Chat Thread - #47/INFO]: [Not Secure] <MUFpy> y mi gataaa
-[04:46:48] [Async Chat Thread - #48/INFO]: [Not Secure] <MUFpy> aqui esta
-[04:48:18] [Async Chat Thread - #49/INFO]: [Not Secure] <MUFpy> con sexo?
-[04:50:49] [Async Chat Thread - #51/INFO]: [Not Secure] <MUFpy> eséra
-[04:52:19] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[04:52:19] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[04:52:28] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
-[04:52:28] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
-[04:55:53] [Server thread/INFO]: CafecitoOcuo was shot by Skeleton
-[04:57:24] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
-[04:57:24] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
-[05:00:02] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo MUFpy
-[05:00:02] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to MUFpy]
-[05:00:11] [Server thread/INFO]: CafecitoOcuo was slain by MUFpy
-[05:00:20] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo MUFpy
-[05:00:20] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to MUFpy]
-[05:00:34] [Async Chat Thread - #53/INFO]: [Not Secure] <MUFpy> 18
-[05:03:16] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
-[05:03:16] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
-[05:03:30] [Server thread/INFO]: Gary_750 issued server command: /tp santino56 Gary_750
-[05:03:30] [Server thread/INFO]: [Gary_750: Teleported santino56 to Gary_750]
-[05:07:13] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
-[05:07:13] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
-[05:08:37] [Server thread/INFO]: CafecitoOcuo was blown up by Creeper
-[05:10:09] [Async Chat Thread - #55/INFO]: [Not Secure] <MUFpy> quien tiene la piedra que ilumina
-[05:14:08] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
-[05:14:08] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
-[05:17:00] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
-[05:17:00] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
-[05:20:58] [Server thread/INFO]: Gary_750 issued server command: /tp santino56 Gary_750
-[05:20:58] [Server thread/INFO]: [Gary_750: Teleported santino56 to Gary_750]
-[05:22:40] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo Lewis_Sema
-[05:22:40] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to Lewis_Sema]
-[05:24:13] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
-[05:24:13] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
-[05:24:16] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
-[05:24:16] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
-[05:24:30] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
-[05:24:30] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
-[05:25:13] [Async Chat Thread - #57/INFO]: [Not Secure] <MUFpy> pon a jenis mod
-[05:26:49] [Server thread/INFO]: Gary_750 fell from a high place
-[05:27:03] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
-[05:27:03] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
-[05:27:08] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo Lewis_Sema
-[05:27:08] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to Lewis_Sema]
-[05:33:09] [Server thread/INFO]: Gary_750 was slain by Zombie
-[05:35:41] [Async Chat Thread - #60/INFO]: [Not Secure] <MUFpy> ya tiene la piedra que ilumina?
-[05:36:10] [Server thread/INFO]: CafecitoOcuo was slain by Lewis_Sema
-[05:36:28] [Server thread/INFO]: Lewis_Sema was slain by CafecitoOcuo
-[05:37:33] [Server thread/INFO]: CafecitoOcuo was slain by Lewis_Sema
-[05:39:22] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[05:39:54] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
-[05:39:54] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
-[05:40:31] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[05:41:03] [Server thread/INFO]: CafecitoOcuo was shot by Lewis_Sema
-[05:41:11] [Server thread/INFO]: Lewis_Sema was slain by Iron Golem
-[05:41:25] [Server thread/INFO]: santino56 was slain by Gary_750
-[05:41:38] [Server thread/INFO]: Gary_750 was slain by CafecitoOcuo
-[05:41:46] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo
-[05:41:46] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to CafecitoOcuo]
-[05:43:28] [Server thread/INFO]: santino56 was slain by Iron Golem
-[05:43:50] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[05:44:08] [Server thread/INFO]: CafecitoOcuo was slain by Gary_750
-[05:45:43] [Server thread/INFO]: CafecitoOcuo was burnt to a crisp whilst fighting Lewis_Sema
-[05:46:55] [Server thread/INFO]: Gary_750 has made the advancement [Hidden in the Depths]
-[05:47:42] [Server thread/INFO]: Gary_750 issued server command: /tp s
-[05:47:45] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
-[05:47:45] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
-[05:49:14] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
-[05:49:14] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
-[05:49:48] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo Lewis_Sema
-[05:49:48] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to Lewis_Sema]
-[05:49:55] [Server thread/INFO]: CafecitoOcuo fell from a high place
-[05:50:08] [Server thread/INFO]: Gary_750 has made the advancement [A Terrible Fortress]
-[05:50:15] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo Lewis_Sema
-[05:50:15] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to Lewis_Sema]
-[05:50:20] [Server thread/INFO]: Gary_750 has made the advancement [Into Fire]
-[05:50:25] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo Lewis_Sema
-[05:50:25] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to Lewis_Sema]
-[05:51:22] [Server thread/INFO]: CafecitoOcuo was shot by Lewis_Sema
-[05:53:13] [Async Chat Thread - #61/INFO]: [Not Secure] <MUFpy> no seras loko
-[05:53:25] [Server thread/INFO]: Gary_750 has made the advancement [Not Today, Thank You]
-[05:55:01] [Async Chat Thread - #63/INFO]: [Not Secure] <MUFpy> no
-[05:55:08] [Async Chat Thread - #63/INFO]: [Not Secure] <MUFpy> no
-[05:55:21] [Async Chat Thread - #63/INFO]: [Not Secure] <MUFpy> ta feo
-[05:55:36] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[05:55:59] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[05:57:17] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
-[05:57:17] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
-[05:58:14] [Server thread/INFO]: CafecitoOcuo fell from a high place
-[05:59:12] [Server thread/INFO]: CafecitoOcuo fell from a high place
-[05:59:48] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[06:02:22] [Server thread/INFO]: CafecitoOcuo was burnt to a crisp whilst fighting santino56
-[06:04:01] [Server thread/INFO]: CafecitoOcuo was slain by Lewis_Sema
-[06:04:34] [Async Chat Thread - #65/INFO]: [Not Secure] <Lewis_Sema> jaspley, tu tomas?
-[06:05:46] [Async Chat Thread - #67/INFO]: [Not Secure] <Lewis_Sema> si o no pe
-[06:08:09] [Server thread/INFO]: MUFpy has made the advancement [We Need to Go Deeper]
-[06:09:58] [Async Chat Thread - #69/INFO]: [Not Secure] <Lewis_Sema> mio xd
-[06:10:01] [Async Chat Thread - #70/INFO]: [Not Secure] <Lewis_Sema> no lo ocupo pe
-[06:10:11] [Async Chat Thread - #70/INFO]: [Not Secure] <Lewis_Sema> me compre el pechero y me quedo 20
-[06:10:17] [Async Chat Thread - #71/INFO]: [Not Secure] <Lewis_Sema> cual puerta
-[06:10:24] [Async Chat Thread - #69/INFO]: [Not Secure] <Lewis_Sema> no tengo
-[06:10:33] [Async Chat Thread - #71/INFO]: [Not Secure] <Lewis_Sema> el mayoneso la tiene
-[06:10:41] [Async Chat Thread - #69/INFO]: [Not Secure] <Lewis_Sema> XD
-[06:11:00] [Server thread/INFO]: Lewis_Sema was slain by CafecitoOcuo
-[06:11:14] [Server thread/INFO]: MUFpy was slain by Hoglin
-[06:11:28] [Async Chat Thread - #71/INFO]: [Not Secure] <Lewis_Sema> sale un ballistic
-[06:12:12] [Async Chat Thread - #69/INFO]: [Not Secure] <Lewis_Sema> para que estes pegado al fierro
-[06:12:19] [Async Chat Thread - #71/INFO]: [Not Secure] <Lewis_Sema> xd
-[06:13:37] [Async Chat Thread - #72/INFO]: [Not Secure] <Lewis_Sema> dile que la veo mas tarde
-[06:13:41] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
-[06:13:41] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
-[06:14:41] [Async Chat Thread - #74/INFO]: [Not Secure] <Lewis_Sema> a ti te gustan los corridos?
-[06:15:01] [Server thread/INFO]: Lewis_Sema issued server command: /tp santino56
-[06:15:01] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to santino56]
-[06:15:36] [Server thread/INFO]: CafecitoOcuo was burnt to a crisp whilst fighting Lewis_Sema
-[06:16:00] [Async Chat Thread - #76/INFO]: [Not Secure] <Lewis_Sema> que ganas de patear un bebe
-[06:18:57] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
-[06:18:57] [Server thread/INFO]: Lewis_Sema left the game
-[06:21:05] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[06:22:37] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[06:24:25] [Server thread/INFO]: CafecitoOcuo was shot by santino56
-[06:26:43] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[06:28:21] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[06:29:32] [Server thread/INFO]: Gary_750 was slain by Iron Golem
-[06:31:39] [Server thread/INFO]: CafecitoOcuo was slain by Gary_750
-[06:33:17] [Server thread/INFO]: Gary_750 was burnt to a crisp whilst fighting CafecitoOcuo
-[06:33:32] [Server thread/INFO]: CafecitoOcuo was slain by Gary_750
-[06:42:37] [Server thread/INFO]: MUFpy has made the advancement [What a Deal!]
-[06:42:50] [Server thread/INFO]: MUFpy was slain by CafecitoOcuo
-[06:45:36] [Server thread/INFO]: MUFpy was slain by CafecitoOcuo
-[06:46:29] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[06:49:05] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[06:51:24] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[06:55:39] [Server thread/INFO]: Gary_750 issued server command: /enchant @s minecraft:protection 6
-[06:57:04] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[06:58:00] [Server thread/INFO]: MUFpy has made the advancement [Not Today, Thank You]
-[06:59:10] [Server thread/INFO]: Gary_750 was burnt to a crisp whilst fighting CafecitoOcuo
-[06:59:38] [Server thread/INFO]: Gary_750 issued server command: /me se la chupa a el solito
-[06:59:38] [Server thread/INFO]: [Not Secure] * Gary_750 se la chupa a el solito
-[07:01:11] [Server thread/INFO]: MUFpy lost connection: Disconnected
-[07:01:11] [Server thread/INFO]: MUFpy left the game
-[07:01:39] [Server thread/INFO]: CafecitoOcuo was slain by Gary_750
-[07:03:18] [Server thread/INFO]: CafecitoOcuo was slain by santino56
-[07:06:57] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[07:06:57] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[07:07:07] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[07:07:07] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[07:07:40] [Server thread/INFO]: CafecitoOcuo lost connection: Disconnected
-[07:07:40] [Server thread/INFO]: CafecitoOcuo left the game
-[07:07:45] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[07:07:45] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[07:07:51] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure
-[07:07:51] [Server thread/INFO]: [Gary_750: Set own game mode to Adventure Mode]
-[07:09:05] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[07:09:05] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[07:09:16] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure
-[07:09:16] [Server thread/INFO]: [Gary_750: Set own game mode to Adventure Mode]
-[07:10:05] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[07:10:05] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[07:10:58] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure
-[07:10:58] [Server thread/INFO]: [Gary_750: Set own game mode to Adventure Mode]
-[07:10:59] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[07:10:59] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[07:12:14] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure
-[07:12:14] [Server thread/INFO]: [Gary_750: Set own game mode to Adventure Mode]
-[07:12:16] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[07:12:16] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[07:12:27] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure
-[07:12:27] [Server thread/INFO]: [Gary_750: Set own game mode to Adventure Mode]
-[07:13:12] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[07:13:12] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[07:13:25] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure
-[07:13:25] [Server thread/INFO]: [Gary_750: Set own game mode to Adventure Mode]
-[07:14:32] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[07:14:32] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[07:25:45] [Server thread/INFO]: Gary_750 has completed the challenge [Hot Tourist Destinations]
-[07:25:55] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
-[07:25:55] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
-[07:26:42] [Server thread/INFO]: Gary_750 issued server command: /xp set @s 30 levels
-[07:26:42] [Server thread/INFO]: [Gary_750: Set 30 experience levels on Gary_750]
-[07:29:15] [Server thread/INFO]: Gary_750 issued server command: /xp set @s 30 levels
-[07:29:15] [Server thread/INFO]: [Gary_750: Set 30 experience levels on Gary_750]
-[07:31:07] [Server thread/INFO]: Gary_750 issued server command: /xp set @s 30 levels
-[07:31:07] [Server thread/INFO]: [Gary_750: Set 30 experience levels on Gary_750]
-[07:33:21] [Server thread/INFO]: Gary_750 issued server command: /xp set @s 30 levels
-[07:33:21] [Server thread/INFO]: [Gary_750: Set 30 experience levels on Gary_750]
-[07:33:50] [Server thread/INFO]: Gary_750 issued server command: /xp set @s 30 levels
-[07:33:50] [Server thread/INFO]: [Gary_750: Set 30 experience levels on Gary_750]
-[07:34:02] [Server thread/INFO]: Gary_750 issued server command: /xp set @s 30 levels
-[07:34:02] [Server thread/INFO]: [Gary_750: Set 30 experience levels on Gary_750]
+[17:34:21] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:34:25] [ServerMain/INFO]: Loaded 7 recipes
+[17:34:26] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[17:34:26] [Server thread/INFO]: Loading properties
+[17:34:26] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[17:34:28] [Server thread/INFO]: Using 4 threads for Netty based IO
+[17:34:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[17:34:29] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[17:34:29] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[17:34:30] [Server thread/INFO]: Default game type: SURVIVAL
+[17:34:30] [Server thread/INFO]: Generating keypair
+[17:34:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[17:34:30] [Server thread/INFO]: Using epoll channel type
+[17:34:30] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[17:34:30] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[17:34:31] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[17:34:31] [Server thread/INFO]: [UltimateTimber] Loading server plugin UltimateTimber v3.4.0
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.h2database:h2:1.4.200 from https://repo1.maven.org/maven2
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'h2-1.4.200' successfully.
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.apache.commons:commons-text:1.12.0 from https://repo1.maven.org/maven2
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'commons-text-1.12.0' successfully.
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.reactivestreams:reactive-streams:1.0.2 from https://repo1.maven.org/maven2
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'reactive-streams-1.0.2' successfully.
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.slf4j:slf4j-api:2.0.11 from https://repo1.maven.org/maven2
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'slf4j-api-2.0.11' successfully.
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.jooq:jooq:3.14.16 from https://repo1.maven.org/maven2
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'jooq-3.14.16' successfully.
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.apache.commons:commons-lang3:3.14.0 from https://repo1.maven.org/maven2
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'commons-lang3-3.14.0' successfully.
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.github.cryptomorin:XSeries:12.0.0 from https://repo1.maven.org/maven2
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'XSeries-12.0.0' successfully.
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.zaxxer:HikariCP:4.0.3 from https://repo1.maven.org/maven2
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'HikariCP-4.0.3' successfully.
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.mariadb.jdbc:mariadb-java-client:3.2.0 from https://repo1.maven.org/maven2
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'mariadb-java-client-3.2.0' successfully.
+[17:34:31] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[17:34:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:34:31] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[17:34:33] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[17:34:33] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[17:34:34] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[17:34:34] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[17:34:34] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[17:34:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17:34:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[17:34:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17:34:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[17:34:34] [Server thread/INFO]: Preparing level "world"
+[17:34:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:34:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:34:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[17:34:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[17:34:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[17:34:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[17:34:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:34:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[17:34:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[17:34:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[17:34:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[17:34:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[17:34:35] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[17:34:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[17:34:38] [Server thread/INFO]: Time elapsed: 1518 ms
+[17:34:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[17:34:38] [Server thread/INFO]: Time elapsed: 54 ms
+[17:34:38] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[17:34:38] [Server thread/INFO]: Time elapsed: 31 ms
+[17:34:38] [Server thread/INFO]: [UltimateTimber] Enabling UltimateTimber v3.4.0
+[17:34:38] [Server thread/INFO]:  
+[17:34:38] [Server thread/INFO]: =============================
+[17:34:38] [Server thread/INFO]: UltimateTimber 3.4.0 by Songoda <3!
+[17:34:38] [Server thread/INFO]: Action: Enabling...
+[17:34:38] [Server thread/INFO]: [UltimateTimber] Loaded locale "en_US"
+[17:34:38] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] [CraftaroCore] Hooked UltimateTimber.
+[17:34:39] [Server thread/INFO]: =============================
+[17:34:39] [Server thread/INFO]:  
+[17:34:39] [Server thread/INFO]: Running delayed init tasks
+[17:34:39] [Server thread/INFO]: Done (12.841s)! For help, type "help"
+[17:34:39] [Server thread/INFO]: Timings Reset
+[17:34:57] [User Authenticator #0/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
+[17:34:58] [Server thread/INFO]: Gary_750 joined the game
+[17:34:58] [Server thread/INFO]: Gary_750[/127.182.125.247:53639] logged in with entity id 284 at ([world]608.9329057202269, 64.0, -269.35762490366193)
+[17:35:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5067ms or 101 ticks behind
+[17:41:48] [Server thread/INFO]: Gary_750 issued server command: /enchant @s minecraft:looting 3
+[17:41:48] [Server thread/INFO]: [Gary_750: Applied enchantment Looting III to Gary_750's item]
