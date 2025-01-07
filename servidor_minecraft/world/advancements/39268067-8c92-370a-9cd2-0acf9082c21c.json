@@ -311,6 +311,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 00:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-06 23:58:42 +0000"
@@ -347,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-07 00:10:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-01-06 23:01:32 +0000"
@@ -368,6 +380,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-01-06 23:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-01-07 00:11:15 +0000"
     },
     "done": true
   },
@@ -434,6 +452,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-06 23:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-07 00:10:12 +0000"
     },
     "done": true
   },
@@ -671,6 +695,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 00:11:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-06 23:01:26 +0000"
@@ -725,6 +755,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-01-07 00:07:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-06 23:58:42 +0000"
@@ -752,6 +788,18 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-06 23:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 00:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 00:11:15 +0000"
     },
     "done": true
   },
@@ -793,7 +841,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:ravager": "2025-01-07 00:08:46 +0000",
       "minecraft:spider": "2025-01-06 23:30:24 +0000",
+      "minecraft:vex": "2025-01-07 00:09:40 +0000",
       "minecraft:zombie": "2025-01-06 23:32:42 +0000"
     },
     "done": false
@@ -855,6 +905,12 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-06 23:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 00:11:15 +0000"
     },
     "done": true
   },
@@ -978,6 +1034,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-07 00:11:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-06 23:33:37 +0000"
@@ -990,6 +1052,7 @@
       "chicken": "2025-01-06 23:07:25 +0000",
       "cooked_beef": "2025-01-06 23:45:24 +0000",
       "beef": "2025-01-06 23:01:57 +0000",
+      "porkchop": "2025-01-07 00:08:55 +0000",
       "mutton": "2025-01-06 23:00:31 +0000",
       "rotten_flesh": "2025-01-06 22:58:04 +0000",
       "cooked_salmon": "2025-01-06 23:13:22 +0000"
@@ -1017,6 +1080,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-01-06 23:01:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 00:11:15 +0000"
     },
     "done": true
   },
@@ -1065,6 +1134,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-01-06 23:00:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 00:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-01-07 00:11:15 +0000"
     },
     "done": true
   },
