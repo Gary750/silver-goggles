@@ -155,3 +155,12 @@
 [19:19:52] [Server thread/INFO]: Lewis_Sema fell from a high place
 [19:19:59] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
 [19:19:59] [Server thread/INFO]: Lewis_Sema left the game
+[19:30:48] [Server thread/INFO]: Gary_750 issued server command: /kill
+[19:30:48] [Server thread/INFO]: Gary_750 was killed
+[19:30:48] [Server thread/INFO]: [Gary_750: Killed Gary_750]
+[19:34:27] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[19:34:27] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[19:35:11] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[19:35:11] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[19:35:26] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[19:35:26] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
