@@ -586,6 +586,7 @@
       "minecraft:spider": "2025-01-07 04:30:46 +0000",
       "minecraft:creeper": "2025-01-07 04:04:54 +0000",
       "minecraft:cave_spider": "2025-01-07 04:35:57 +0000",
+      "minecraft:piglin": "2025-01-07 22:58:48 +0000",
       "minecraft:zombie": "2025-01-07 02:20:41 +0000",
       "minecraft:zombie_villager": "2025-01-07 21:47:55 +0000"
     },
@@ -1773,6 +1774,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-07 23:05:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-01-07 21:34:17 +0000"
@@ -1782,6 +1789,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_oxeye_daisy": "2025-01-07 21:33:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-07 22:59:38 +0000"
     },
     "done": true
   },
