@@ -1810,5 +1810,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-01-08 02:18:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
