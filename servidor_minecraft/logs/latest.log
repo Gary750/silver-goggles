@@ -91,3 +91,7 @@
 [01:36:13] [Server thread/INFO]: MUFpy joined the game
 [01:36:13] [Server thread/INFO]: MUFpy[/127.157.187.186:38081] logged in with entity id 90 at ([world]506.2761998590098, 66.0, -170.9694380947029)
 [01:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5126ms or 102 ticks behind
+[01:52:50] [Server thread/INFO]: You whisper to MUFpy: un fornite?
+[01:53:00] [Async Chat Thread - #1/INFO]: [Not Secure] <MUFpy> wtf
+[01:53:14] [Async Chat Thread - #0/INFO]: [Not Secure] <MUFpy> i dont play fornite
+[01:53:28] [Server thread/INFO]: You whisper to MUFpy: XD
