@@ -18,3 +18,8 @@
 [00:49:52] [Server thread/INFO]: Gary_750 issued server command: /enchant @s minecraft:unbreaking 3
 [00:49:52] [Server thread/INFO]: [Gary_750: Applied enchantment Unbreaking III to Gary_750's item]
 [00:50:06] [Server thread/INFO]: Gary_750 has made the advancement [Spooky Scary Skeleton]
+[01:01:04] [Server thread/INFO]: Gary_750 issued server command: /kill
+[01:01:04] [Server thread/INFO]: Gary_750 was killed
+[01:01:04] [Server thread/INFO]: [Gary_750: Killed Gary_750]
+[01:02:40] [Server thread/INFO]: Gary_750 lost connection: Disconnected
+[01:02:40] [Server thread/INFO]: Gary_750 left the game
