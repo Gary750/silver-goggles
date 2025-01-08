@@ -4,3 +4,17 @@
 [00:31:42] [User Authenticator #8/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
 [00:31:42] [Server thread/INFO]: Gary_750 joined the game
 [00:31:42] [Server thread/INFO]: Gary_750[/127.182.125.247:56223] logged in with entity id 109241 at ([world]516.4750773573288, 64.0, -198.3496998934763)
+[00:42:00] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
+[00:42:00] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
+[00:42:16] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[00:42:16] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[00:45:59] [User Authenticator #9/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
+[00:45:59] [Server thread/INFO]: Lewis_Sema joined the game
+[00:45:59] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:47633] logged in with entity id 111857 at ([world]571.1491154899577, 64.0, -309.68365819077184)
+[00:47:11] [Server thread/INFO]: Gary_750 issued server command: /difficulty hard
+[00:47:11] [Server thread/INFO]: [Gary_750: The difficulty has been set to Hard]
+[00:49:21] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
+[00:49:21] [Server thread/INFO]: Lewis_Sema left the game
+[00:49:52] [Server thread/INFO]: Gary_750 issued server command: /enchant @s minecraft:unbreaking 3
+[00:49:52] [Server thread/INFO]: [Gary_750: Applied enchantment Unbreaking III to Gary_750's item]
+[00:50:06] [Server thread/INFO]: Gary_750 has made the advancement [Spooky Scary Skeleton]
