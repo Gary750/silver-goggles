@@ -169,3 +169,14 @@
 [03:33:40] [Async Chat Thread - #17/INFO]: [Not Secure] <Lewis_Sema> XD
 [03:33:43] [Async Chat Thread - #17/INFO]: [Not Secure] <Lewis_Sema> la cas xd
 [03:33:50] [Async Chat Thread - #18/INFO]: [Not Secure] <MUFpy> jkajkajkaajkajka
+[03:44:28] [Server thread/INFO]: MUFpy has made the advancement [A Terrible Fortress]
+[03:45:04] [Server thread/INFO]: MUFpy was burnt to a crisp whilst fighting Blaze
+[03:45:09] [User Authenticator #3/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
+[03:45:09] [Server thread/INFO]: Gary_750 joined the game
+[03:45:09] [Server thread/INFO]: Gary_750[/127.66.19.137:36607] logged in with entity id 25565 at ([world]610.5853033526905, 194.5, 55.22122952841355)
+[03:45:34] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
+[03:45:34] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[03:45:39] [Server thread/INFO]: Lewis_Sema burned to death
+[03:46:10] [Server thread/INFO]: MUFpy tried to swim in lava
+[03:46:14] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
+[03:46:14] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
