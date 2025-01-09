@@ -206,3 +206,20 @@
 [03:55:05] [Server thread/INFO]: Villager EntityVillager['Fisherman'/277, uuid='8a765f73-2be4-4683-9901-f5470cd923ee', l='ServerLevel[world]', x=627.54, y=61.89, z=-287.12, cpos=[39, -18], tl=735263, v=true] died, message: 'Fisherman tried to swim in lava'
 [03:56:43] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
 [03:56:43] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[04:00:47] [Async Chat Thread - #21/INFO]: [Not Secure] <Gary_750> jasplei
+[04:00:52] [Async Chat Thread - #22/INFO]: [Not Secure] <MUFpy> u
+[04:01:00] [Async Chat Thread - #21/INFO]: [Not Secure] <Gary_750> no le peges a los aldeanos
+[04:01:05] [Async Chat Thread - #21/INFO]: [Not Secure] <Gary_750> nos costo muchos
+[04:01:18] [Async Chat Thread - #22/INFO]: [Not Secure] <MUFpy> de que
+[04:02:25] [Async Chat Thread - #23/INFO]: [Not Secure] <Lewis_Sema> XD
+[04:05:16] [Server thread/WARN]: Lewis_Sema was kicked for floating too long!
+[04:05:16] [Server thread/INFO]: Lewis_Sema lost connection: Flying is not enabled on this server
+[04:05:16] [Server thread/INFO]: Lewis_Sema left the game
+[04:05:59] [Server thread/INFO]: Gary_750 issued server command: /give @s minecraft:bread 123
+[04:05:59] [Server thread/INFO]: [Gary_750: Gave 123 [Bread] to Gary_750]
+[04:06:37] [User Authenticator #4/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
+[04:06:37] [Server thread/INFO]: Lewis_Sema joined the game
+[04:06:37] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:59009] logged in with entity id 35091 at ([world_nether]172.7531171627355, 65.6970191516546, 4.162743963395364)
+[04:07:30] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
+[04:07:30] [Server thread/INFO]: Lewis_Sema left the game
+[04:07:53] [Server thread/INFO]: MUFpy was burnt to a crisp whilst fighting Gary_750
