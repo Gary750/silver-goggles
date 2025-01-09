@@ -180,3 +180,29 @@
 [03:46:10] [Server thread/INFO]: MUFpy tried to swim in lava
 [03:46:14] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
 [03:46:14] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
+[03:47:30] [Server thread/INFO]: MUFpy tried to swim in lava
+[03:47:31] [Async Chat Thread - #19/INFO]: [Not Secure] <Lewis_Sema> XD
+[03:47:44] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy Lewis_Sema
+[03:47:44] [Server thread/INFO]: [Lewis_Sema: Teleported MUFpy to Lewis_Sema]
+[03:48:37] [Server thread/INFO]: Lewis_Sema has made the advancement [A Terrible Fortress]
+[03:48:49] [Server thread/INFO]: MUFpy has made the advancement [Into Fire]
+[03:49:37] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
+[03:49:37] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
+[03:49:40] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
+[03:49:40] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
+[03:49:51] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[03:49:51] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[03:50:07] [Server thread/INFO]: Lewis_Sema was slain by Gary_750 using [Dark Repulser]
+[03:50:12] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[03:50:12] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[03:50:21] [Server thread/INFO]: MUFpy was burnt to a crisp whilst fighting Blaze
+[03:50:53] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[03:50:53] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[03:50:54] [Server thread/INFO]: Gary_750 fell from a high place
+[03:50:57] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[03:50:57] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[03:51:34] [Server thread/INFO]: Lewis_Sema was shot by Gary_750
+[03:53:47] [Server thread/INFO]: Villager EntityVillager['Fisherman'/278, uuid='5300b018-c473-4bc9-a084-ff53ebb74050', l='ServerLevel[world]', x=627.78, y=62.47, z=-287.13, cpos=[39, -18], tl=713800, v=true] died, message: 'Fisherman tried to swim in lava'
+[03:55:05] [Server thread/INFO]: Villager EntityVillager['Fisherman'/277, uuid='8a765f73-2be4-4683-9901-f5470cd923ee', l='ServerLevel[world]', x=627.54, y=61.89, z=-287.12, cpos=[39, -18], tl=735263, v=true] died, message: 'Fisherman tried to swim in lava'
+[03:56:43] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
+[03:56:43] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
