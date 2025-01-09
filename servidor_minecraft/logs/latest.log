@@ -1,491 +1,208 @@
-[02:16:00] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[02:16:02] [ServerMain/INFO]: Loaded 7 recipes
-[02:16:03] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[02:16:03] [Server thread/INFO]: Loading properties
-[02:16:04] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
-[02:16:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:16:04] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:16:05] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[19:08:53] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:08:57] [ServerMain/INFO]: Loaded 7 recipes
+[19:08:59] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[19:08:59] [Server thread/INFO]: Loading properties
+[19:08:59] [Server thread/INFO]: This server is running Paper version git-Paper-196 (MC: 1.20.1) (Implementing API version 1.20.1-R0.1-SNAPSHOT) (Git: 773dd72)
+[19:09:01] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:09:01] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:09:01] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[02:16:05] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
-[02:16:05] [Server thread/INFO]: Default game type: SURVIVAL
-[02:16:05] [Server thread/INFO]: Generating keypair
-[02:16:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:16:05] [Server thread/INFO]: Using epoll channel type
-[02:16:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:16:05] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:16:06] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
-[02:16:06] [Server thread/INFO]: [UltimateTimber] Loading server plugin UltimateTimber v3.4.0
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.slf4j:slf4j-api:2.0.11 from https://repo1.maven.org/maven2
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'slf4j-api-2.0.11' successfully.
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.reactivestreams:reactive-streams:1.0.2 from https://repo1.maven.org/maven2
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'reactive-streams-1.0.2' successfully.
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.zaxxer:HikariCP:4.0.3 from https://repo1.maven.org/maven2
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'HikariCP-4.0.3' successfully.
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.h2database:h2:1.4.200 from https://repo1.maven.org/maven2
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'h2-1.4.200' successfully.
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.apache.commons:commons-text:1.12.0 from https://repo1.maven.org/maven2
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'commons-text-1.12.0' successfully.
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.apache.commons:commons-lang3:3.14.0 from https://repo1.maven.org/maven2
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'commons-lang3-3.14.0' successfully.
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.github.cryptomorin:XSeries:12.0.0 from https://repo1.maven.org/maven2
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'XSeries-12.0.0' successfully.
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.jooq:jooq:3.14.16 from https://repo1.maven.org/maven2
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'jooq-3.14.16' successfully.
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.mariadb.jdbc:mariadb-java-client:3.2.0 from https://repo1.maven.org/maven2
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'mariadb-java-client-3.2.0' successfully.
-[02:16:06] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
-[02:16:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:16:06] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[02:16:07] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
-[02:16:07] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
-[02:16:08] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[02:16:08] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
-[02:16:08] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
-[02:16:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:16:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:16:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:16:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:16:08] [Server thread/INFO]: Preparing level "world"
-[02:16:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:16:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:16:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[02:16:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[02:16:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[02:16:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[02:16:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:16:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
-[02:16:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
-[02:16:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[02:16:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[02:16:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[02:16:09] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[02:16:10] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:16:10] [Server thread/INFO]: Time elapsed: 770 ms
-[02:16:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:16:10] [Server thread/INFO]: Time elapsed: 122 ms
-[02:16:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:16:11] [Server thread/INFO]: Time elapsed: 141 ms
-[02:16:11] [Server thread/INFO]: [UltimateTimber] Enabling UltimateTimber v3.4.0
-[02:16:11] [Server thread/INFO]:  
-[02:16:11] [Server thread/INFO]: =============================
-[02:16:11] [Server thread/INFO]: UltimateTimber 3.4.0 by Songoda <3!
-[02:16:11] [Server thread/INFO]: Action: Enabling...
-[02:16:11] [Server thread/INFO]: [UltimateTimber] Loaded locale "en_US"
-[02:16:11] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] [CraftaroCore] Hooked UltimateTimber.
-[02:16:12] [Server thread/INFO]: =============================
-[02:16:12] [Server thread/INFO]:  
-[02:16:12] [Server thread/INFO]: Running delayed init tasks
-[02:16:12] [Server thread/INFO]: Done (8.561s)! For help, type "help"
-[02:16:12] [Server thread/INFO]: Timings Reset
-[02:17:53] [User Authenticator #0/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
-[02:17:53] [Server thread/INFO]: Lewis_Sema joined the game
-[02:17:53] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:50229] logged in with entity id 304 at ([world]631.1246183449354, 69.0, -263.0296432299884)
-[02:27:44] [User Authenticator #1/INFO]: UUID of player MUFpy is cec66472-d60f-36b0-a82f-0b4b8531fac4
-[02:27:45] [Server thread/INFO]: MUFpy joined the game
-[02:27:45] [Server thread/INFO]: MUFpy[/127.222.130.215:51127] logged in with entity id 5038 at ([world]494.80744546128136, 64.5625, -201.4726512872058)
-[02:28:41] [Async Chat Thread - #1/INFO]: [Not Secure] <Lewis_Sema> hola mi amor
-[02:28:51] [Async Chat Thread - #1/INFO]: [Not Secure] <MUFpy> ay ay ay askjdaksjd
-[02:29:05] [Async Chat Thread - #0/INFO]: [Not Secure] <Lewis_Sema> jaspley, hay un aldeano abajo
-[02:29:07] [Async Chat Thread - #1/INFO]: [Not Secure] <Lewis_Sema> mira
-[02:29:21] [Async Chat Thread - #1/INFO]: [Not Secure] <MUFpy> tp
-[02:29:29] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy Lewis_Sema
-[02:29:29] [Server thread/INFO]: [Lewis_Sema: Teleported MUFpy to Lewis_Sema]
-[02:29:42] [Async Chat Thread - #0/INFO]: [Not Secure] <MUFpy> asjlkasjlkasjlkasjlkasjlkasjlkasjlkas
-[02:29:48] [Async Chat Thread - #1/INFO]: [Not Secure] <Lewis_Sema> no se como subirlo
-[02:31:07] [Async Chat Thread - #2/INFO]: [Not Secure] <MUFpy> el aldeano desaparecio
-[02:31:20] [Async Chat Thread - #3/INFO]: [Not Secure] <Lewis_Sema> despues le decimos al santero jaja
-[02:31:32] [Async Chat Thread - #3/INFO]: [Not Secure] <MUFpy> lo wncontre aksjdkad
-[02:31:58] [Async Chat Thread - #3/INFO]: [Not Secure] <Lewis_Sema> sabes donde esta la zona de farmeo?
-[02:32:04] [Async Chat Thread - #3/INFO]: [Not Secure] <Lewis_Sema> para exp
-[02:32:10] [Async Chat Thread - #2/INFO]: [Not Secure] <MUFpy> el gary sabe aksjdakjsd
-[02:39:42] [Server thread/INFO]: MUFpy fell from a high place
-[02:41:17] [Server thread/INFO]: MUFpy has made the advancement [Fishy Business]
-[02:45:26] [Async Chat Thread - #4/INFO]: [Not Secure] <Lewis_Sema> jaspley
-[02:45:32] [Async Chat Thread - #5/INFO]: [Not Secure] <Lewis_Sema> ya terminaste tu casa?
-[02:45:32] [Async Chat Thread - #4/INFO]: [Not Secure] <MUFpy> dilo
-[02:45:38] [Async Chat Thread - #5/INFO]: [Not Secure] <MUFpy> jkajkas nonono
-[02:45:51] [Async Chat Thread - #4/INFO]: [Not Secure] <Lewis_Sema> yo apenas la voy hacer
-[02:46:08] [Async Chat Thread - #4/INFO]: [Not Secure] <MUFpy> ajkajkajkajka no era la mansion de tierra?
-[02:56:22] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
-[02:56:22] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
-[02:56:49] [Async Chat Thread - #6/INFO]: [Not Secure] <MUFpy> ay ay ay ay ay ay ay
-[02:58:04] [Server thread/INFO]: Lewis_Sema was impaled by Drowned
-[03:03:02] [Async Chat Thread - #8/INFO]: [Not Secure] <Lewis_Sema> jaspley, quien hizo un pilar en mi pene?
-[03:03:14] [Async Chat Thread - #9/INFO]: [Not Secure] <MUFpy> jkakjakjakaj ni idea alskd
-[03:12:24] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
-[03:12:24] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
-[03:12:57] [Server thread/INFO]: Lewis_Sema issued server command: /time set day
-[03:12:57] [Server thread/INFO]: [Lewis_Sema: Set the time to 1000]
-[03:13:45] [Async Chat Thread - #10/INFO]: [Not Secure] <Lewis_Sema> jaspley
-[03:13:51] [Async Chat Thread - #11/INFO]: [Not Secure] <MUFpy> oei oei oie
-[03:14:02] [Async Chat Thread - #10/INFO]: [Not Secure] <Lewis_Sema> exploto un creeper en la granja
-[03:14:23] [Async Chat Thread - #11/INFO]: [Not Secure] <MUFpy> jkajkaajkajkajkakajkakakjajkaa documentaselo a gary
-[03:14:28] [Async Chat Thread - #10/INFO]: [Not Secure] <Lewis_Sema> no me responde mi amor
-[03:14:46] [Async Chat Thread - #11/INFO]: [Not Secure] <MUFpy> jkakjakja dej ver
-[03:14:52] [Async Chat Thread - #12/INFO]: [Not Secure] <Lewis_Sema> vamos
-[03:16:56] [Async Chat Thread - #13/INFO]: [Not Secure] <Lewis_Sema> mira
-[03:17:13] [Async Chat Thread - #14/INFO]: [Not Secure] <MUFpy> aaaaaaa
-[03:17:15] [Async Chat Thread - #13/INFO]: [Not Secure] <Lewis_Sema> XD
-[03:17:32] [Async Chat Thread - #14/INFO]: [Not Secure] <MUFpy> porque esta en la mierda???
-[03:18:12] [Server thread/INFO]: Lewis_Sema issued server command: /difficulty peaceful
-[03:18:12] [Server thread/INFO]: [Lewis_Sema: The difficulty has been set to Peaceful]
-[03:18:16] [Async Chat Thread - #13/INFO]: [Not Secure] <Lewis_Sema> ya viene el gary
-[03:18:21] [Async Chat Thread - #14/INFO]: [Not Secure] <MUFpy> ajkkajakjajkajka
-[03:18:24] [Async Chat Thread - #13/INFO]: [Not Secure] <Lewis_Sema> nos besamos?
-[03:18:29] [Async Chat Thread - #14/INFO]: [Not Secure] <MUFpy> ya ya aqui me quedo
-[03:18:41] [Async Chat Thread - #13/INFO]: [Not Secure] <Lewis_Sema> dice que ya viene, estaba en el baño cuando entro a llamada jaja
-[03:18:44] [Async Chat Thread - #14/INFO]: [Not Secure] <Lewis_Sema> se anda clonando
-[03:20:29] [User Authenticator #2/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
-[03:20:29] [Server thread/INFO]: Gary_750 joined the game
-[03:20:29] [Server thread/INFO]: Gary_750[/127.66.19.137:40379] logged in with entity id 18972 at ([world]583.1710048506152, 66.0, -243.56565226025972)
-[03:20:51] [Async Chat Thread - #15/INFO]: [Not Secure] <MUFpy> gary tp a mi
-[03:21:34] [Async Chat Thread - #16/INFO]: [Not Secure] <Gary_750> ESTABA CAGANDO LPTM
-[03:21:57] [Async Chat Thread - #15/INFO]: [Not Secure] <MUFpy> ya pero tp a mi
-[03:22:02] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
-[03:22:02] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
-[03:22:32] [Async Chat Thread - #15/INFO]: [Not Secure] <Lewis_Sema> gary, sabes donde esta el bioma de nieve?
-[03:22:54] [Server thread/INFO]: Gary_750 issued server command: /difficulty hard
-[03:22:54] [Server thread/INFO]: [Gary_750: The difficulty has been set to Hard]
-[03:23:15] [Async Chat Thread - #16/INFO]: [Not Secure] <Gary_750> ya esta la granja
-[03:23:30] [Async Chat Thread - #15/INFO]: [Not Secure] <Gary_750> solo no se acerquen mucho cuando haya creepers
-[03:23:35] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
-[03:23:35] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
-[03:23:41] [Async Chat Thread - #15/INFO]: [Not Secure] <Gary_750> porque si llegan a explotar xd
-[03:23:44] [Async Chat Thread - #16/INFO]: [Not Secure] <Lewis_Sema> gracias uwu
-[03:24:02] [Server thread/INFO]: Gary_750 lost connection: Disconnected
-[03:24:02] [Server thread/INFO]: Gary_750 left the game
-[03:33:29] [Async Chat Thread - #17/INFO]: [Not Secure] <Lewis_Sema> y ese hoyo xd
-[03:33:33] [Async Chat Thread - #18/INFO]: [Not Secure] <MUFpy> lalkajkajk
-[03:33:40] [Async Chat Thread - #17/INFO]: [Not Secure] <Lewis_Sema> XD
-[03:33:43] [Async Chat Thread - #17/INFO]: [Not Secure] <Lewis_Sema> la cas xd
-[03:33:50] [Async Chat Thread - #18/INFO]: [Not Secure] <MUFpy> jkajkajkaajkajka
-[03:44:28] [Server thread/INFO]: MUFpy has made the advancement [A Terrible Fortress]
-[03:45:04] [Server thread/INFO]: MUFpy was burnt to a crisp whilst fighting Blaze
-[03:45:09] [User Authenticator #3/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
-[03:45:09] [Server thread/INFO]: Gary_750 joined the game
-[03:45:09] [Server thread/INFO]: Gary_750[/127.66.19.137:36607] logged in with entity id 25565 at ([world]610.5853033526905, 194.5, 55.22122952841355)
-[03:45:34] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
-[03:45:34] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
-[03:45:39] [Server thread/INFO]: Lewis_Sema burned to death
-[03:46:10] [Server thread/INFO]: MUFpy tried to swim in lava
-[03:46:14] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
-[03:46:14] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
-[03:47:30] [Server thread/INFO]: MUFpy tried to swim in lava
-[03:47:31] [Async Chat Thread - #19/INFO]: [Not Secure] <Lewis_Sema> XD
-[03:47:44] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy Lewis_Sema
-[03:47:44] [Server thread/INFO]: [Lewis_Sema: Teleported MUFpy to Lewis_Sema]
-[03:48:37] [Server thread/INFO]: Lewis_Sema has made the advancement [A Terrible Fortress]
-[03:48:49] [Server thread/INFO]: MUFpy has made the advancement [Into Fire]
-[03:49:37] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
-[03:49:37] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
-[03:49:40] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
-[03:49:40] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
-[03:49:51] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[03:49:51] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[03:50:07] [Server thread/INFO]: Lewis_Sema was slain by Gary_750 using [Dark Repulser]
-[03:50:12] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[03:50:12] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[03:50:21] [Server thread/INFO]: MUFpy was burnt to a crisp whilst fighting Blaze
-[03:50:53] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[03:50:53] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[03:50:54] [Server thread/INFO]: Gary_750 fell from a high place
-[03:50:57] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[03:50:57] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[03:51:34] [Server thread/INFO]: Lewis_Sema was shot by Gary_750
-[03:53:47] [Server thread/INFO]: Villager EntityVillager['Fisherman'/278, uuid='5300b018-c473-4bc9-a084-ff53ebb74050', l='ServerLevel[world]', x=627.78, y=62.47, z=-287.13, cpos=[39, -18], tl=713800, v=true] died, message: 'Fisherman tried to swim in lava'
-[03:55:05] [Server thread/INFO]: Villager EntityVillager['Fisherman'/277, uuid='8a765f73-2be4-4683-9901-f5470cd923ee', l='ServerLevel[world]', x=627.54, y=61.89, z=-287.12, cpos=[39, -18], tl=735263, v=true] died, message: 'Fisherman tried to swim in lava'
-[03:56:43] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
-[03:56:43] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
-[04:00:47] [Async Chat Thread - #21/INFO]: [Not Secure] <Gary_750> jasplei
-[04:00:52] [Async Chat Thread - #22/INFO]: [Not Secure] <MUFpy> u
-[04:01:00] [Async Chat Thread - #21/INFO]: [Not Secure] <Gary_750> no le peges a los aldeanos
-[04:01:05] [Async Chat Thread - #21/INFO]: [Not Secure] <Gary_750> nos costo muchos
-[04:01:18] [Async Chat Thread - #22/INFO]: [Not Secure] <MUFpy> de que
-[04:02:25] [Async Chat Thread - #23/INFO]: [Not Secure] <Lewis_Sema> XD
-[04:05:16] [Server thread/WARN]: Lewis_Sema was kicked for floating too long!
-[04:05:16] [Server thread/INFO]: Lewis_Sema lost connection: Flying is not enabled on this server
-[04:05:16] [Server thread/INFO]: Lewis_Sema left the game
-[04:05:59] [Server thread/INFO]: Gary_750 issued server command: /give @s minecraft:bread 123
-[04:05:59] [Server thread/INFO]: [Gary_750: Gave 123 [Bread] to Gary_750]
-[04:06:37] [User Authenticator #4/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
-[04:06:37] [Server thread/INFO]: Lewis_Sema joined the game
-[04:06:37] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:59009] logged in with entity id 35091 at ([world_nether]172.7531171627355, 65.6970191516546, 4.162743963395364)
-[04:07:30] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
-[04:07:30] [Server thread/INFO]: Lewis_Sema left the game
-[04:07:53] [Server thread/INFO]: MUFpy was burnt to a crisp whilst fighting Gary_750
-[04:08:46] [User Authenticator #5/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
-[04:08:46] [Server thread/INFO]: Lewis_Sema joined the game
-[04:08:46] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:54299] logged in with entity id 35935 at ([world_nether]172.7531171627355, 65.0, 4.162743963395364)
-[04:08:53] [Server thread/INFO]: Lewis_Sema was fireballed by Ghast
-[04:09:43] [User Authenticator #5/INFO]: UUID of player CafecitoOcuo is 81e269ff-a530-32e1-be29-883c266903f3
-[04:09:43] [Server thread/INFO]: CafecitoOcuo joined the game
-[04:09:43] [Server thread/INFO]: CafecitoOcuo[/127.107.184.223:41815] logged in with entity id 36090 at ([world]603.8079528228311, 64.0, -262.89010662037253)
-[04:10:02] [Server thread/INFO]: CafecitoOcuo was burnt to a crisp whilst fighting Gary_750
-[04:10:30] [Server thread/INFO]: CafecitoOcuo fell from a high place
-[04:11:06] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo Gary_750
-[04:11:06] [Server thread/INFO]: [Gary_750: Teleported CafecitoOcuo to Gary_750]
-[04:11:09] [Server thread/INFO]: CafecitoOcuo fell from a high place
-[04:11:14] [Server thread/INFO]: Gary_750 fell from a high place
-[04:11:38] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo Gary_750
-[04:11:38] [Server thread/INFO]: [Gary_750: Teleported CafecitoOcuo to Gary_750]
-[04:11:54] [Server thread/INFO]: CafecitoOcuo was doomed to fall
-[04:14:24] [Server thread/INFO]: Gary_750 fell from a high place
-[04:14:46] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo Gary_750
-[04:14:46] [Server thread/INFO]: [Gary_750: Teleported CafecitoOcuo to Gary_750]
-[04:14:55] [Server thread/INFO]: Gary_750 was blown up by Creeper
-[04:14:56] [Server thread/INFO]: CafecitoOcuo was burnt to a crisp whilst fighting Gary_750
-[04:15:47] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
-[04:15:47] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
-[04:16:00] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure CafecitoOcuo
-[04:16:00] [Server thread/INFO]: [Gary_750: Set CafecitoOcuo's game mode to Adventure Mode]
-[04:16:09] [Server thread/INFO]: Lewis_Sema was slain by CafecitoOcuo
-[04:16:34] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema CafecitoOcuo
-[04:16:34] [Server thread/INFO]: [Gary_750: Teleported Lewis_Sema to CafecitoOcuo]
-[04:16:39] [Server thread/INFO]: Lewis_Sema was slain by CafecitoOcuo
-[04:17:02] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival CafecitoOcuo
-[04:17:02] [Server thread/INFO]: [Gary_750: Set CafecitoOcuo's game mode to Survival Mode]
-[04:17:02] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
-[04:17:02] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
-[04:17:15] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[04:17:15] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[04:18:42] [Server thread/INFO]: MUFpy was burnt to a crisp whilst fighting Gary_750
-[04:18:45] [Async Chat Thread - #25/INFO]: [Not Secure] <Lewis_Sema> XD
-[04:18:50] [Async Chat Thread - #26/INFO]: [Not Secure] <MUFpy> eso que
-[04:18:50] [Async Chat Thread - #25/INFO]: [Not Secure] <Lewis_Sema> te mataron mi amor
-[04:19:00] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
-[04:19:00] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
-[04:19:21] [Server thread/INFO]: MUFpy was burnt to a crisp whilst fighting Gary_750
-[04:21:21] [Async Chat Thread - #27/INFO]: [Not Secure] <Gary_750> jasplei miamor
-[04:21:26] [Async Chat Thread - #28/INFO]: [Not Secure] <Gary_750> estas viendo porno solo?
-[04:21:28] [Async Chat Thread - #27/INFO]: [Not Secure] <MUFpy> oe
-[04:21:29] [Async Chat Thread - #28/INFO]: [Not Secure] <Lewis_Sema> jaspley, hazme el amor
-[04:21:33] [Async Chat Thread - #27/INFO]: [Not Secure] <MUFpy> alksjdalkjsd
-[04:21:44] [Async Chat Thread - #28/INFO]: [Not Secure] <Gary_750> jasplei y vici?
-[04:22:00] [Async Chat Thread - #27/INFO]: [Not Secure] <MUFpy> anda en vicicleta
-[04:22:11] [Async Chat Thread - #28/INFO]: [Not Secure] <Gary_750> no era tu novia?
-[04:22:15] [Async Chat Thread - #27/INFO]: [Not Secure] <Lewis_Sema> quieres subirte a una conmigo?, pero sin aciento
-[04:22:21] [Async Chat Thread - #28/INFO]: [Not Secure] <Lewis_Sema> nos subimos a una montaña
-[04:22:32] [Async Chat Thread - #29/INFO]: [Not Secure] <Gary_750> martin, ese secreto es nuestro
-[04:22:32] [Async Chat Thread - #27/INFO]: [Not Secure] <MUFpy> jkajkaakjakj ya ya ya ya
-[04:22:43] [Async Chat Thread - #29/INFO]: [Not Secure] <Gary_750> calla femoby
-[04:22:48] [Async Chat Thread - #27/INFO]: [Not Secure] <Gary_750> calla femboy
-[04:22:55] [Async Chat Thread - #29/INFO]: [Not Secure] <Gary_750> jasplei
-[04:23:01] [Async Chat Thread - #27/INFO]: [Not Secure] <Gary_750> eri femboy?
-[04:23:09] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
-[04:23:09] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
-[04:23:11] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[04:23:11] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[04:23:57] [Async Chat Thread - #27/INFO]: [Not Secure] <Lewis_Sema> jaspley
-[04:24:09] [Async Chat Thread - #29/INFO]: [Not Secure] <MUFpy> eu
-[04:24:16] [Async Chat Thread - #29/INFO]: [Not Secure] <Lewis_Sema> no quieres tener un novio mexicano?
-[04:24:31] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
-[04:24:31] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
-[04:24:33] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[04:24:33] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[04:24:34] [Async Chat Thread - #27/INFO]: [Not Secure] <MUFpy> ajkajkajkaajk nononononononononon
-[04:24:35] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:24:35] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[04:24:40] [Async Chat Thread - #27/INFO]: [Not Secure] <Lewis_Sema> porque no mi amor
-[04:24:42] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure MUFpy
-[04:24:42] [Server thread/INFO]: [Gary_750: Set MUFpy's game mode to Adventure Mode]
-[04:24:45] [Async Chat Thread - #29/INFO]: [Not Secure] <Lewis_Sema> te traigo a tijuana
-[04:24:50] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy Gary_750
-[04:24:50] [Server thread/INFO]: [Gary_750: Teleported MUFpy to Gary_750]
-[04:24:51] [Async Chat Thread - #27/INFO]: [Not Secure] <MUFpy> aaaaaaa
-[04:24:53] [Server thread/INFO]: Gary_750 issued server command: /tp Gary_750
-[04:24:53] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Gary_750]
-[04:24:56] [Async Chat Thread - #29/INFO]: [Not Secure] <MUFpy> no puedo minar
-[04:24:58] [Server thread/INFO]: Gary_750 issued server command: /tp l
-[04:25:01] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[04:25:01] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[04:25:19] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo Lewis_Sema
-[04:25:19] [Server thread/INFO]: [Gary_750: Teleported CafecitoOcuo to Lewis_Sema]
-[04:25:34] [Async Chat Thread - #29/INFO]: [Not Secure] <CafecitoOcuo> pero salte jasplei
-[04:25:35] [Async Chat Thread - #27/INFO]: [Not Secure] <MUFpy> en efecto
-[04:26:43] [Async Chat Thread - #30/INFO]: [Not Secure] <Lewis_Sema> te saco si nos besamos
-[04:26:44] [Async Chat Thread - #31/INFO]: [Not Secure] <Gary_750> pero salte
-[04:26:50] [Async Chat Thread - #30/INFO]: [Not Secure] <MUFpy> no vale
-[04:26:58] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
-[04:26:58] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
-[04:26:59] [Async Chat Thread - #31/INFO]: [Not Secure] <Lewis_Sema> andale, no te vas a arrepentir
-[04:27:08] [Async Chat Thread - #30/INFO]: [Not Secure] <Gary_750> martin sacame
-[04:27:09] [Async Chat Thread - #31/INFO]: [Not Secure] <MUFpy> y como se hace
-[04:27:11] [Server thread/INFO]: CafecitoOcuo was shot by Lewis_Sema
-[04:27:18] [Async Chat Thread - #30/INFO]: [Not Secure] <Gary_750> pero tu dedo de mi culo
-[04:27:25] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[04:27:25] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[04:27:26] [Async Chat Thread - #31/INFO]: [Not Secure] <Lewis_Sema> XD
-[04:27:29] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[04:27:29] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[04:27:33] [Async Chat Thread - #30/INFO]: [Not Secure] <MUFpy> jakjajk te gusto
-[04:27:37] [Async Chat Thread - #31/INFO]: [Not Secure] <Lewis_Sema> jaspley, te saco pero si tenemos una noche de pasion
-[04:27:43] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:27:43] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[04:27:44] [Async Chat Thread - #30/INFO]: [Not Secure] <MUFpy> yaaaa
-[04:27:47] [Async Chat Thread - #31/INFO]: [Not Secure] <Lewis_Sema> las cortinas seran nuestros unicos testigos
-[04:27:51] [Async Chat Thread - #30/INFO]: [Not Secure] <Lewis_Sema> entre nuestro romance
-[04:28:05] [Async Chat Thread - #31/INFO]: [Not Secure] <MUFpy> que gei oe
-[04:28:15] [Async Chat Thread - #30/INFO]: [Not Secure] <Lewis_Sema> eri homofobico?
-[04:28:21] [Async Chat Thread - #31/INFO]: [Not Secure] <CafecitoOcuo> si bien que te encanta
-[04:28:22] [Async Chat Thread - #31/INFO]: [Not Secure] <Gary_750> no te recuerda esto a algo jasplei?
-[04:28:23] [Async Chat Thread - #31/INFO]: [Not Secure] <MUFpy> no >:c
-[04:28:25] [Async Chat Thread - #30/INFO]: [Not Secure] <CafecitoOcuo> grrrr
-[04:28:31] [Async Chat Thread - #31/INFO]: [Not Secure] <Lewis_Sema> yo si, que se mueran los gays
-[04:28:34] [Async Chat Thread - #31/INFO]: [Not Secure] <MUFpy> a los skywars
-[04:28:38] [Async Chat Thread - #31/INFO]: [Not Secure] <Gary_750> no
-[04:28:42] [Async Chat Thread - #30/INFO]: [Not Secure] <MUFpy> hjajkajka{
-[04:28:43] [Async Chat Thread - #31/INFO]: [Not Secure] <Gary_750> hace 4 años
-[04:28:44] [Async Chat Thread - #30/INFO]: [Not Secure] <MUFpy> que
-[04:28:55] [Async Chat Thread - #31/INFO]: [Not Secure] <MUFpy> hace 4 años le viciaba alosu
-[04:29:03] [Async Chat Thread - #31/INFO]: [Not Secure] <Gary_750> por eso
-[04:29:04] [Async Chat Thread - #30/INFO]: [Not Secure] <Lewis_Sema> xd
-[04:29:16] [Async Chat Thread - #31/INFO]: [Not Secure] <MUFpy> y que pasa
-[04:29:17] [Async Chat Thread - #31/INFO]: [Not Secure] <Gary_750> asi estabas encerrado en el osu
-[04:29:32] [Async Chat Thread - #31/INFO]: [Not Secure] <MUFpy> jkjkajkajkajk es una especie de leccion?
-[04:29:36] [Async Chat Thread - #30/INFO]: [Not Secure] <Gary_750> cy
-[04:29:39] [Async Chat Thread - #30/INFO]: [Not Secure] <Gary_750> adios
-[04:29:45] [Async Chat Thread - #30/INFO]: [Not Secure] <MUFpy> santurron
-[04:29:53] [Async Chat Thread - #31/INFO]: [Not Secure] <Lewis_Sema> yo te saco mi amor, cai en mis brazos y nos besamos
-[04:29:55] [Server thread/INFO]: Gary_750 issued server command: /kick @a
-[04:29:55] [Server thread/INFO]: Gary_750 lost connection: Kicked by an operator
-[04:29:55] [Server thread/INFO]: Gary_750 left the game
-[04:29:55] [Server thread/INFO]: [Gary_750: Kicked Gary_750: Kicked by an operator]
-[04:29:55] [Server thread/INFO]: Lewis_Sema lost connection: Kicked by an operator
-[04:29:55] [Server thread/INFO]: Lewis_Sema left the game
-[04:29:55] [Server thread/INFO]: [Gary_750: Kicked Lewis_Sema: Kicked by an operator]
-[04:29:55] [Server thread/INFO]: MUFpy lost connection: Kicked by an operator
-[04:29:55] [Server thread/INFO]: MUFpy left the game
-[04:29:55] [Server thread/INFO]: [Gary_750: Kicked MUFpy: Kicked by an operator]
-[04:29:55] [Server thread/INFO]: CafecitoOcuo lost connection: Kicked by an operator
-[04:29:55] [Server thread/INFO]: CafecitoOcuo left the game
-[04:29:55] [Server thread/INFO]: [Gary_750: Kicked CafecitoOcuo: Kicked by an operator]
-[04:30:00] [User Authenticator #6/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
-[04:30:00] [Server thread/INFO]: Gary_750 joined the game
-[04:30:00] [Server thread/INFO]: Gary_750[/127.66.19.137:56413] logged in with entity id 41298 at ([world]480.9844569284627, 65.0, -229.86319117195063)
-[04:30:00] [User Authenticator #7/INFO]: UUID of player MUFpy is cec66472-d60f-36b0-a82f-0b4b8531fac4
-[04:30:01] [Server thread/INFO]: MUFpy joined the game
-[04:30:01] [Server thread/INFO]: MUFpy[/127.222.130.215:40697] logged in with entity id 41317 at ([world]485.30000001192093, 66.0, -227.30000001192093)
-[04:30:12] [Async Chat Thread - #30/INFO]: [Not Secure] <MUFpy> jkajkajkaakj sacaste a todos
-[04:30:19] [User Authenticator #7/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
-[04:30:19] [Server thread/INFO]: Lewis_Sema joined the game
-[04:30:19] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:58859] logged in with entity id 41350 at ([world]479.918061751391, 65.0, -229.32740682225568)
-[04:30:37] [Async Chat Thread - #31/INFO]: [Not Secure] <Lewis_Sema> jaspley
-[04:30:42] [Async Chat Thread - #31/INFO]: [Not Secure] <Lewis_Sema> te saco con una condicion
-[04:30:43] [Async Chat Thread - #30/INFO]: [Not Secure] <MUFpy> eu
-[04:30:47] [Async Chat Thread - #30/INFO]: [Not Secure] <MUFpy> noche de pasion
-[04:30:50] [Async Chat Thread - #31/INFO]: [Not Secure] <Gary_750> mata al alfo
-[04:30:52] [Async Chat Thread - #30/INFO]: [Not Secure] <Lewis_Sema> aparte
-[04:30:58] [Async Chat Thread - #31/INFO]: [Not Secure] <Lewis_Sema> te hare tp a la puntita
-[04:31:03] [Async Chat Thread - #30/INFO]: [Not Secure] <Lewis_Sema> y veremos el amanecer
-[04:31:05] [Async Chat Thread - #31/INFO]: [Not Secure] <MUFpy> jkajkaakj le lleno la casa de botones y trampas
-[04:31:16] [Async Chat Thread - #30/INFO]: [Not Secure] <Gary_750> no tiene casa
-[04:31:17] [Async Chat Thread - #31/INFO]: [Not Secure] <Gary_750> unu
-[04:31:28] [Async Chat Thread - #31/INFO]: [Not Secure] <MUFpy> pues construyele
-[04:31:30] [Async Chat Thread - #31/INFO]: [Not Secure] <Gary_750> hazle la vida imposible al alfo
-[04:31:38] [Async Chat Thread - #31/INFO]: [Not Secure] <MUFpy> jajkajkakjakj ya ya ya ya
-[04:31:45] [Async Chat Thread - #31/INFO]: [Not Secure] <Gary_750> cada que se conecter
-[04:31:47] [Async Chat Thread - #31/INFO]: [Not Secure] <Lewis_Sema> te saco de ahi jaspley, pero tiene que ser en mi pilar
-[04:31:50] [Async Chat Thread - #31/INFO]: [Not Secure] <Gary_750> matalo a setones
-[04:31:56] [Async Chat Thread - #30/INFO]: [Not Secure] <MUFpy> jkajka yabya ya
-[04:31:59] [Async Chat Thread - #31/INFO]: [Not Secure] <Gary_750> o matame a sentones
-[04:32:05] [Async Chat Thread - #30/INFO]: [Not Secure] <Lewis_Sema> pero me tienes que matar a sentones arriba
-[04:32:13] [Async Chat Thread - #31/INFO]: [Not Secure] <Gary_750> matanos a sentones
-[04:32:17] [Async Chat Thread - #30/INFO]: [Not Secure] <MUFpy> ya y a ya
-[04:32:27] [Async Chat Thread - #30/INFO]: [Not Secure] <MUFpy> pero que pueda picar y pegar pues
-[04:32:37] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival @a
-[04:32:37] [Server thread/INFO]: [Gary_750: Set MUFpy's game mode to Survival Mode]
-[04:32:47] [Async Chat Thread - #32/INFO]: [Not Secure] <MUFpy> esooo
-[04:32:58] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[04:32:58] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[04:33:02] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:33:02] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[04:33:03] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[04:33:03] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[04:34:09] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:34:09] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[04:34:27] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[04:34:27] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[04:36:34] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
-[04:36:34] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
-[04:37:33] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:37:33] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[04:37:38] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure MUFpy
-[04:37:38] [Server thread/INFO]: [Gary_750: Set MUFpy's game mode to Adventure Mode]
-[04:37:43] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy Gary_750
-[04:37:43] [Server thread/INFO]: [Gary_750: Teleported MUFpy to Gary_750]
-[04:37:47] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
-[04:37:47] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
-[04:37:48] [Async Chat Thread - #33/INFO]: [Not Secure] <MUFpy> wwtffff
-[04:37:55] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
-[04:37:55] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
-[04:38:10] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
-[04:38:10] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
-[04:38:10] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[04:38:10] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[04:38:12] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:38:12] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[04:40:10] [Server thread/INFO]: MUFpy was shot by Gary_750
-[04:40:41] [Async Chat Thread - #35/INFO]: [Not Secure] <MUFpy> mi modo aventura
-[04:41:07] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy Gary_750
-[04:41:07] [Server thread/INFO]: [Gary_750: Teleported MUFpy to Gary_750]
-[04:41:33] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
-[04:41:33] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
-[04:41:40] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:41:40] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[04:42:00] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
-[04:42:00] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
-[04:42:02] [Async Chat Thread - #37/INFO]: [Not Secure] <MUFpy> asjkajkjkaajkajkajajkkjkjka
-[04:42:15] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:42:15] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[04:43:25] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy Gary_750
-[04:43:25] [Server thread/INFO]: [Gary_750: Teleported MUFpy to Gary_750]
-[04:43:27] [Async Chat Thread - #39/INFO]: [Not Secure] <MUFpy> ajkjkJKASJKAJKAJKAJKAJKAJKAJKA
-[04:43:27] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
-[04:43:27] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
-[04:43:39] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy Gary_750
-[04:43:39] [Server thread/INFO]: [Gary_750: Teleported MUFpy to Gary_750]
-[04:43:45] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:43:45] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[04:43:54] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
-[04:43:54] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
-[04:44:04] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:44:04] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[04:44:05] [Async Chat Thread - #41/INFO]: [Not Secure] <MUFpy> se muere
-[04:45:06] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
-[04:45:06] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
-[04:46:16] [Async Chat Thread - #42/INFO]: [Not Secure] <MUFpy> onion{
-[04:46:35] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
-[04:46:35] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
-[04:47:02] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[04:47:02] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[04:47:08] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:47:08] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[04:48:13] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
-[04:48:13] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
-[04:49:03] [Async Chat Thread - #44/INFO]: [Not Secure] <MUFpy> jkajkajkajkaajkajkajkJKJKAJKAJKAJKAJAJKAJKAJKAJKAJKAJK
-[04:49:52] [Async Chat Thread - #45/INFO]: [Not Secure] <MUFpy> yo hago en time new roman
-[04:49:56] [Async Chat Thread - #44/INFO]: [Not Secure] <MUFpy> ese es de lewis
-[04:50:13] [Server thread/INFO]: Gary_750 issued server command: /give @s minecraft:writable_book
-[04:50:13] [Server thread/INFO]: [Gary_750: Gave 1 [Book and Quill] to Gary_750]
-[04:50:48] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
-[04:50:48] [Server thread/INFO]: Lewis_Sema left the game
-[04:52:35] [Async Chat Thread - #46/INFO]: [Not Secure] <MUFpy> quefue1
-[04:58:12] [Server thread/INFO]: Gary_750 fell from a high place
-[04:58:16] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
-[04:58:16] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
-[04:58:26] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:58:26] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
-[04:58:38] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
-[04:58:38] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
-[04:58:43] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
-[04:58:43] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[19:09:01] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[19:09:02] [Server thread/INFO]: Default game type: SURVIVAL
+[19:09:02] [Server thread/INFO]: Generating keypair
+[19:09:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:09:02] [Server thread/INFO]: Using epoll channel type
+[19:09:02] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:09:02] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:09:03] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.5.1
+[19:09:03] [Server thread/INFO]: [UltimateTimber] Loading server plugin UltimateTimber v3.4.0
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.slf4j:slf4j-api:2.0.11 from https://repo1.maven.org/maven2
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'slf4j-api-2.0.11' successfully.
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.reactivestreams:reactive-streams:1.0.2 from https://repo1.maven.org/maven2
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'reactive-streams-1.0.2' successfully.
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.zaxxer:HikariCP:4.0.3 from https://repo1.maven.org/maven2
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'HikariCP-4.0.3' successfully.
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.h2database:h2:1.4.200 from https://repo1.maven.org/maven2
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'h2-1.4.200' successfully.
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.apache.commons:commons-text:1.12.0 from https://repo1.maven.org/maven2
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'commons-text-1.12.0' successfully.
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.apache.commons:commons-lang3:3.14.0 from https://repo1.maven.org/maven2
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'commons-lang3-3.14.0' successfully.
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency com.github.cryptomorin:XSeries:12.0.0 from https://repo1.maven.org/maven2
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'XSeries-12.0.0' successfully.
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.jooq:jooq:3.14.16 from https://repo1.maven.org/maven2
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'jooq-3.14.16' successfully.
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loading dependency org.mariadb.jdbc:mariadb-java-client:3.2.0 from https://repo1.maven.org/maven2
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] Loaded dependency 'mariadb-java-client-3.2.0' successfully.
+[19:09:03] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] ----------------------------
+[19:09:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:09:03] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[19:09:05] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[19:09:06] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.20.1.
+[19:09:07] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[19:09:07] [Server thread/WARN]: [SkinsRestorer] Please update your Java runtime to at least Java 21 (your version is 17).
+[19:09:07] [Server thread/WARN]: [SkinsRestorer] At some point in the future, SkinsRestorer will no longer be compatible with this version of Java.
+[19:09:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:09:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:09:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:09:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:09:07] [Server thread/INFO]: Preparing level "world"
+[19:09:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:09:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:09:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[19:09:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[19:09:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[19:09:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[19:09:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:09:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.5.1
+[19:09:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: d5d8613
+[19:09:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[19:09:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[19:09:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[19:09:07] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[19:09:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:09:10] [Server thread/INFO]: Time elapsed: 1552 ms
+[19:09:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:09:10] [Server thread/INFO]: Time elapsed: 68 ms
+[19:09:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:09:10] [Server thread/INFO]: Time elapsed: 56 ms
+[19:09:10] [Server thread/INFO]: [UltimateTimber] Enabling UltimateTimber v3.4.0
+[19:09:10] [Server thread/INFO]:  
+[19:09:10] [Server thread/INFO]: =============================
+[19:09:10] [Server thread/INFO]: UltimateTimber 3.4.0 by Songoda <3!
+[19:09:10] [Server thread/INFO]: Action: Enabling...
+[19:09:10] [Server thread/INFO]: [UltimateTimber] Loaded locale "en_US"
+[19:09:11] [Server thread/INFO]: [com.craftaro.ultimatetimber.core.CoreLogger] [UltimateTimber] [CraftaroCore] [CraftaroCore] Hooked UltimateTimber.
+[19:09:12] [Server thread/INFO]: =============================
+[19:09:12] [Server thread/INFO]:  
+[19:09:12] [Server thread/INFO]: Running delayed init tasks
+[19:09:12] [Server thread/INFO]: Done (13.269s)! For help, type "help"
+[19:09:12] [Server thread/INFO]: Timings Reset
+[19:10:23] [Server thread/INFO]: --------- Help: Index ---------------------------
+[19:10:23] [Server thread/INFO]: Use /help [n] to get page n of help.
+[19:10:23] [Server thread/INFO]: Aliases: Lists command aliases
+[19:10:23] [Server thread/INFO]: Bukkit: All commands for Bukkit
+[19:10:23] [Server thread/INFO]: Minecraft: All commands for Minecraft
+[19:10:23] [Server thread/INFO]: SkinsRestorer: All commands for SkinsRestorer
+[19:10:23] [Server thread/INFO]: UltimateTimber: All commands for UltimateTimber
+[19:10:23] [Server thread/INFO]: /advancement: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /attribute: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /ban: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /ban-ip: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /banlist: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /bossbar: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /callback: ClickEvent callback
+[19:10:23] [Server thread/INFO]: /clear: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /clone: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /damage: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /data: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /datapack: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /debug: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /deop: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /difficulty: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /effect: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /enchant: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /execute: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /experience: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /fill: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /fillbiome: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /forceload: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /function: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /gamemode: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /gamerule: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /give: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /help: Shows the help menu
+[19:10:23] [Server thread/INFO]: /item: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /jfr: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /kick: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /kill: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /list: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /locate: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /loot: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /me: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /msg: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /mspt: View server tick times
+[19:10:23] [Server thread/INFO]: /op: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /paper: Paper related commands
+[19:10:23] [Server thread/INFO]: /pardon: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /particle: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /perf: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /place: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /playsound: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
+[19:10:23] [Server thread/INFO]: /recipe: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
+[19:10:23] [Server thread/INFO]: /restart: Restarts the server
+[19:10:23] [Server thread/INFO]: /return: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /ride: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /save-all: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /save-off: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /save-on: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /say: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /schedule: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /scoreboard: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /seed: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /setblock: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /skin: Changes your own skin.
+[19:10:23] [Server thread/INFO]: /skins: Opens the skins GUI.
+[19:10:23] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /spectate: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /spigot: Spigot related commands
+[19:10:23] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /sr: Admin commands for SkinsRestorer.
+[19:10:23] [Server thread/INFO]: /stop: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /stopsound: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /summon: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /tag: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /team: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /teammsg: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /teleport: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /tell: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /tellraw: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /time: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
+[19:10:23] [Server thread/INFO]: /title: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /tm: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /tp: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
+[19:10:23] [Server thread/INFO]: /trigger: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /ut: Reloads the configuration file
+[19:10:23] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
+[19:10:23] [Server thread/INFO]: /w: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /weather: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /whitelist: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /worldborder: A Mojang provided command.
+[19:10:23] [Server thread/INFO]: /xp: A Mojang provided command.
+[19:11:07] [User Authenticator #0/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
+[19:11:07] [Server thread/INFO]: Lewis_Sema joined the game
+[19:11:07] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:55497] logged in with entity id 281 at ([world]541.2698320263063, 63.0, -183.0522286916836)
+[19:11:20] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[19:11:39] [Server thread/INFO]: You whisper to Lewis_Sema: miamor
+[19:11:53] [Async Chat Thread - #0/INFO]: [Not Secure] <Lewis_Sema> que no se apague pe, que hare mi casita
+[19:12:11] [Server thread/INFO]: You whisper to Lewis_Sema: ando en la escuela xd
+[19:12:25] [Async Chat Thread - #1/INFO]: [Not Secure] <Lewis_Sema> cuanto durara tonces?
+[19:13:02] [Server thread/INFO]: You whisper to Lewis_Sema: salgo hasta dentro de 3 horas, y me hago masomenos una hora a mi casa
+[19:13:20] [Server thread/INFO]: You whisper to Lewis_Sema: masomenos como 5 horas
+[19:13:29] [Server thread/INFO]: You whisper to Lewis_Sema: no
+[19:13:33] [Async Chat Thread - #1/INFO]: [Not Secure] <Lewis_Sema> pero el server en cuanto se cierra?
+[19:13:50] [Server thread/INFO]: You whisper to Lewis_Sema: 3 horas y hasta dentro de una hora lo vuelvo a prender
+[19:14:16] [Server thread/INFO]: You whisper to Lewis_Sema: es que me di cuenta que esta prendido si mi lap esta prendida
+[19:15:26] [Server thread/INFO]: Server Plugins (2):
+[19:15:26] [Server thread/INFO]: Bukkit Plugins:
+[19:15:26] [Server thread/INFO]:  - SkinsRestorer, UltimateTimber
+[19:15:49] [Thread-15/INFO]: [SkinsRestorer] Error: Only players may execute this command!
