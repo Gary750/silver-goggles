@@ -472,3 +472,20 @@
 [04:47:08] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
 [04:48:13] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
 [04:48:13] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[04:49:03] [Async Chat Thread - #44/INFO]: [Not Secure] <MUFpy> jkajkajkajkaajkajkajkJKJKAJKAJKAJKAJAJKAJKAJKAJKAJKAJK
+[04:49:52] [Async Chat Thread - #45/INFO]: [Not Secure] <MUFpy> yo hago en time new roman
+[04:49:56] [Async Chat Thread - #44/INFO]: [Not Secure] <MUFpy> ese es de lewis
+[04:50:13] [Server thread/INFO]: Gary_750 issued server command: /give @s minecraft:writable_book
+[04:50:13] [Server thread/INFO]: [Gary_750: Gave 1 [Book and Quill] to Gary_750]
+[04:50:48] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
+[04:50:48] [Server thread/INFO]: Lewis_Sema left the game
+[04:52:35] [Async Chat Thread - #46/INFO]: [Not Secure] <MUFpy> quefue1
+[04:58:12] [Server thread/INFO]: Gary_750 fell from a high place
+[04:58:16] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
+[04:58:16] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
+[04:58:26] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[04:58:26] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[04:58:38] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[04:58:38] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[04:58:43] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[04:58:43] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
