@@ -223,3 +223,38 @@
 [04:07:30] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
 [04:07:30] [Server thread/INFO]: Lewis_Sema left the game
 [04:07:53] [Server thread/INFO]: MUFpy was burnt to a crisp whilst fighting Gary_750
+[04:08:46] [User Authenticator #5/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
+[04:08:46] [Server thread/INFO]: Lewis_Sema joined the game
+[04:08:46] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:54299] logged in with entity id 35935 at ([world_nether]172.7531171627355, 65.0, 4.162743963395364)
+[04:08:53] [Server thread/INFO]: Lewis_Sema was fireballed by Ghast
+[04:09:43] [User Authenticator #5/INFO]: UUID of player CafecitoOcuo is 81e269ff-a530-32e1-be29-883c266903f3
+[04:09:43] [Server thread/INFO]: CafecitoOcuo joined the game
+[04:09:43] [Server thread/INFO]: CafecitoOcuo[/127.107.184.223:41815] logged in with entity id 36090 at ([world]603.8079528228311, 64.0, -262.89010662037253)
+[04:10:02] [Server thread/INFO]: CafecitoOcuo was burnt to a crisp whilst fighting Gary_750
+[04:10:30] [Server thread/INFO]: CafecitoOcuo fell from a high place
+[04:11:06] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo Gary_750
+[04:11:06] [Server thread/INFO]: [Gary_750: Teleported CafecitoOcuo to Gary_750]
+[04:11:09] [Server thread/INFO]: CafecitoOcuo fell from a high place
+[04:11:14] [Server thread/INFO]: Gary_750 fell from a high place
+[04:11:38] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo Gary_750
+[04:11:38] [Server thread/INFO]: [Gary_750: Teleported CafecitoOcuo to Gary_750]
+[04:11:54] [Server thread/INFO]: CafecitoOcuo was doomed to fall
+[04:14:24] [Server thread/INFO]: Gary_750 fell from a high place
+[04:14:46] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo Gary_750
+[04:14:46] [Server thread/INFO]: [Gary_750: Teleported CafecitoOcuo to Gary_750]
+[04:14:55] [Server thread/INFO]: Gary_750 was blown up by Creeper
+[04:14:56] [Server thread/INFO]: CafecitoOcuo was burnt to a crisp whilst fighting Gary_750
+[04:15:47] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
+[04:15:47] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
+[04:16:00] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure CafecitoOcuo
+[04:16:00] [Server thread/INFO]: [Gary_750: Set CafecitoOcuo's game mode to Adventure Mode]
+[04:16:09] [Server thread/INFO]: Lewis_Sema was slain by CafecitoOcuo
+[04:16:34] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema CafecitoOcuo
+[04:16:34] [Server thread/INFO]: [Gary_750: Teleported Lewis_Sema to CafecitoOcuo]
+[04:16:39] [Server thread/INFO]: Lewis_Sema was slain by CafecitoOcuo
+[04:17:02] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival CafecitoOcuo
+[04:17:02] [Server thread/INFO]: [Gary_750: Set CafecitoOcuo's game mode to Survival Mode]
+[04:17:02] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
+[04:17:02] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
+[04:17:15] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[04:17:15] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
