@@ -98,3 +98,7 @@
 [06:20:34] [User Authenticator #1/INFO]: UUID of player MUFpy is cec66472-d60f-36b0-a82f-0b4b8531fac4
 [06:20:35] [Server thread/INFO]: MUFpy joined the game
 [06:20:35] [Server thread/INFO]: MUFpy[/127.222.130.215:53635] logged in with entity id 722 at ([world]586.0809962432529, 66.1212968405392, -254.67723763532518)
+[06:28:43] [Server thread/INFO]: Lewis_Sema was blown up by Creeper
+[06:30:59] [Server thread/INFO]: MUFpy issued server command: /t
+[06:31:01] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy Lewis_Sema
+[06:31:01] [Server thread/INFO]: [Lewis_Sema: Teleported MUFpy to Lewis_Sema]
