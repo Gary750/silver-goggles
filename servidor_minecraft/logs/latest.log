@@ -119,3 +119,15 @@
 [05:12:19] [Server thread/INFO]: MUFpy burned to death
 [05:13:14] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
 [05:13:14] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[05:17:18] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
+[05:17:18] [Server thread/INFO]: Lewis_Sema left the game
+[05:17:23] [Server thread/INFO]: Gary_750 issued server command: /difficulty hard
+[05:17:23] [User Authenticator #3/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
+[05:17:23] [Server thread/INFO]: Lewis_Sema joined the game
+[05:17:23] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:41535] logged in with entity id 23692 at ([world_nether]221.66579781291972, 51.0, -86.79135255587538)
+[05:17:27] [Server thread/INFO]: Gary_750 issued server command: /difficulty normal
+[05:17:27] [Server thread/INFO]: [Gary_750: The difficulty has been set to Normal]
+[05:17:30] [Server thread/INFO]: Gary_750 issued server command: /difficulty hard
+[05:17:30] [Server thread/INFO]: [Gary_750: The difficulty has been set to Hard]
+[05:18:32] [Server thread/INFO]: Lewis_Sema was slain by Piglin
+[05:21:15] [Server thread/INFO]: Lewis_Sema fell from a high place
