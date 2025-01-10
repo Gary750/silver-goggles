@@ -7,8 +7,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dark_forest": "2025-01-10 04:31:55 +0000",
       "minecraft:river": "2025-01-07 01:48:43 +0000",
       "minecraft:forest": "2025-01-07 03:05:06 +0000",
+      "minecraft:ocean": "2025-01-10 04:32:42 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-10 04:30:36 +0000",
       "minecraft:plains": "2025-01-07 01:46:21 +0000"
     },
     "done": false
@@ -2156,6 +2159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-10 04:33:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-01-10 04:03:54 +0000"
@@ -2165,6 +2174,36 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2025-01-10 04:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-10 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-01-10 04:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-01-10 04:33:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-10 04:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-01-10 04:33:11 +0000"
     },
     "done": true
   },
