@@ -96,3 +96,12 @@
 [04:36:06] [Server thread/INFO]: You whisper to MUFpy: s
 [04:38:04] [Server thread/INFO]: MUFpy has made the advancement [Ice Bucket Challenge]
 [04:45:41] [Server thread/INFO]: MUFpy has made the advancement [Diamonds!]
+[04:59:55] [User Authenticator #1/INFO]: UUID of player Lewis_Sema is 8c6afb60-be92-3f55-84de-0b06517c3268
+[04:59:55] [Server thread/INFO]: Lewis_Sema joined the game
+[04:59:55] [Server thread/INFO]: Lewis_Sema[/127.217.70.189:57645] logged in with entity id 13053 at ([world]727.5086499602972, 21.0, -614.797619304455)
+[05:00:42] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
+[05:00:42] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
+[05:03:19] [Async Chat Thread - #2/INFO]: [Not Secure] <Lewis_Sema> jaspley, estamos solos, nos besamos?
+[05:03:29] [User Authenticator #2/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
+[05:03:29] [Server thread/INFO]: Gary_750 joined the game
+[05:03:29] [Server thread/INFO]: Gary_750[/127.66.19.137:35733] logged in with entity id 16086 at ([world]554.9745101850372, 64.0, -300.5614083275497)
