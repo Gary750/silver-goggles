@@ -134,3 +134,8 @@
 [05:39:36] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
 [05:39:36] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
 [05:44:24] [Server thread/INFO]: Named entity EntityCat['Mimi'/47, uuid='2c3e5ac7-e05d-4153-8d3e-83c101bea4f1', l='ServerLevel[world]', x=426.33, y=66.00, z=-113.33, cpos=[26, -8], tl=1250554, v=true] died: Mimi died
+[05:51:31] [User Authenticator #4/INFO]: UUID of player CafecitoOcuo is 81e269ff-a530-32e1-be29-883c266903f3
+[05:51:31] [Server thread/INFO]: CafecitoOcuo joined the game
+[05:51:31] [Server thread/INFO]: CafecitoOcuo[/127.107.184.223:53841] logged in with entity id 44053 at ([world]538.4990170362227, 52.0, -298.9061344601106)
+[05:54:44] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo
+[05:54:44] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to CafecitoOcuo]
