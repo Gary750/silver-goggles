@@ -131,3 +131,6 @@
 [05:17:30] [Server thread/INFO]: [Gary_750: The difficulty has been set to Hard]
 [05:18:32] [Server thread/INFO]: Lewis_Sema was slain by Piglin
 [05:21:15] [Server thread/INFO]: Lewis_Sema fell from a high place
+[05:39:36] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
+[05:39:36] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[05:44:24] [Server thread/INFO]: Named entity EntityCat['Mimi'/47, uuid='2c3e5ac7-e05d-4153-8d3e-83c101bea4f1', l='ServerLevel[world]', x=426.33, y=66.00, z=-113.33, cpos=[26, -8], tl=1250554, v=true] died: Mimi died
