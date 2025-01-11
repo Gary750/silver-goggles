@@ -665,3 +665,88 @@ tell @<--[HERE]
 [06:30:07] [Server thread/WARN]: Chakku was kicked due to keepalive timeout!
 [06:30:07] [Server thread/INFO]: Chakku lost connection: Timed out
 [06:30:08] [Server thread/INFO]: Chakku left the game
+[06:30:47] [User Authenticator #12/INFO]: UUID of player Chakku is e7c9307d-7fef-3266-bb3b-ebc39ed90598
+[06:30:47] [Server thread/INFO]: Chakku joined the game
+[06:30:47] [Server thread/INFO]: Chakku[/127.90.228.78:40559] logged in with entity id 93423 at ([world]582.011770787822, 121.0, -206.59129161273844)
+[06:30:56] [Server thread/INFO]: Lewis_Sema issued server command: /kill CafecitoOcuo
+[06:30:56] [Server thread/INFO]: CafecitoOcuo was killed
+[06:30:56] [Server thread/INFO]: [Lewis_Sema: Killed CafecitoOcuo]
+[06:31:21] [Async Chat Thread - #63/INFO]: [Not Secure] <MUFpy> garyyy
+[06:31:23] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku
+[06:31:23] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Chakku]
+[06:31:32] [Async Chat Thread - #64/INFO]: [Not Secure] <Lewis_Sema> que paso jaspley
+[06:31:42] [Server thread/INFO]: Lewis_Sema issued server command: /gamemode survival MUFpy
+[06:31:42] [Server thread/INFO]: [Lewis_Sema: Set MUFpy's game mode to Survival Mode]
+[06:31:43] [Async Chat Thread - #63/INFO]: [Not Secure] <MUFpy> jo puedo
+[06:31:43] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku
+[06:31:43] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Chakku]
+[06:32:00] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku Gary_750
+[06:32:00] [Server thread/INFO]: [Gary_750: Teleported Chakku to Gary_750]
+[06:32:06] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku Gary_750
+[06:32:06] [Server thread/INFO]: [Gary_750: Teleported Chakku to Gary_750]
+[06:32:19] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure MUFpy
+[06:32:19] [Server thread/INFO]: [Gary_750: Set MUFpy's game mode to Adventure Mode]
+[06:32:24] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy Gary_750
+[06:32:24] [Server thread/INFO]: [Gary_750: Teleported MUFpy to Gary_750]
+[06:32:27] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku
+[06:32:27] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Chakku]
+[06:32:36] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku Gary_750
+[06:32:36] [Server thread/INFO]: [Gary_750: Teleported Chakku to Gary_750]
+[06:33:22] [Server thread/INFO]: MUFpy lost connection: Disconnected
+[06:33:22] [Server thread/INFO]: MUFpy left the game
+[06:33:34] [Server thread/INFO]: Chakku was blown up by Creeper
+[06:34:01] [Async Chat Thread - #65/INFO]: [Not Secure] <Lewis_Sema> deja de andar de chapulin mi amor
+[06:34:02] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku
+[06:34:02] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Chakku]
+[06:34:11] [Server thread/WARN]: Chakku was kicked due to keepalive timeout!
+[06:34:11] [Server thread/INFO]: Chakku lost connection: Timed out
+[06:34:11] [Server thread/INFO]: Chakku left the game
+[06:34:19] [User Authenticator #13/INFO]: UUID of player Chakku is e7c9307d-7fef-3266-bb3b-ebc39ed90598
+[06:34:19] [Server thread/INFO]: Chakku joined the game
+[06:34:19] [Server thread/INFO]: Chakku[/127.90.228.78:42535] logged in with entity id 94137 at ([world]578.129244138745, 63.0, -332.91735176056403)
+[06:37:28] [Server thread/INFO]: CafecitoOcuo was slain by Lewis_Sema
+[06:37:51] [User Authenticator #14/INFO]: UUID of player MUFpy is cec66472-d60f-36b0-a82f-0b4b8531fac4
+[06:37:51] [Server thread/INFO]: MUFpy joined the game
+[06:37:51] [Server thread/INFO]: MUFpy[/127.155.51.124:47457] logged in with entity id 94940 at ([world]581.6354543114063, 120.5, -202.30000001192093)
+[06:38:01] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator @a
+[06:38:01] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
+[06:38:01] [Server thread/INFO]: [Gary_750: Set Lewis_Sema's game mode to Spectator Mode]
+[06:38:01] [Server thread/INFO]: [Gary_750: Set Chakku's game mode to Spectator Mode]
+[06:38:01] [Server thread/INFO]: [Gary_750: Set CafecitoOcuo's game mode to Spectator Mode]
+[06:38:01] [Server thread/INFO]: [Gary_750: Set MUFpy's game mode to Spectator Mode]
+[06:38:07] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival @
+[06:38:10] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival @a
+[06:38:10] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[06:38:10] [Server thread/INFO]: [Gary_750: Set Lewis_Sema's game mode to Survival Mode]
+[06:38:10] [Server thread/INFO]: [Gary_750: Set Chakku's game mode to Survival Mode]
+[06:38:10] [Server thread/INFO]: [Gary_750: Set CafecitoOcuo's game mode to Survival Mode]
+[06:38:10] [Server thread/INFO]: [Gary_750: Set MUFpy's game mode to Survival Mode]
+[06:38:10] [Server thread/INFO]: Lewis_Sema issued server command: /gamemode survival MUFpy
+[06:38:25] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy Lewis_Sema
+[06:38:25] [Server thread/INFO]: [Gary_750: Teleported MUFpy to Lewis_Sema]
+[06:38:35] [Server thread/INFO]: MUFpy lost connection: Disconnected
+[06:38:35] [Server thread/INFO]: MUFpy left the game
+[06:38:45] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo Gary_750
+[06:38:45] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to Gary_750]
+[06:38:53] [Server thread/INFO]: CafecitoOcuo was impaled by Drowned
+[06:39:13] [User Authenticator #15/INFO]: UUID of player MUFpy is cec66472-d60f-36b0-a82f-0b4b8531fac4
+[06:39:14] [Server thread/INFO]: MUFpy joined the game
+[06:39:14] [Server thread/INFO]: MUFpy[/127.155.51.124:35173] logged in with entity id 95557 at ([world]611.01542919424, 63.0, -302.4646143412983)
+[06:39:16] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo Lewis_Sema
+[06:39:16] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to Lewis_Sema]
+[06:39:30] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo Gary_750
+[06:39:30] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to Gary_750]
+[06:39:45] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo Gary_750
+[06:39:45] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to Gary_750]
+[06:39:52] [Server thread/INFO]: CafecitoOcuo was shot by Gary_750
+[06:40:12] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo Chakku
+[06:40:12] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to Chakku]
+[06:40:18] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy Lewis_Sema
+[06:40:18] [Server thread/INFO]: [Gary_750: Teleported MUFpy to Lewis_Sema]
+[06:40:22] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku
+[06:40:22] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Chakku]
+[06:40:33] [Server thread/INFO]: CafecitoOcuo was burnt to a crisp whilst fighting Gary_750
+[06:40:37] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
+[06:40:37] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
+[06:40:39] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[06:40:39] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
