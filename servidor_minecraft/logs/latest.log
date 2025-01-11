@@ -582,3 +582,44 @@ tell @<--[HERE]
 [06:08:41] [Server thread/INFO]: CafecitoOcuo was slain by Gary_750 using [Dark Repulser]
 [06:08:53] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku
 [06:08:53] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Chakku]
+[06:10:27] [Server thread/INFO]: CafecitoOcuo was shot by Gary_750
+[06:10:51] [Server thread/INFO]: Chakku was slain by CafecitoOcuo
+[06:12:54] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure MUFpy
+[06:12:54] [Server thread/INFO]: [Gary_750: Set MUFpy's game mode to Adventure Mode]
+[06:14:09] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival MUFpy
+[06:14:09] [Server thread/INFO]: [Gary_750: Set MUFpy's game mode to Survival Mode]
+[06:14:41] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku
+[06:14:41] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Chakku]
+[06:16:23] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo
+[06:16:23] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to CafecitoOcuo]
+[06:16:27] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo
+[06:16:27] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to CafecitoOcuo]
+[06:16:37] [Server thread/INFO]: CafecitoOcuo was shot by Gary_750
+[06:16:55] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo Lewis_Sema
+[06:16:55] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to Lewis_Sema]
+[06:17:13] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo Lewis_Sema
+[06:17:13] [Server thread/INFO]: [Lewis_Sema: Teleported CafecitoOcuo to Lewis_Sema]
+[06:17:14] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku
+[06:17:14] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Chakku]
+[06:17:23] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema CafecitoOcuo
+[06:17:23] [Server thread/INFO]: [Gary_750: Teleported Lewis_Sema to CafecitoOcuo]
+[06:17:36] [Server thread/INFO]: Gary_750 issued server command: /tp @a Lewis_Sema
+[06:17:36] [Server thread/INFO]: [Gary_750: Teleported 5 entities to Lewis_Sema]
+[06:17:39] [Server thread/INFO]: Gary_750 issued server command: /tp @a Lewis_Sema
+[06:17:39] [Server thread/INFO]: [Gary_750: Teleported 5 entities to Lewis_Sema]
+[06:17:41] [Server thread/INFO]: Gary_750 issued server command: /tp @a Lewis_Sema
+[06:17:41] [Server thread/INFO]: [Gary_750: Teleported 5 entities to Lewis_Sema]
+[06:17:41] [Server thread/INFO]: Gary_750 issued server command: /tp @a Lewis_Sema
+[06:17:41] [Server thread/INFO]: [Gary_750: Teleported 5 entities to Lewis_Sema]
+[06:17:42] [Server thread/INFO]: Gary_750 issued server command: /tp @a Lewis_Sema
+[06:17:42] [Server thread/INFO]: [Gary_750: Teleported 5 entities to Lewis_Sema]
+[06:17:42] [Server thread/INFO]: Gary_750 issued server command: /tp @a Lewis_Sema
+[06:17:42] [Server thread/INFO]: [Gary_750: Teleported 5 entities to Lewis_Sema]
+[06:17:48] [Server thread/INFO]: Lewis_Sema issued server command: /tp Lewis_Sema CafecitoOcuo
+[06:17:48] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
+[06:18:06] [Server thread/INFO]: MUFpy was slain by Gary_750 using [Dark Repulser]
+[06:19:10] [Server thread/INFO]: Chakku was slain by CafecitoOcuo
+[06:19:22] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku
+[06:19:22] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Chakku]
+[06:20:21] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
+[06:20:21] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
