@@ -623,3 +623,45 @@ tell @<--[HERE]
 [06:19:22] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Chakku]
 [06:20:21] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
 [06:20:21] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
+[06:21:34] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750 CafecitoOcuo
+[06:21:34] [Server thread/INFO]: [Lewis_Sema: Teleported Gary_750 to CafecitoOcuo]
+[06:21:43] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku
+[06:21:43] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Chakku]
+[06:23:43] [Async Chat Thread - #61/INFO]: [Not Secure] <Lewis_Sema> gary, porque nos dejaste solos en llamada mi amor
+[06:23:56] [Async Chat Thread - #62/INFO]: [Not Secure] <Gary_750> esque te pusite raro bb
+[06:23:57] [Async Chat Thread - #62/INFO]: [Not Secure] <CafecitoOcuo> ya se fue a chapulinear
+[06:24:01] [Async Chat Thread - #62/INFO]: [Not Secure] <CafecitoOcuo> pinche perra
+[06:24:02] [Async Chat Thread - #61/INFO]: [Not Secure] <Lewis_Sema> dicen todos que no seas simp
+[06:24:07] [Async Chat Thread - #61/INFO]: [Not Secure] <Gary_750> ora
+[06:24:14] [Async Chat Thread - #62/INFO]: [Not Secure] <Gary_750> ni que fuera el alfo
+[06:24:16] [Async Chat Thread - #61/INFO]: [Not Secure] <Lewis_Sema> ven o mato a besos al santiago
+[06:24:22] [Async Chat Thread - #61/INFO]: [Not Secure] <Gary_750> matalo
+[06:24:26] [Async Chat Thread - #61/INFO]: [Not Secure] <Gary_750> pero a sentones
+[06:24:28] [Async Chat Thread - #62/INFO]: [Not Secure] <Lewis_Sema> bueno uwu
+[06:24:38] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
+[06:24:38] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
+[06:25:20] [Server thread/INFO]: Chakku lost connection: Timed out
+[06:25:20] [Server thread/INFO]: Chakku left the game
+[06:27:20] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
+[06:27:20] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
+[06:28:29] [User Authenticator #11/INFO]: UUID of player Chakku is e7c9307d-7fef-3266-bb3b-ebc39ed90598
+[06:28:29] [Server thread/INFO]: Chakku joined the game
+[06:28:29] [Server thread/INFO]: Chakku[/127.90.228.78:59089] logged in with entity id 93030 at ([world]582.4237045452304, 61.31187140039397, -206.2834798754376)
+[06:28:41] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku Gary_750
+[06:28:41] [Server thread/INFO]: [Gary_750: Teleported Chakku to Gary_750]
+[06:28:52] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku Gary_750
+[06:28:52] [Server thread/INFO]: [Gary_750: Teleported Chakku to Gary_750]
+[06:29:02] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku Gary_750
+[06:29:02] [Server thread/INFO]: [Gary_750: Teleported Chakku to Gary_750]
+[06:29:14] [Server thread/WARN]: Chakku was kicked due to keepalive timeout!
+[06:29:14] [Server thread/INFO]: Chakku lost connection: Timed out
+[06:29:14] [Server thread/INFO]: Chakku left the game
+[06:29:22] [User Authenticator #11/INFO]: UUID of player Chakku is e7c9307d-7fef-3266-bb3b-ebc39ed90598
+[06:29:22] [Server thread/INFO]: Chakku joined the game
+[06:29:22] [Server thread/INFO]: Chakku[/127.90.228.78:32989] logged in with entity id 93172 at ([world]582.9068915013784, 121.0, -206.83466280817962)
+[06:29:41] [Server thread/INFO]: Gary_750 issued server command: /gamemode adventure MUFpy
+[06:29:41] [Server thread/INFO]: [Gary_750: Set MUFpy's game mode to Adventure Mode]
+[06:29:44] [Server thread/INFO]: MUFpy was slain by CafecitoOcuo
+[06:30:07] [Server thread/WARN]: Chakku was kicked due to keepalive timeout!
+[06:30:07] [Server thread/INFO]: Chakku lost connection: Timed out
+[06:30:08] [Server thread/INFO]: Chakku left the game
