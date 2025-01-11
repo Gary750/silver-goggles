@@ -522,3 +522,33 @@ tell @<--[HERE]
 [05:38:57] [Async Chat Thread - #50/INFO]: [Not Secure] <Chakku> Eso fue muy especifico
 [05:39:08] [Async Chat Thread - #50/INFO]: [Not Secure] <Gary_750> es que tiene esquizofrenia
 [05:39:21] [Async Chat Thread - #47/INFO]: [Not Secure] <Lewis_Sema> tengo capturas que demuestran lo contrario
+[05:39:35] [Async Chat Thread - #50/INFO]: [Not Secure] <Gary_750> que capturas
+[05:40:29] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
+[05:40:29] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
+[05:40:45] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
+[05:40:45] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
+[05:40:49] [Server thread/INFO]: Lewis_Sema fell from a high place
+[05:40:56] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
+[05:40:56] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[05:41:18] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
+[05:41:18] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
+[05:42:30] [Server thread/INFO]: CafecitoOcuo was slain by Gary_750 using [Dark Repulser]
+[05:42:42] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo Gary_750
+[05:42:42] [Server thread/INFO]: [Gary_750: Teleported CafecitoOcuo to Gary_750]
+[05:42:44] [Async Chat Thread - #51/INFO]: [Not Secure] <Lewis_Sema> ya dile que es verdad gary, dile como me decias que era el rey de la selva, mientras me pedias que te hiciera el salto del tigre
+[05:42:57] [Server thread/INFO]: Gary_750 issued server command: /tp CafecitoOcuo
+[05:42:57] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to CafecitoOcuo]
+[05:43:10] [Server thread/INFO]: CafecitoOcuo was burnt to a crisp whilst fighting Gary_750
+[05:43:48] [Server thread/INFO]: MUFpy was burnt to a crisp whilst fighting CafecitoOcuo
+[05:46:10] [Server thread/INFO]: Lewis_Sema was slain by CafecitoOcuo
+[05:46:18] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
+[05:46:18] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[05:46:29] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
+[05:46:29] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
+[05:48:00] [Server thread/INFO]: Chakku was slain by MUFpy
+[05:48:27] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
+[05:48:27] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
+[05:49:14] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku Gary_750
+[05:49:14] [Server thread/INFO]: [Gary_750: Teleported Chakku to Gary_750]
+[05:49:28] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku Gary_750
+[05:49:28] [Server thread/INFO]: [Gary_750: Teleported Chakku to Gary_750]
