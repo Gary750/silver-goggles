@@ -172,3 +172,39 @@ tell @<--[HERE]
 [03:43:31] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
 [03:46:32] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
 [03:46:32] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[03:47:14] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
+[03:47:14] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
+[03:47:23] [Server thread/INFO]: Lewis_Sema issued server command: /kill
+[03:47:23] [Server thread/INFO]: Lewis_Sema was killed
+[03:47:23] [Server thread/INFO]: [Lewis_Sema: Killed Lewis_Sema]
+[03:52:35] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
+[03:52:35] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[03:54:10] [Server thread/INFO]: Gary_750 issued server command: /give @s minecraft:milk_bucket 3
+[03:54:10] [Server thread/INFO]: [Gary_750: Gave 3 [Milk Bucket] to Gary_750]
+[03:54:45] [Async Chat Thread - #18/INFO]: [Not Secure] <MUFpy> gary la granja explotooooooo
+[03:55:01] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
+[03:55:01] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
+[03:55:02] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
+[03:55:02] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
+[03:55:04] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
+[03:55:04] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
+[03:55:11] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[03:55:11] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[03:55:13] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
+[03:55:13] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[03:55:14] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[03:55:14] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[03:55:33] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
+[03:55:33] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
+[03:55:35] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[03:55:35] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[03:55:38] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
+[03:55:38] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
+[03:55:44] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[03:55:44] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[03:55:46] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
+[03:55:46] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
+[03:55:57] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[03:55:57] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[03:56:29] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[03:56:29] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
