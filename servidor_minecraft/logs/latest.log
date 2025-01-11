@@ -469,3 +469,17 @@ tell @<--[HERE]
 [05:15:48] [Async Chat Thread - #46/INFO]: [Not Secure] <Lewis_Sema> y el muf
 [05:15:53] [Async Chat Thread - #46/INFO]: [Not Secure] <Gary_750> y es novio del mayoneso
 [05:16:54] [Server thread/INFO]: CafecitoOcuo fell from a high place
+[05:20:38] [User Authenticator #10/INFO]: UUID of player MUFpy is cec66472-d60f-36b0-a82f-0b4b8531fac4
+[05:20:38] [Server thread/INFO]: MUFpy joined the game
+[05:20:38] [Server thread/INFO]: MUFpy[/127.155.51.124:40445] logged in with entity id 66842 at ([world]613.5695176517139, 63.0, -299.7693680446421)
+[05:23:04] [Server thread/INFO]: Chakku has made the advancement [Stone Age]
+[05:26:31] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
+[05:26:31] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[05:27:30] [Server thread/INFO]: MUFpy was shot by Lewis_Sema
+[05:27:53] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku
+[05:27:53] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Chakku]
+[05:27:53] [Server thread/INFO]: Lewis_Sema issued server command: /tp CafecitoOcuo
+[05:27:53] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to CafecitoOcuo]
+[05:28:26] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[05:28:26] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[05:29:09] [Server thread/INFO]: CafecitoOcuo was slain by Gary_750 using [Dark Repulser]
