@@ -100,6 +100,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "golden_apple": "2025-01-11 06:47:57 +0000",
       "golden_carrot": "2025-01-11 05:10:56 +0000"
     },
     "done": false
@@ -120,6 +121,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-01-11 05:27:30 +0000",
       "minecraft:spider": "2025-01-11 05:25:39 +0000",
+      "minecraft:creeper": "2025-01-11 06:39:45 +0000",
+      "minecraft:witch": "2025-01-11 06:40:41 +0000",
       "minecraft:zombie": "2025-01-11 05:12:12 +0000"
     },
     "done": false
@@ -421,6 +424,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-11 06:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-11 06:41:31 +0000"
     },
     "done": true
   },
