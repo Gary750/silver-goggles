@@ -100,3 +100,9 @@
 [02:27:10] [Async Chat Thread - #2/INFO]: [Not Secure] <MUFpy> no
 [02:28:31] [Async Chat Thread - #4/INFO]: [Not Secure] <MUFpy> no T_T
 [02:34:31] [Server thread/INFO]: MUFpy was blown up by Creeper
+[02:50:06] [User Authenticator #2/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
+[02:50:06] [Server thread/INFO]: Gary_750 joined the game
+[02:50:06] [Server thread/INFO]: Gary_750[/127.66.19.137:58073] logged in with entity id 14042 at ([world]579.8233628725706, 59.5625, -360.8123938575392)
+[02:55:39] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema g
+[02:55:43] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema Gary_750
+[02:55:43] [Server thread/INFO]: [Gary_750: Teleported Lewis_Sema to Gary_750]
