@@ -600,8 +600,10 @@
       "minecraft:pillager": "2025-01-10 04:14:43 +0000",
       "minecraft:skeleton": "2025-01-07 02:38:41 +0000",
       "minecraft:hoglin": "2025-01-07 06:13:20 +0000",
+      "minecraft:vindicator": "2025-01-11 07:20:42 +0000",
       "minecraft:spider": "2025-01-07 04:30:46 +0000",
       "minecraft:creeper": "2025-01-07 04:04:54 +0000",
+      "minecraft:evoker": "2025-01-11 07:21:01 +0000",
       "minecraft:cave_spider": "2025-01-07 04:35:57 +0000",
       "minecraft:piglin": "2025-01-07 22:58:48 +0000",
       "minecraft:enderman": "2025-01-08 03:49:36 +0000",
@@ -2555,9 +2557,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-01-11 07:19:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2025-01-11 06:49:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-01-11 07:19:40 +0000"
     },
     "done": true
   },

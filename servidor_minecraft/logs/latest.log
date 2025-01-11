@@ -1001,3 +1001,16 @@ tell @<--[HERE]
 [07:19:20] [Server thread/INFO]: [Gary_750: Teleported Chakku to Gary_750]
 [07:21:31] [Server thread/INFO]: alfo_soliz lost connection: Disconnected
 [07:21:31] [Server thread/INFO]: alfo_soliz left the game
+[07:26:56] [Async Chat Thread - #83/INFO]: [Not Secure] <MUFpy> garuy hasme tp
+[07:27:03] [Async Chat Thread - #83/INFO]: [Not Secure] <Gary_750> pera
+[07:27:09] [Async Chat Thread - #84/INFO]: [Not Secure] <Gary_750> estoy minando
+[07:27:14] [Async Chat Thread - #83/INFO]: [Not Secure] <MUFpy> no importaaaaa
+[07:27:55] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy Chakku
+[07:27:55] [Server thread/INFO]: [Gary_750: Teleported MUFpy to Chakku]
+[07:28:10] [Server thread/INFO]: Chakku has made the advancement [Suit Up]
+[07:29:21] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
+[07:29:21] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
+[07:31:40] [Server thread/INFO]: Chakku hit the ground too hard
+[07:32:00] [Server thread/INFO]: Gary_750 issued server command: /tp @a MUFpy
+[07:32:00] [Server thread/INFO]: [Gary_750: Teleported 3 entities to MUFpy]
+[07:32:26] [Async Chat Thread - #85/INFO]: [Not Secure] <Chakku> Alv
