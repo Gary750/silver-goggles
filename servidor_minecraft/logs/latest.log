@@ -911,3 +911,58 @@ tell @<--[HERE]
 [07:00:47] [Async Chat Thread - #77/INFO]: [Not Secure] <Lewis_Sema> ya gary, pero ven a llamada, dijiste que te irias porque te hablo tu quedante, ya tardaste mucho
 [07:00:54] [Server thread/INFO]: alfo_soliz was burnt to a crisp whilst fighting Lewis_Sema
 [07:01:02] [Async Chat Thread - #77/INFO]: [Not Secure] <Gary_750> que hablai po culiao
+[07:01:10] [Server thread/INFO]: Gary_750 issued server command: /kick alfo_soliz por femboy
+[07:01:10] [Server thread/INFO]: alfo_soliz lost connection: por femboy
+[07:01:10] [Server thread/INFO]: alfo_soliz left the game
+[07:01:10] [Server thread/INFO]: [Gary_750: Kicked alfo_soliz: por femboy]
+[07:01:15] [User Authenticator #20/INFO]: UUID of player alfo_soliz is 39268067-8c92-370a-9cd2-0acf9082c21c
+[07:01:15] [Server thread/INFO]: alfo_soliz joined the game
+[07:01:15] [Server thread/INFO]: alfo_soliz[/127.6.49.78:57529] logged in with entity id 110364 at ([world]1214.3097790185636, 76.0, -1.2387174980337377)
+[07:01:17] [Server thread/INFO]: Gary_750 issued server command: /kick alfo_soliz por femboy
+[07:01:17] [Server thread/INFO]: alfo_soliz lost connection: por femboy
+[07:01:17] [Server thread/INFO]: alfo_soliz left the game
+[07:01:17] [Server thread/INFO]: [Gary_750: Kicked alfo_soliz: por femboy]
+[07:01:22] [Async Chat Thread - #77/INFO]: [Not Secure] <Lewis_Sema> ya po, si hablai pura weas culiao brigido
+[07:01:24] [User Authenticator #20/INFO]: UUID of player alfo_soliz is 39268067-8c92-370a-9cd2-0acf9082c21c
+[07:01:24] [Server thread/INFO]: alfo_soliz joined the game
+[07:01:24] [Server thread/INFO]: alfo_soliz[/127.6.49.78:36893] logged in with entity id 110535 at ([world]1214.3097790185636, 76.0, -1.2387174980337377)
+[07:01:36] [Server thread/INFO]: Chakku was slain by Iron Golem
+[07:01:46] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
+[07:01:46] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
+[07:02:02] [Server thread/INFO]: Gary_750 issued server command: /tp alfo_soliz
+[07:02:02] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to alfo_soliz]
+[07:02:17] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku
+[07:02:17] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Chakku]
+[07:03:18] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz
+[07:03:18] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to alfo_soliz]
+[07:03:54] [Server thread/WARN]: Boat (vehicle of Lewis_Sema) moved wrongly! 0.4784098489954829
+[07:03:54] [Server thread/WARN]: Boat (vehicle of Lewis_Sema) moved wrongly! 0.4784098489954829
+[07:03:54] [Server thread/WARN]: Boat (vehicle of Lewis_Sema) moved wrongly! 0.4784098489954829
+[07:03:54] [Server thread/WARN]: Boat (vehicle of Lewis_Sema) moved wrongly! 0.4784098489954829
+[07:03:54] [Server thread/WARN]: Boat (vehicle of Lewis_Sema) moved wrongly! 0.4784098489954829
+[07:03:54] [Server thread/WARN]: Boat (vehicle of Lewis_Sema) moved wrongly! 0.4784098489954829
+[07:05:41] [Async Chat Thread - #78/INFO]: [Not Secure] <Gary_750> hijo...
+[07:05:46] [Async Chat Thread - #78/INFO]: [Not Secure] <Gary_750> alfo
+[07:05:49] [Async Chat Thread - #78/INFO]: [Not Secure] <Gary_750> hijo
+[07:05:57] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
+[07:05:57] [Server thread/INFO]: Lewis_Sema left the game
+[07:06:06] [Server thread/WARN]: Chakku was kicked due to keepalive timeout!
+[07:06:06] [Server thread/INFO]: Chakku lost connection: Timed out
+[07:06:06] [Server thread/INFO]: Chakku left the game
+[07:06:07] [Server thread/INFO]: Gary_750 issued server command: /tp alfo_soliz
+[07:06:07] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to alfo_soliz]
+[07:06:12] [User Authenticator #21/INFO]: UUID of player Chakku is e7c9307d-7fef-3266-bb3b-ebc39ed90598
+[07:06:12] [Server thread/INFO]: Chakku joined the game
+[07:06:12] [Server thread/INFO]: Chakku[/127.90.228.78:58595] logged in with entity id 114613 at ([world]614.2637699452889, 64.0, -251.45458041889492)
+[07:07:17] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku Gary_750
+[07:07:17] [Server thread/INFO]: [Gary_750: Teleported Chakku to Gary_750]
+[07:08:56] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
+[07:08:56] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
+[07:09:09] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[07:09:09] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[07:09:21] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku Gary_750
+[07:09:21] [Server thread/INFO]: [Gary_750: Teleported Chakku to Gary_750]
+[07:11:09] [Server thread/INFO]: Gary_750 issued server command: /tp Chakku Gary_750
+[07:11:09] [Server thread/INFO]: [Gary_750: Teleported Chakku to Gary_750]
+[07:11:30] [Server thread/INFO]: Gary_750 issued server command: /tp alfo_soliz
+[07:11:30] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to alfo_soliz]
