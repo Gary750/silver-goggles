@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-11 05:27:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-01-11 05:23:04 +0000"
@@ -235,6 +241,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-11 05:27:30 +0000",
+      "minecraft:spider": "2025-01-11 05:25:39 +0000",
       "minecraft:zombie": "2025-01-11 05:12:12 +0000"
     },
     "done": false
@@ -266,6 +274,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-01-11 05:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-01-11 05:27:38 +0000"
     },
     "done": true
   },
