@@ -258,3 +258,19 @@ tell @<--[HERE]
 [04:17:37] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
 [04:17:49] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
 [04:17:49] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[04:17:51] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[04:17:51] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[04:18:03] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[04:18:03] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[04:18:16] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[04:18:16] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[04:18:23] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
+[04:18:23] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[04:18:24] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema Gary_750
+[04:18:24] [Server thread/INFO]: [Gary_750: Teleported Lewis_Sema to Gary_750]
+[04:22:43] [Server thread/INFO]: Villager EntityVillager['Fisherman'/250, uuid='b087820d-d2e6-439e-8031-a4009a54ed4b', l='ServerLevel[world]', x=634.06, y=63.56, z=-286.31, cpos=[39, -18], tl=1812097, v=true] died, message: 'Fisherman was slain by Vex'
+[04:25:36] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
+[04:25:36] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[04:25:55] [Server thread/INFO]: Lewis_Sema was shot by Pillager
+[04:27:19] [Server thread/INFO]: Gary_750 has reached the goal [Postmortal]
+[04:28:01] [Server thread/INFO]: Villager EntityVillager['Villager'/234, uuid='a51c1f5d-3203-466c-adb6-c7290ccc65b9', l='ServerLevel[world]', x=600.70, y=64.08, z=-281.46, cpos=[37, -18], tl=1290332, v=true] died, message: 'Villager was shot by Lewis_Sema'
