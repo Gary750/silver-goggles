@@ -106,3 +106,11 @@
 [02:55:39] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema g
 [02:55:43] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema Gary_750
 [02:55:43] [Server thread/INFO]: [Gary_750: Teleported Lewis_Sema to Gary_750]
+[03:07:30] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
+[03:07:30] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
+[03:07:36] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[03:07:36] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[03:07:54] [Server thread/INFO]: Gary_750 issued server command: /skin update
+[03:08:01] [Async Chat Thread - #6/INFO]: [Not Secure] <Gary_750> -/skin update
+[03:08:11] [Server thread/INFO]: Lewis_Sema issued server command: /skin -update
+[03:08:41] [Server thread/INFO]: Gary_750 issued server command: /skin set Gary_750
