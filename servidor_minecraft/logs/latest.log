@@ -114,3 +114,9 @@
 [03:08:01] [Async Chat Thread - #6/INFO]: [Not Secure] <Gary_750> -/skin update
 [03:08:11] [Server thread/INFO]: Lewis_Sema issued server command: /skin -update
 [03:08:41] [Server thread/INFO]: Gary_750 issued server command: /skin set Gary_750
+[03:23:26] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[03:23:26] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[03:25:01] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
+[03:25:01] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
+[03:25:36] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[03:25:36] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
