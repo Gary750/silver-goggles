@@ -139,3 +139,36 @@ tell @<--[HERE]
 [03:35:19] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema Gary_750
 [03:35:19] [Server thread/INFO]: [Gary_750: Teleported Lewis_Sema to Gary_750]
 [03:35:22] [Async Chat Thread - #11/INFO]: [Not Secure] <MUFpy> pon candelabros
+[03:38:26] [Async Chat Thread - #12/INFO]: [Not Secure] <MUFpy> aqui le damos
+[03:38:34] [Async Chat Thread - #13/INFO]: [Not Secure] <Gary_750> asd
+[03:38:49] [User Authenticator #4/INFO]: UUID of player Gary_750 is d11161e0-4246-3926-8c99-282a8a72c22a
+[03:38:49] [Server thread/INFO]: Gary_750 lost connection: You logged in from another location
+[03:38:49] [Server thread/INFO]: Gary_750 left the game
+[03:38:49] [Server thread/INFO]: Gary_750 joined the game
+[03:38:49] [Server thread/INFO]: Gary_750[/127.66.19.137:51509] logged in with entity id 27961 at ([world]631.4284021373132, 62.9375, -289.9892658060637)
+[03:39:25] [Async Chat Thread - #12/INFO]: [Not Secure] <MUFpy> que
+[03:39:31] [Async Chat Thread - #13/INFO]: [Not Secure] <MUFpy> si
+[03:39:41] [Async Chat Thread - #12/INFO]: [Not Secure] <MUFpy> pero no exajeren
+[03:40:06] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[03:40:06] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[03:40:19] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[03:40:19] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[03:40:34] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[03:40:34] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[03:40:49] [Async Chat Thread - #14/INFO]: [Not Secure] <MUFpy> ya que sea de noche el dia esta muy sobrevalorado
+[03:41:17] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
+[03:41:17] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
+[03:42:27] [Async Chat Thread - #16/INFO]: [Not Secure] <MUFpy> gary tu graja de mrd no vale
+[03:42:51] [Async Chat Thread - #16/INFO]: [Not Secure] <MUFpy> quien queire reparacion
+[03:42:55] [Async Chat Thread - #17/INFO]: [Not Secure] <MUFpy> la de experiencia
+[03:42:57] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
+[03:42:57] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
+[03:43:12] [Server thread/INFO]: Gary_750 issued server command: /difficulty hard
+[03:43:15] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
+[03:43:15] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
+[03:43:22] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[03:43:22] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[03:43:31] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[03:43:31] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[03:46:32] [Server thread/INFO]: Lewis_Sema issued server command: /tp Gary_750
+[03:46:32] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to Gary_750]
