@@ -188,3 +188,29 @@
 [00:58:58] [Server thread/INFO]: santino56 was slain by MUFpy
 [00:59:06] [Server thread/INFO]: Gary_750 was slain by santino56
 [00:59:11] [Server thread/INFO]: santino56 was slain by MUFpy
+[01:04:48] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
+[01:04:48] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
+[01:05:48] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
+[01:05:48] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
+[01:06:16] [Server thread/INFO]: santino56 was shot by Gary_750
+[01:07:58] [Server thread/INFO]: Gary_750 issued server command: /give @s stick{Enchantments:[{id:knockback,lvl:10000000}]}
+[01:07:58] [Server thread/INFO]: [Gary_750: Gave 1 [Stick] to Gary_750]
+[01:08:09] [Server thread/INFO]: Gary_750 issued server command: /tp santino56 Gary_750
+[01:08:09] [Server thread/INFO]: [Gary_750: Teleported santino56 to Gary_750]
+[01:10:03] [Async Chat Thread - #8/INFO]: [Not Secure] <MUFpy> arriba enjambre, caifanes sobrevalorado
+[01:10:48] [Async Chat Thread - #8/INFO]: [Not Secure] <Gary_750> my chemical romance es mejor
+[01:11:18] [Async Chat Thread - #8/INFO]: [Not Secure] <MUFpy> arriba binomio de oro, chemical romance sobrevalorado
+[01:12:12] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
+[01:12:12] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
+[01:12:28] [Server thread/INFO]: Gary_750 issued server command: /tp santino56 Gary_750
+[01:12:28] [Server thread/INFO]: [Gary_750: Teleported santino56 to Gary_750]
+[01:12:28] [Server thread/INFO]: santino56 was doomed to fall by Gary_750
+[01:12:32] [Server thread/INFO]: Gary_750 issued server command: /tp santino56 Gary_750
+[01:12:32] [Server thread/INFO]: [Gary_750: Teleported santino56 to Gary_750]
+[01:13:24] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[01:13:24] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[01:13:36] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[01:13:36] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[01:13:38] [Server thread/INFO]: Gary_750 was slain by santino56
+[01:13:45] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
+[01:13:45] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
