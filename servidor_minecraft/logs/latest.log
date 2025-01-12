@@ -298,3 +298,68 @@
 [02:43:10] [Server thread/WARN]: Lewis_Sema moved too quickly! -2.8738926775472464,2.3693736602695026,19.4105334762466
 [02:44:54] [Async Chat Thread - #16/INFO]: [Not Secure] <Gary_750> mayoneso
 [02:44:58] [Async Chat Thread - #17/INFO]: [Not Secure] <Gary_750> ya se fue el alfo
+[02:45:46] [Server thread/INFO]: Gary_750 issued server command: /tp @a santino56
+[02:45:46] [Server thread/INFO]: [Gary_750: Teleported 4 entities to santino56]
+[02:46:01] [Server thread/INFO]: santino56 was slain by Lewis_Sema
+[02:46:02] [Server thread/INFO]: MUFpy was slain by Gary_750 using [Dark Repulser]
+[02:46:03] [Server thread/INFO]: Lewis_Sema was slain by Gary_750 using [Dark Repulser]
+[02:46:09] [Async Chat Thread - #18/INFO]: [Not Secure] <MUFpy> donde estba?
+[02:46:15] [Server thread/INFO]: Gary_750 issued server command: /tp @a Gary_750
+[02:46:15] [Server thread/INFO]: [Gary_750: Teleported 4 entities to Gary_750]
+[02:46:27] [Async Chat Thread - #18/INFO]: [Not Secure] <Lewis_Sema> yo no tengo nada bueno encantado
+[02:46:29] [Async Chat Thread - #18/INFO]: [Not Secure] <MUFpy> no tengo comida
+[02:46:35] [Server thread/INFO]: Gary_750 issued server command: /gamemode creative
+[02:46:35] [Server thread/INFO]: [Gary_750: Set own game mode to Creative Mode]
+[02:46:43] [Async Chat Thread - #19/INFO]: [Not Secure] <MUFpy> thanks
+[02:46:45] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[02:46:45] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[02:46:49] [Server thread/INFO]: Gary_750 issued server command: /tp @a santino56
+[02:46:49] [Server thread/INFO]: [Gary_750: Teleported 4 entities to santino56]
+[02:47:07] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[02:47:07] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[02:47:09] [Server thread/INFO]: Lewis_Sema issued server command: /kill
+[02:47:09] [Server thread/INFO]: Lewis_Sema was killed
+[02:47:09] [Server thread/INFO]: [Lewis_Sema: Killed Lewis_Sema]
+[02:47:14] [Async Chat Thread - #18/INFO]: [Not Secure] <Lewis_Sema> no tengo flechas
+[02:47:42] [Async Chat Thread - #19/INFO]: [Not Secure] <Lewis_Sema> no pe, ando farmeando niveles
+[02:47:49] [Async Chat Thread - #18/INFO]: [Not Secure] <Lewis_Sema> ño
+[02:48:39] [Async Chat Thread - #19/INFO]: [Not Secure] <MUFpy> lo perdi
+[02:48:46] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
+[02:48:46] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
+[02:48:58] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy santino56
+[02:48:58] [Server thread/INFO]: [Gary_750: Teleported MUFpy to santino56]
+[02:49:01] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
+[02:49:01] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
+[02:49:33] [Server thread/INFO]: santino56 lost connection: Disconnected
+[02:49:33] [Server thread/INFO]: santino56 left the game
+[02:49:59] [Async Chat Thread - #20/INFO]: [Not Secure] <MUFpy> traele al nalgon
+[02:50:16] [Async Chat Thread - #21/INFO]: [Not Secure] <Lewis_Sema> quieres que me venga contigo?
+[02:50:20] [Async Chat Thread - #20/INFO]: [Not Secure] <MUFpy> si
+[02:51:39] [Server thread/INFO]: MUFpy fell from a high place
+[02:51:45] [Async Chat Thread - #22/INFO]: [Not Secure] <MUFpy> garyyyy
+[02:52:06] [Server thread/INFO]: Gary_750 issued server command: /tp @a Gary_750
+[02:52:06] [Server thread/INFO]: [Gary_750: Teleported 3 entities to Gary_750]
+[02:52:26] [Server thread/INFO]: MUFpy was doomed to fall
+[02:52:31] [Async Chat Thread - #22/INFO]: [Not Secure] <MUFpy> q mrd
+[02:52:38] [Async Chat Thread - #22/INFO]: [Not Secure] <MUFpy> mas abajo
+[02:53:12] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
+[02:53:12] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
+[02:53:16] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[02:53:16] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[02:53:20] [Async Chat Thread - #23/INFO]: [Not Secure] <MUFpy> tp
+[02:53:20] [Async Chat Thread - #22/INFO]: [Not Secure] <MUFpy> p
+[02:53:29] [Async Chat Thread - #23/INFO]: [Not Secure] <Lewis_Sema> sepa
+[02:53:33] [Async Chat Thread - #22/INFO]: [Not Secure] <MUFpy> tp
+[02:53:37] [Async Chat Thread - #23/INFO]: [Not Secure] <MUFpy> pt41
+[02:53:40] [Server thread/INFO]: Gary_750 issued server command: /gamemode spectator
+[02:53:40] [Server thread/INFO]: [Gary_750: Set own game mode to Spectator Mode]
+[02:55:11] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[02:55:11] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[02:55:23] [Async Chat Thread - #24/INFO]: [Not Secure] <MUFpy> lpm
+[02:55:23] [Server thread/INFO]: Gary_750 issued server command: /gamemode survival
+[02:55:23] [Server thread/INFO]: [Gary_750: Set own game mode to Survival Mode]
+[02:55:28] [Server thread/INFO]: Gary_750 issued server command: /tp @a Gary_750
+[02:55:28] [Server thread/INFO]: [Gary_750: Teleported 3 entities to Gary_750]
+[02:55:38] [Server thread/INFO]: MUFpy has made the advancement [Eye Spy]
+[02:55:39] [Server thread/INFO]: Lewis_Sema has made the advancement [Eye Spy]
+[02:55:41] [Server thread/INFO]: Gary_750 has made the advancement [Eye Spy]

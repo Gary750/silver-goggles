@@ -15,6 +15,7 @@
       "minecraft:dripstone_caves": "2025-01-06 21:46:24 +0000",
       "minecraft:cold_ocean": "2025-01-11 05:28:27 +0000",
       "minecraft:forest": "2025-01-06 21:18:12 +0000",
+      "minecraft:flower_forest": "2025-01-12 02:46:50 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-07 17:38:14 +0000",
       "minecraft:plains": "2025-01-06 20:43:34 +0000"
     },
@@ -3204,6 +3205,12 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-01-11 07:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_orange_tulip": "2025-01-12 02:47:13 +0000"
     },
     "done": true
   },
