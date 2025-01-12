@@ -254,3 +254,11 @@
 [01:43:44] [Server thread/INFO]: Lewis_Sema was shot by Skeleton
 [01:44:35] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy
 [01:44:35] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to MUFpy]
+[01:59:07] [Server thread/INFO]: Gary_750 issued server command: /tp santino56
+[01:59:07] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to santino56]
+[02:00:49] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema
+[02:00:49] [Server thread/INFO]: [Gary_750: Teleported Gary_750 to Lewis_Sema]
+[02:01:54] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
+[02:01:54] [Server thread/INFO]: Lewis_Sema left the game
+[02:01:59] [Server thread/INFO]: Gary_750 lost connection: Disconnected
+[02:01:59] [Server thread/INFO]: Gary_750 left the game
