@@ -493,3 +493,17 @@
 [04:27:03] [Server thread/INFO]: alfo_soliz was slain by Lewis_Sema
 [04:27:12] [Server thread/INFO]: Lewis_Sema issued server command: /tp alfo_soliz Lewis_Sema
 [04:27:12] [Server thread/INFO]: [Lewis_Sema: Teleported alfo_soliz to Lewis_Sema]
+[04:28:26] [Server thread/INFO]: alfo_soliz was blown up by Creeper
+[04:28:55] [Server thread/INFO]: Lewis_Sema issued server command: /gamemode creative
+[04:28:55] [Server thread/INFO]: [Lewis_Sema: Set own game mode to Creative Mode]
+[04:30:24] [Server thread/INFO]: alfo_soliz was shot by Skeleton
+[04:32:23] [Server thread/INFO]: alfo_soliz was slain by Zombie
+[04:32:26] [Server thread/INFO]: Lewis_Sema issued server command: /gamemode survival
+[04:32:26] [Server thread/INFO]: [Lewis_Sema: Set own game mode to Survival Mode]
+[04:32:42] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
+[04:32:42] [Server thread/INFO]: Lewis_Sema left the game
+[04:33:19] [Server thread/INFO]: alfo_soliz lost connection: Disconnected
+[04:33:19] [Server thread/INFO]: alfo_soliz left the game
+[04:37:12] [User Authenticator #11/INFO]: UUID of player MUFpy is cec66472-d60f-36b0-a82f-0b4b8531fac4
+[04:37:12] [Server thread/INFO]: MUFpy joined the game
+[04:37:12] [Server thread/INFO]: MUFpy[/127.233.26.55:43583] logged in with entity id 84180 at ([world]490.6617716610526, 64.0, -200.6910424483679)
