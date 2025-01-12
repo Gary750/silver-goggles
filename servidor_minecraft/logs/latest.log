@@ -421,3 +421,13 @@
 [03:16:02] [Server thread/INFO]: Gary_750 issued server command: /tp @a Gary_750
 [03:16:02] [Server thread/INFO]: Attempt to teleport removed player Lewis_Sema restricted
 [03:16:02] [Server thread/INFO]: [Gary_750: Teleported 4 entities to Gary_750]
+[03:16:51] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
+[03:16:51] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
+[03:17:08] [Server thread/INFO]: Lewis_Sema issued server command: /tp MUFpy
+[03:17:08] [Server thread/INFO]: [Lewis_Sema: Teleported Lewis_Sema to MUFpy]
+[03:17:42] [Server thread/INFO]: Lewis_Sema lost connection: Disconnected
+[03:17:42] [Server thread/INFO]: Lewis_Sema left the game
+[03:17:44] [Server thread/INFO]: Gary_750 lost connection: Disconnected
+[03:17:44] [Server thread/INFO]: Gary_750 left the game
+[03:20:58] [Server thread/INFO]: santino56 lost connection: Disconnected
+[03:20:59] [Server thread/INFO]: santino56 left the game
