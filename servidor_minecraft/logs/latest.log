@@ -374,3 +374,50 @@
 [02:57:52] [Async Chat Thread - #24/INFO]: [Not Secure] <MUFpy> np
 [02:58:11] [Async Chat Thread - #24/INFO]: [Not Secure] <Lewis_Sema> lo esperamos
 [02:58:13] [Async Chat Thread - #24/INFO]: [Not Secure] <MUFpy> que venga el qlon
+[03:06:35] [User Authenticator #7/INFO]: UUID of player santino56 is 6bb58f52-6196-3a51-8904-6101b5e16439
+[03:06:35] [Server thread/INFO]: santino56 joined the game
+[03:06:35] [Server thread/INFO]: santino56[/127.61.141.240:37275] logged in with entity id 69359 at ([world]1566.300000011921, 68.0, 367.16758311708537)
+[03:06:44] [Server thread/INFO]: Gary_750 issued server command: /tp @a Gary_750
+[03:06:44] [Server thread/INFO]: [Gary_750: Teleported 4 entities to Gary_750]
+[03:06:45] [Server thread/INFO]: santino56 has made the advancement [Eye Spy]
+[03:07:19] [Server thread/INFO]: MUFpy tried to swim in lava
+[03:07:23] [Async Chat Thread - #27/INFO]: [Not Secure] <MUFpy> que
+[03:07:25] [Async Chat Thread - #26/INFO]: [Not Secure] <MUFpy> aaaaa
+[03:07:27] [Server thread/INFO]: Gary_750 issued server command: /tp @a Gary_750
+[03:07:27] [Server thread/INFO]: [Gary_750: Teleported 4 entities to Gary_750]
+[03:07:54] [Server thread/INFO]: Gary_750 has made the advancement [The End?]
+[03:07:55] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[03:07:55] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[03:07:58] [Server thread/INFO]: santino56 has made the advancement [The End?]
+[03:08:05] [Server thread/INFO]: MUFpy has made the advancement [The End?]
+[03:08:09] [Server thread/INFO]: Lewis_Sema has made the advancement [The End?]
+[03:08:11] [Server thread/INFO]: Gary_750 issued server command: /gamerule keepInventory
+[03:08:15] [Server thread/INFO]: Gary_750 issued server command: /gamerule keepInventory true
+[03:08:15] [Server thread/INFO]: [Gary_750: Gamerule keepInventory is now set to: true]
+[03:08:43] [Async Chat Thread - #28/INFO]: [Not Secure] <Lewis_Sema> no tengo flechas
+[03:08:47] [Async Chat Thread - #29/INFO]: [Not Secure] <MUFpy> yo si
+[03:10:28] [Server thread/INFO]: MUFpy has reached the goal [You Need a Mint]
+[03:10:29] [Server thread/INFO]: Lewis_Sema was killed by Ender Dragon using magic
+[03:10:53] [Server thread/INFO]: Gary_750 fell from a high place
+[03:11:07] [Server thread/INFO]: Gary_750 issued server command: /tp Lewis_Sema Gary_750
+[03:11:07] [Server thread/INFO]: [Gary_750: Teleported Lewis_Sema to Gary_750]
+[03:11:12] [Server thread/INFO]: Gary_750 issued server command: /tp MUFpy Gary_750
+[03:11:12] [Server thread/INFO]: [Gary_750: Teleported MUFpy to Gary_750]
+[03:12:27] [Server thread/INFO]: santino56 lost connection: Timed out
+[03:12:27] [Server thread/INFO]: santino56 left the game
+[03:12:51] [User Authenticator #8/INFO]: UUID of player santino56 is 6bb58f52-6196-3a51-8904-6101b5e16439
+[03:12:51] [Server thread/INFO]: santino56 joined the game
+[03:12:51] [Server thread/INFO]: santino56[/127.174.107.144:50405] logged in with entity id 70739 at ([world_the_end]6.579606325053016, 62.0, 2.9546565819174098)
+[03:13:16] [Async Chat Thread - #30/INFO]: [Not Secure] <MUFpy> aaaaas
+[03:13:22] [Server thread/INFO]: MUFpy fell out of the world
+[03:13:46] [Server thread/INFO]: Gary_750 issued server command: /tp @a Gary_750
+[03:13:46] [Server thread/INFO]: [Gary_750: Teleported 4 entities to Gary_750]
+[03:13:52] [Server thread/INFO]: santino56 has made the advancement [Free the End]
+[03:14:05] [Server thread/INFO]: Lewis_Sema was slain by Enderman
+[03:14:24] [Server thread/INFO]: Gary_750 has reached the goal [The Next Generation]
+[03:14:34] [Async Chat Thread - #32/INFO]: [Not Secure] <MUFpy> pon una flecha
+[03:14:36] [Server thread/INFO]: MUFpy was burnt to a crisp whilst fighting santino56
+[03:15:05] [Server thread/INFO]: Gary_750 was slain by santino56
+[03:16:02] [Server thread/INFO]: Gary_750 issued server command: /tp @a Gary_750
+[03:16:02] [Server thread/INFO]: Attempt to teleport removed player Lewis_Sema restricted
+[03:16:02] [Server thread/INFO]: [Gary_750: Teleported 4 entities to Gary_750]
