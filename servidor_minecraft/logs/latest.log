@@ -509,3 +509,57 @@
 [04:37:12] [Server thread/INFO]: MUFpy[/127.233.26.55:43583] logged in with entity id 84180 at ([world]490.6617716610526, 64.0, -200.6910424483679)
 [04:44:53] [Server thread/INFO]: MUFpy lost connection: Disconnected
 [04:44:53] [Server thread/INFO]: MUFpy left the game
+[06:48:42] [Server thread/INFO]: Stopping server
+[06:48:42] [Server thread/INFO]: [UltimateTimber] Disabling UltimateTimber v3.4.0
+[06:48:42] [Server thread/INFO]:  
+[06:48:42] [Server thread/INFO]: =============================
+[06:48:42] [Server thread/INFO]: UltimateTimber 3.4.0 by Songoda <3!
+[06:48:42] [Server thread/INFO]: Action: Disabling...
+[06:48:42] [Server thread/INFO]: =============================
+[06:48:42] [Server thread/INFO]:  
+[06:48:42] [Server console handler/ERROR]: Caught previously unhandled exception :
+java.io.IOError: java.io.IOException: Input/output error
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:170) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:110) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.keymap.BindingReader.readBinding(BindingReader.java:61) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.doReadBinding(LineReaderImpl.java:923) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readBinding(LineReaderImpl.java:956) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:651) ~[jline-reader-3.20.0.jar:?]
+	at org.jline.reader.impl.LineReaderImpl.readLine(LineReaderImpl.java:468) ~[jline-reader-3.20.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.readCommands(SimpleTerminalConsole.java:158) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecrell.terminalconsole.SimpleTerminalConsole.start(SimpleTerminalConsole.java:141) ~[terminalconsoleappender-1.3.0.jar:?]
+	at net.minecraft.server.dedicated.DedicatedServer$1.run(DedicatedServer.java:102) ~[paper-1.20.1.jar:git-Paper-196]
+Caused by: java.io.IOException: Input/output error
+	at java.io.FileInputStream.read0(Native Method) ~[?:?]
+	at java.io.FileInputStream.read(FileInputStream.java:228) ~[?:?]
+	at org.jline.terminal.impl.AbstractPty$PtyInputStream.read(AbstractPty.java:73) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.utils.NonBlockingInputStream.read(NonBlockingInputStream.java:62) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.utils.NonBlocking$NonBlockingInputStreamReader.read(NonBlocking.java:168) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.utils.NonBlockingReader.read(NonBlockingReader.java:57) ~[jline-terminal-3.21.0.jar:?]
+	at org.jline.keymap.BindingReader.readCharacter(BindingReader.java:160) ~[jline-reader-3.20.0.jar:?]
+	... 9 more
+[06:48:42] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[06:48:42] [Server thread/INFO]: Saving players
+[06:48:42] [Server thread/INFO]: Saving worlds
+[06:48:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06:48:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[06:48:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[06:48:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[06:48:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 335 entity chunks, 0 poi chunks in world 'world' in 0.07s
+[06:48:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06:48:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[06:48:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[06:48:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[06:48:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[06:48:43] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 64 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[06:48:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06:48:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[06:48:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[06:48:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[06:48:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[06:48:43] [Server thread/INFO]: [ChunkHolderManager] Saved 1179 block chunks, 39 entity chunks, 0 poi chunks in world 'world_the_end' in 0.34s
+[06:48:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06:48:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06:48:43] [Server thread/INFO]: Flushing Chunk IO
+[06:48:43] [Server thread/INFO]: Closing Thread Pool
+[06:48:43] [Server thread/INFO]: Closing Server
